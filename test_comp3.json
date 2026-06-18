@@ -1,0 +1,2510 @@
+[
+  {
+    "company": {
+      "country": "France",
+      "country_name": "France",
+      "description": "Mantle8 is a French geoscience company pioneering natural hydrogen exploration. The company combines geology, geophysics and geochemistry data to create predictive multiphysics imaging models (HOREX®) for detecting and characterizing natural hydrogen systems. It targets energy and clean-tech markets, aiming to industrialize its technology platform and enable faster, larger-scale exploration. Mantle8 is headquartered in Grenoble and builds on the region's established geoscience expertise.",
+      "id": "9e48f3d1f0daeefb6cf5fcb1d10d6f7dfa6804854e76cc1d547b4e9f96762e36",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/mantle8",
+      "name": "Mantle8",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "a3e47e66f3bb4551945a52005d036ac7",
+          "name": "Mining & Metals",
+          "slug": "mining-metals"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9e48f3d1f0daeefb6cf5fcb1d10d6f7dfa6804854e76cc1d547b4e9f96762e36",
+    "currency": "EUR",
+    "fundingAmount": "31M",
+    "fundingAnnounceDate": "2026-05-13",
+    "id": "9672_14351",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Mesabi Metallics (an Essar Group company) is developing the first new iron ore mine and pellet plant in Minnesota in nearly 50 years. The company is constructing a 7 million metric ton per year facility to produce direct-reduction grade iron ore pellets, supporting US steel supply chain and green steel transition.",
+      "id": "e0c88823277882198ecf8d62a5712119669bf05ffc847a317672d8c0b377ae7f",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/mesabi-metallics",
+      "name": "Mesabi Metallics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "a3e47e66f3bb4551945a52005d036ac7",
+          "name": "Mining & Metals",
+          "slug": "mining-metals"
+        },
+        {
+          "category": "vertical",
+          "id": "fd9e78ca7f3347109072b68e0ba88fbd",
+          "name": "Supply Chain",
+          "slug": "supply-chain"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "e0c88823277882198ecf8d62a5712119669bf05ffc847a317672d8c0b377ae7f",
+    "currency": "USD",
+    "fundingAmount": "520M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "10882_12589",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "MiRus is a privately-held medical device company headquartered in Marietta, Georgia, developing biomaterials, implants and procedural solutions for cardiovascular, structural heart, spine and orthopedic conditions. Its lead cardiovascular program is the SIEGEL balloon-expandable transcatheter aortic valve, which uses a proprietary nitric-oxide-coated rhenium alloy frame and is delivered through an 8 French sheath roughly half the size of currently marketed TAVR sheaths.",
+      "id": "8e38ded16f33bbd9239b6ee6e43c605ef7b228ca9edaad62023eabbe99148c61",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/mirusmed",
+      "name": "MiRus",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "05f75c20187c40158dd20f3b0ce55f98",
+          "name": "Medical Devices",
+          "slug": "medical-devices"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "8e38ded16f33bbd9239b6ee6e43c605ef7b228ca9edaad62023eabbe99148c61",
+    "currency": "USD",
+    "fundingAmount": "1.5B",
+    "fundingAnnounceDate": "2026-05-18",
+    "id": "13597_14953",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "China",
+      "country_name": "China",
+      "description": "MicroCyto (Weiyuan Synthesis) is a Beijing-based synthetic-biology company founded in 2022 that makes bio-based raw materials for pharmaceuticals, personal care, agriculture, food, feed, and industrial materials. Its AI-driven biocomputation platform handles strain and pathway design; current SKUs include sugar alcohols, rare sugars, natural pigments, and active molecules produced via green biomanufacturing. The team published a collaborative AI-biocomputing platform at ICLR 2026.",
+      "id": "a8049c85257cf566255dcebb1a9321cfc1eb35769ddd9f1ba53286e7a1952f2c",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/microcyto微元合成",
+      "name": "MicroCyto (Weiyuan Synthesis)",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "12715f02b7634107ba166b5facca13a8",
+          "name": "Beauty & Personal Care",
+          "slug": "beauty-personal-care"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "e1de551a01a542aaa4cca444326c6f9e",
+          "name": "Synthetic Biology",
+          "slug": "synthetic-biology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a8049c85257cf566255dcebb1a9321cfc1eb35769ddd9f1ba53286e7a1952f2c",
+    "currency": "CNY",
+    "fundingAmount": "300M",
+    "fundingAnnounceDate": "2026-03-30",
+    "id": "11409_13267",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Mind Robotics is an industrial AI and robotics startup building AI-powered robots for manufacturing and industrial applications. The company develops systems focused on dexterity, adaptation, and physical reasoning to automate factory floors, logistics, and supply chains, prioritizing practical, non-humanoid robot designs. It leverages operational data from automotive manufacturing partners to train and deploy robots tailored to real-world industrial tasks. Headquarters are reported in Palo Alto, with operational ties to multiple manufacturing sites.",
+      "id": "9b5f1940b3b325e8a8764f1438b770259b7dfd8bf398706b111b2045cd050507",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/mindrobotics",
+      "name": "Mind Robotics",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        },
+        {
+          "category": "vertical",
+          "id": "fd9e78ca7f3347109072b68e0ba88fbd",
+          "name": "Supply Chain",
+          "slug": "supply-chain"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9b5f1940b3b325e8a8764f1438b770259b7dfd8bf398706b111b2045cd050507",
+    "currency": "USD",
+    "fundingAmount": "400M",
+    "fundingAnnounceDate": "2026-05-13",
+    "id": "9750_14371",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "Mykor is a Bristol-based biotech startup turning industrial and agricultural waste into low-carbon construction materials. Its biofabrication platform combines engineered mycelium strains, green chemistry and closed-loop automated manufacturing to produce insulation and prefabricated wall systems. The first product, MykoSIP, is a preassembled partition wall that the company says delivers roughly 50% carbon savings versus incumbent systems while meeting fire, acoustic and cost requirements.",
+      "id": "9521aab945d45818de76e2d10c19c76c21952732f91e162dd4ebcecf087da33b",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/mykor",
+      "name": "Mykor",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "vertical",
+          "id": "e96097ba84494eb09b3f733e349998b1",
+          "name": "Constructiontech",
+          "slug": "constructiontech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9521aab945d45818de76e2d10c19c76c21952732f91e162dd4ebcecf087da33b",
+    "currency": "GBP",
+    "fundingAmount": "4M",
+    "fundingAnnounceDate": "2026-05-27",
+    "id": "13491_14899",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "NEURA Robotics is a German high-tech company pioneering cognitive and humanoid robotics, developing AI-powered robots that work seamlessly with humans in industries such as manufacturing, logistics, and healthcare. Founded in 2019, it has rapidly grown to over 300 employees and leads in cognitive cobots and humanoid robots.",
+      "id": "mjIiHcArVk8qG9rzqq0C",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/neura-robotics",
+      "name": "NEURA Robotics",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "98bcec661ec74211bc6fd4ecf1b6bcd8",
+          "name": "Logistics",
+          "slug": "logistics"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "mjIiHcArVk8qG9rzqq0C",
+    "currency": "USD",
+    "fundingAmount": "1.4B",
+    "fundingAnnounceDate": "2026-06-10",
+    "id": "4537_15593",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "France",
+      "country_name": "France",
+      "description": "NOC Energy builds hybrid industrial heating systems that let cement and glass factories switch between electricity and fossil fuels on the fly. Its induction coil technology runs at lower temperatures than conventional alternatives, letting plants exploit cheap grid electricity while keeping fossil infrastructure as backup. The Houston-based climatetech startup is incubated at Greentown Labs and is running pilots with multinational cement and glass manufacturers.",
+      "id": "588c72188d4b4efa77ddf80049b3ec971457edd73168ab78b920f5f075350c2f",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/nocenergy",
+      "name": "NOC Energy",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "e48ead4255dd4c05b478c9030af03139",
+          "name": "Climate Tech",
+          "slug": "climate-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "588c72188d4b4efa77ddf80049b3ec971457edd73168ab78b920f5f075350c2f",
+    "currency": "USD",
+    "fundingAmount": "2.7M",
+    "fundingAnnounceDate": "2026-04-20",
+    "id": "11486_13348",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Switzerland",
+      "country_name": "Switzerland",
+      "description": "NanoZymeX is a nanobiotechnology startup spun out of the University of Basel, developing next-generation enzyme replacement therapies using proprietary lipid-based nanoparticles. The company's platform improves the delivery of therapeutic enzymes directly into target cells and lysosomes, increasing functional activity in affected tissues while reducing immune reactions. NanoZymeX targets lysosomal storage disorders including Pompe disease, representing a multibillion-dollar therapeutic market.",
+      "id": "6a579ff2a0f06813ec58d43ac6e8416f7008593e8eb2ba4bbcb289058a65e60f",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/nanozymex",
+      "name": "NanoZymeX",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "1ea7dc6930ae40da8994161409efe7fe",
+          "name": "Nanotechnology",
+          "slug": "nanotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "3d3230769cec4d2f80067a9f5e8d5493",
+          "name": "Early Stage",
+          "slug": "early-stage"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "6a579ff2a0f06813ec58d43ac6e8416f7008593e8eb2ba4bbcb289058a65e60f",
+    "currency": "EUR",
+    "fundingAmount": "160K",
+    "fundingAnnounceDate": "2026-03-24",
+    "id": "10420_12042",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "Naturbeads is a sustainable materials startup and University of Bath spin-out that develops 100% biodegradable cellulose-based microspheres. Their technology replaces harmful microplastics in cosmetics, paints, coatings, and detergents with cost-competitive, high-performance natural alternatives.",
+      "id": "a63fd35410c2547cfe1367ca9a972f3dc7fee54028e07379781fb1c35e97acce",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/naturbeads",
+      "name": "Naturbeads",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "12715f02b7634107ba166b5facca13a8",
+          "name": "Beauty & Personal Care",
+          "slug": "beauty-personal-care"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "vertical",
+          "id": "f4d04418fefd41c8a6748af6ab7cec25",
+          "name": "Materials Science",
+          "slug": "materials-science"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a63fd35410c2547cfe1367ca9a972f3dc7fee54028e07379781fb1c35e97acce",
+    "currency": "EUR",
+    "fundingAmount": "4.1M",
+    "fundingAnnounceDate": "2026-04-23",
+    "id": "11642_13498",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Australia",
+      "country_name": "Australia",
+      "description": "New Energy Transport (NET) is an Australian zero-emission road freight company building what it bills as the country's first vertically integrated electric trucking platform, operating electric prime movers powered by renewable energy. NET combines its own trucks, charging depots and energy procurement in-house so it can offer electric line-haul freight at diesel-equivalent cost, and is constructing Australia's largest planned heavy electric truck depot at Wilton, NSW. The company deploys modular mobile ultra-fast charging units along freight corridors to extend zero-emission haulage into regional routes.",
+      "id": "20a71609e4fe3ddda3f1cd2e74cc04340e17909ace35b54991febda36bfb1234",
+      "industry": {
+        "id": "d15fdcd6613f4d9893bad1c011565916",
+        "name": "Transportation & Logistics",
+        "slug": "transportation-logistics"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/new-energy-transport",
+      "name": "New Energy Transport",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "577b156b66e54e5a88e8ce956c5ca305",
+          "name": "Freight & Shipping",
+          "slug": "freight-shipping"
+        },
+        {
+          "category": "vertical",
+          "id": "cf21929d5eeb44a0906c84a5475e4301",
+          "name": "Electric Vehicles",
+          "slug": "electric-vehicles"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "20a71609e4fe3ddda3f1cd2e74cc04340e17909ace35b54991febda36bfb1234",
+    "currency": "AUD",
+    "fundingAmount": "5M",
+    "fundingAnnounceDate": "2026-06-15",
+    "id": "14620_15827",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Norway",
+      "country_name": "Norway",
+      "description": "OTee is a Norwegian industrial-automation company building a software-defined control platform that replaces traditional PLC hardware with virtual PLCs running on open, off-the-shelf Linux devices. Its platform lets engineers design, deploy, and centrally manage control systems across many sites without vendor lock-in, targeting energy, utilities, and manufacturing operators. The company was co-founded in 2022 out of the Antler programme by former ABB executive Henrik Pedersen and CTO Radek Janik, and now employs 21 people from 13 countries.",
+      "id": "43b1a6279e85c96056a632d872ae6ec1e9d1e6fe83d18b37b9ee457150b26218",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/otee-io",
+      "name": "OTee",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "43b1a6279e85c96056a632d872ae6ec1e9d1e6fe83d18b37b9ee457150b26218",
+    "currency": "EUR",
+    "fundingAmount": "5.3M",
+    "fundingAnnounceDate": "2026-04-28",
+    "id": "11838_13710",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "OnKure Therapeutics is a clinical-stage biopharmaceutical company committed to the discovery and development of best-in-class precision medicines targeting biologically validated drivers of cancer. Using a proven structure-based drug design platform, the company is building a pipeline of drug candidates designed for optimal tolerability and efficacy, with its lead program OKI-219 targeting a selective PI3KαH1047R inhibitor and next-generation pan-mutant PI3Kα candidates for HR+ metastatic breast cancer and vascular anomalies. Founded in 2011 and co-founded by CU Boulder researcher Xuedong Liu, the company trades on NASDAQ as OKUR.",
+      "id": "bca8daf92f550392bb6be59a196a1512b3c1f90f603ebb0e9edcd34bcbc18642",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/onkure-tx/",
+      "name": "OnKure Therapeutics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "bca8daf92f550392bb6be59a196a1512b3c1f90f603ebb0e9edcd34bcbc18642",
+    "currency": "USD",
+    "fundingAmount": "150M",
+    "fundingAnnounceDate": "2026-03-27",
+    "id": "10633_12306",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "Canada",
+      "country_name": "Canada",
+      "description": "Opalia is a Montreal-based food-tech startup developing cell-based dairy by cultivating immortalised bovine mammary cells in proprietary modular bioreactors to produce whole milk and downstream products such as butter, cream, cheese and yoghurt without the cow. Founded in 2020 by CEO Jennifer Côté and CTO Lucas House, the company sells its serum-free cell-cultivated milk as a B2B ingredient that drops into existing dairy supply chains, with a first commercial supply agreement signed with Dutch dairy giant Hoogwegt and regulatory submissions underway in Canada and the United States.",
+      "id": "ffd1d0731b2b6fffb9bd142dd3422b4f38c445f398b9e76389ff15af7815fee3",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/opaliafoods",
+      "name": "Opalia",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "ffd1d0731b2b6fffb9bd142dd3422b4f38c445f398b9e76389ff15af7815fee3",
+    "currency": "CAD",
+    "fundingAmount": "3.2M",
+    "fundingAnnounceDate": "2026-04-30",
+    "id": "12825_14461",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Australia",
+      "country_name": "Australia",
+      "description": "Oscorp Energy is a Sydney-based robotics startup building AI-powered vision and robotic systems that identify, classify and remove materials from fast-moving waste and recycling streams in real time. Its first product targets lithium-ion batteries, autonomously detecting and removing them before they spark fires in collection trucks, material recovery facilities and recycling sites. The company aims to grow into a broader \"Vision OS\" platform giving waste operators live intelligence on material flow, contamination and recovery performance.",
+      "id": "abcfbb41c7f9939fb2ac7021d7ab309286f4c3a05bb927b8ff58cab28eb15c3a",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/oscorp-energy",
+      "name": "Oscorp Energy",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7418c003979341279dedbd2846f418ee",
+          "name": "Waste Management",
+          "slug": "waste-management"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "abcfbb41c7f9939fb2ac7021d7ab309286f4c3a05bb927b8ff58cab28eb15c3a",
+    "currency": "AUD",
+    "fundingAmount": "1.3M",
+    "fundingAnnounceDate": "2026-06-05",
+    "id": "14237_15386",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "P2 Science is a Connecticut-based green chemistry company that designs and manufactures plant-based specialty ingredients for personal care, flavor and fragrance, and performance materials. Co-founded at Yale's Center for Green Chemistry, it makes drop-in replacements for petroleum-derived ingredients like petrolatum and is expanding into polymers, coatings, and crop care.",
+      "id": "99d28d0e3e4cd8e2b10b723be3b69b9d725359f7972d65bf996683d3722b2b63",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/p2-science-inc-",
+      "name": "P2 Science",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "12715f02b7634107ba166b5facca13a8",
+          "name": "Beauty & Personal Care",
+          "slug": "beauty-personal-care"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "31feb9b099e747daa43f444edf085610",
+          "name": "Chemicals",
+          "slug": "chemicals"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "99d28d0e3e4cd8e2b10b723be3b69b9d725359f7972d65bf996683d3722b2b63",
+    "currency": "USD",
+    "fundingAmount": "23M",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13395_14862",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "Pacifico Biolabs is a Berlin-based food biotech developing scalable mycelium-fermented seafood and protein alternatives by repurposing brewery fermentation infrastructure for sustainable protein production.",
+      "id": "d9bd7b2b0206af243a77a0a6fae0498a9340e5151497c8608d6c18553b11cf0b",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/pacifico-biolabs",
+      "name": "Pacifico Biolabs",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "d9bd7b2b0206af243a77a0a6fae0498a9340e5151497c8608d6c18553b11cf0b",
+    "currency": "EUR",
+    "fundingAmount": "7M",
+    "fundingAnnounceDate": "2026-05-27",
+    "id": "13435_14880",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Pathway Power is a San Diego-based independent power producer (IPP) developing utility-scale hybrid and battery energy storage (BESS) projects across U.S. RTO markets, purpose-built for large-load customers, utilities, and grid operators. Its pipeline comprises 13 late-stage hybrid and storage projects totaling roughly 3.2 GWac, targeting load growth from data centers and reshoring in congested grid markets. The founding team previously led BayWa r.e. and brings deep utility-scale solar and storage development experience.",
+      "id": "cf1491e12c5fca951f8e998a9483c8083b12dc8241cf64127428ea6c63c19e3e",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/pathway-power-llc",
+      "name": "Pathway Power",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "cf1491e12c5fca951f8e998a9483c8083b12dc8241cf64127428ea6c63c19e3e",
+    "currency": "USD",
+    "fundingAmount": "150M",
+    "fundingAnnounceDate": "2026-06-08",
+    "id": "14615_15821",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Pearl Diagnostics is a Baltimore-based biotech spun out of Johns Hopkins University in 2014 that builds non-invasive urine-based diagnostic tests for lung infections. Its flagship MycoMEIA Aspergillus urine assay, which received FDA 510(k) clearance in August 2025 and CE approval for the EU, replaces invasive bronchoalveolar lavage procedures used to detect aspergillosis in transplant recipients, cancer patients, and immunocompromised individuals. The company is extending the same antigen-detection platform to other fungal and bacterial pathogens, including a Pseudomonas assay for cystic fibrosis patients.",
+      "id": "6d90535d470d688e960e8071b6fe56212b69382166d852fd023c03671de4fcef",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/pearl-diagnostics",
+      "name": "Pearl Diagnostics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "ba16ac276e3846569323709a603b9d3e",
+          "name": "Diagnostics",
+          "slug": "diagnostics"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "6d90535d470d688e960e8071b6fe56212b69382166d852fd023c03671de4fcef",
+    "currency": "USD",
+    "fundingAmount": "11.2M",
+    "fundingAnnounceDate": "2026-04-23",
+    "id": "11675_13536",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Israel",
+      "country_name": "Israel",
+      "description": "Phytolon is an Israeli biotech developing fermentation-derived natural food colors using engineered baker's yeast. Its first commercial pigment, Beetroot Red, received FDA approval in 2026 and targets bakery, beverage, confectionery, and supplement makers seeking clean-label alternatives to synthetic dyes. The company spans pink, red, orange, and yellow shades across the food and beverage supply chain.",
+      "id": "5648a2ad1a7cccfadfb8b43d91a46d4c6fd5b5174879cac88eca3cc481e29a4f",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/phytolon",
+      "name": "Phytolon",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "vertical",
+          "id": "89273f46cfbe49e68f64d701c979676d",
+          "name": "Consumer Goods",
+          "slug": "consumer-goods"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "5648a2ad1a7cccfadfb8b43d91a46d4c6fd5b5174879cac88eca3cc481e29a4f",
+    "currency": "USD",
+    "fundingAmount": "23.6M",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13397_14864",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Switzerland",
+      "country_name": "Switzerland",
+      "description": "Planetary is a Swiss full-stack fermentation company that builds, owns, and operates biomanufacturing facilities to produce bio-based food ingredients at industrial scale. Its BioBlocks platform spans bioprocess design, scale-up, and manufacturing, with mycoprotein commercialization via a nationwide ALDI Suisse launch at price parity and ongoing roll-outs across Europe under its B2B Libre brand. The company licenses its sugar-to-protein upcycling technology to agro-industrial partners in sucrose-rich regions and operates industrial-scale production in Aarberg, Switzerland.",
+      "id": "e15d57ad2f31fd6c6e63b83f578e69a8331fb5af423e0bbe4e52636fd9bce85e",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/planetarygroup",
+      "name": "Planetary Group",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "e15d57ad2f31fd6c6e63b83f578e69a8331fb5af423e0bbe4e52636fd9bce85e",
+    "currency": "EUR",
+    "fundingAmount": "17M",
+    "fundingAnnounceDate": "2026-04-20",
+    "id": "11495_13357",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "PlantSwitch makes compostable food-service products — cups, cutlery, bowls — engineered to feel and function like petroleum plastic but break down naturally within about ten weeks. The Sanford, North Carolina company converts agricultural waste such as rice hulls and wheat straw into a drop-in bioplastic resin sold to 100+ customers including Taylor Farms, Starlink, Live Nation, and SoFi Stadium.",
+      "id": "ef33c9032585959881019304215e7eb1409fafadf27e2f26b56dfab81e9b7ea2",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/plantswitch",
+      "name": "PlantSwitch",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "ef33c9032585959881019304215e7eb1409fafadf27e2f26b56dfab81e9b7ea2",
+    "currency": "USD",
+    "fundingAmount": "17M",
+    "fundingAnnounceDate": "2026-05-22",
+    "id": "13381_14856",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Podium Automation specializes in rapid design and fabrication of custom UL 508A-listed industrial control panels, using software and automation to deliver panels in days instead of months.",
+      "id": "49509d1cca4c7b2363e36707020745c48c577f8e931baa8aa54df11279a782c7",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/podium-automation",
+      "name": "Podium Automation",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "3d3230769cec4d2f80067a9f5e8d5493",
+          "name": "Early Stage",
+          "slug": "early-stage"
+        },
+        {
+          "category": "model",
+          "id": "4ce9228d1ec64fb6a7b0a1a4a46bf102",
+          "name": "Enterprise",
+          "slug": "enterprise"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "tech",
+          "id": "b92b636a548d48ac87b1bc1c67487d42",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "category": "vertical",
+          "id": "c4302ab6f1fd4474804153510329e7a0",
+          "name": "Electronics Manufacturing",
+          "slug": "electronics-manufacturing"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        },
+        {
+          "category": "vertical",
+          "id": "fd9e78ca7f3347109072b68e0ba88fbd",
+          "name": "Supply Chain",
+          "slug": "supply-chain"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "49509d1cca4c7b2363e36707020745c48c577f8e931baa8aa54df11279a782c7",
+    "currency": "USD",
+    "fundingAmount": "18M",
+    "fundingAnnounceDate": "2026-06-15",
+    "id": "8978_15813",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Jaipur-based integrated smart metering solutions provider delivering end-to-end Advanced Metering Infrastructure (AMI) capabilities across meter manufacturing, deployment, and data management. Executing over 10 million smart electricity meters and 1.6 million smart gas meters across India with manufacturing capacity of 5 million units per year. Enables rural and urban consumers to access reliable energy and optimize electricity expenses via mobile.",
+      "id": "9d9e80dd5cf14a72ce5b62374702b78c0eed221c609611eb5270eee8622df198",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/polarissmartmetering",
+      "name": "Polaris Smart Metering",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec968153a34436f88826c0d57fe433e",
+          "name": "Smart Cities",
+          "slug": "smart-cities"
+        },
+        {
+          "category": "tech",
+          "id": "bfd4222565e14d96ad62f6a9d8d2c7ca",
+          "name": "IoT",
+          "slug": "iot"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9d9e80dd5cf14a72ce5b62374702b78c0eed221c609611eb5270eee8622df198",
+    "currency": "USD",
+    "fundingAmount": "80M",
+    "fundingAnnounceDate": "2026-04-16",
+    "id": "11450_13316",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "Primogene is a Leipzig-based biotechnology company founded in 2023 that uses a multi-enzyme platform to manufacture complex bioactive molecules — including human milk oligosaccharides such as DSLNT and LNDFH I — at industrial scale, identical to their natural counterparts. The platform sidesteps cost and complexity limits of conventional fermentation, and supplies functional ingredients for infant nutrition, adult and senior health, personal care, and pharmaceutical raw materials.",
+      "id": "3d7128b8542517a4724cefd9c687d22f3e31f13e165ada5288a8d697b26dfab8",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/primogene",
+      "name": "Primogene",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "f24da97e6a564994958b532e5a5bc48a",
+          "name": "Nutrition",
+          "slug": "nutrition"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "3d7128b8542517a4724cefd9c687d22f3e31f13e165ada5288a8d697b26dfab8",
+    "currency": "EUR",
+    "fundingAmount": "4.1M",
+    "fundingAnnounceDate": "2026-04-29",
+    "id": "11905_13786",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Protuoso Biosciences develops multifunctional biologics — branded MUXBODIES, fully recombinant fusion proteins that combine multiple modalities in one molecule — for cardiometabolic, oncology, and autoimmune diseases. The company pairs AI-enabled protein engineering, computational protein design, and massively parallel synthetic biology with a hub-and-spoke operating model: a shared discovery platform at the hub feeds therapeutic-area-focused spokes. Co-founded by Tim Lu and Willie Xiang and headquartered in San Francisco with R&D in Taipei.",
+      "id": "86742a7a5db68ec11d4df9989419bf828f60209d198fc36386c9e7d39b3027f3",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/protuoso-bio",
+      "name": "Protuoso Biosciences",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e1de551a01a542aaa4cca444326c6f9e",
+          "name": "Synthetic Biology",
+          "slug": "synthetic-biology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "86742a7a5db68ec11d4df9989419bf828f60209d198fc36386c9e7d39b3027f3",
+    "currency": "USD",
+    "fundingAmount": "9.5M",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13401_14866",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Psilera is a Tampa, Florida-based biopharmaceutical company developing next-generation neuroplastogens and psychedelic-inspired therapies for neurological and psychiatric disorders. Its lead candidate, PSIL-006, is engineered to retain the therapeutic benefits of classical psychedelics while reducing hallucinogenic effects and cardiovascular risks, with first-in-human studies targeted for 2027.",
+      "id": "f13cae272f0c8cbeef466bc986c341b23f57110baafda5d7fbd20fb734333c4f",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/psilera",
+      "name": "Psilera",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "e0106ad5dc3e437cabaadfde94003132",
+          "name": "Mental Health",
+          "slug": "mental-health"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f13cae272f0c8cbeef466bc986c341b23f57110baafda5d7fbd20fb734333c4f",
+    "currency": "USD",
+    "fundingAmount": "8.8M",
+    "fundingAnnounceDate": "2026-05-28",
+    "id": "13583_14945",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "China",
+      "country_name": "China",
+      "description": "Pudu Robotics, founded in 2016 and headquartered in Shenzhen's Nanshan district, designs and manufactures commercial service robots used for indoor delivery, cleaning, disinfection, and industrial logistics. Its product lines include the BellaBot and KettyBot service robots as well as the newer PUDU T150 and T300 industrial delivery robots, powered by in-house navigation, multi-robot scheduling, motion-control, and embodied-AI stacks. The company has shipped over 120,000 units to clients such as Carrefour, Walmart, and EDEKA across 80+ countries, and operates R&D centres in Chengdu and Hong Kong alongside a newly opened U.S. headquarters.",
+      "id": "d44b5cf24c1e7908dd26658e779d1b4b81f1b84608b5bae91974efef64d8e634",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/pudurobotics",
+      "name": "Pudu Robotics",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "stage",
+          "id": "fdc049bb90d9416098e59e14cd58e9b4",
+          "name": "Unicorn",
+          "slug": "unicorn"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "d44b5cf24c1e7908dd26658e779d1b4b81f1b84608b5bae91974efef64d8e634",
+    "currency": "USD",
+    "fundingAmount": "150M",
+    "fundingAnnounceDate": "2026-04-23",
+    "id": "11667_13524",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "QuberTech is a Norwich-based biotechnology company using engineering biology and precision breeding to produce natural rubber and other bio-based compounds from gene-edited dandelions cultivated in controlled, indoor growing systems. Founded in 2025 and based at Norwich Research Park, it aims to offer a localised, climate-resilient alternative to imported tropical rubber for sectors spanning automotive, healthcare, manufacturing and defence.",
+      "id": "db43a1f46410e77cb7b527160742c701e4c0a531ccefc1c5f824055d914d3992",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/qubertech",
+      "name": "QuberTech",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "673e3f72326d4a41bdce7580c104b98e",
+          "name": "Defense",
+          "slug": "defense"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "vertical",
+          "id": "e1de551a01a542aaa4cca444326c6f9e",
+          "name": "Synthetic Biology",
+          "slug": "synthetic-biology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "db43a1f46410e77cb7b527160742c701e4c0a531ccefc1c5f824055d914d3992",
+    "currency": "GBP",
+    "fundingAmount": "3.4M",
+    "fundingAnnounceDate": "2026-05-20",
+    "id": "13068_14697",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "France",
+      "country_name": "France",
+      "description": "ROSI is a French cleantech company developing high-value photovoltaic module recycling technology that recovers silver, silicon, copper, aluminium and glass from end-of-life solar panels for the European circular-economy supply chain.",
+      "id": "a95ca8df010922943fa15651043e60f9e4ad4469f8470c0da86ccf6b078eae2b",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/rosi-solar",
+      "name": "ROSI",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a95ca8df010922943fa15651043e60f9e4ad4469f8470c0da86ccf6b078eae2b",
+    "currency": "EUR",
+    "fundingAmount": "20M",
+    "fundingAnnounceDate": "2026-04-29",
+    "id": "12824_14460",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Radical Numerics is a San Francisco AI research lab building toward \"general biological intelligence\" - multimodal AI systems designed to read, write and design across DNA, RNA and proteins for applications spanning human health and biodefense. Founded by the team behind the Evo and Evo 2 genomic language models (Eric Nguyen, Michael Poli, Stefano Massaroli and Armin Thomas, several with Stanford and Liquid AI backgrounds), it is developing next-generation models such as the Omnii genomic language model. The company launched out of stealth in June 2026 with a $50M seed round.",
+      "id": "f47a99bf40f77ef9754ab5e7fdf41e5d466fdf81a49457e094f398026c8450b1",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/radical-numerics",
+      "name": "Radical Numerics",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "c992748dc4994982bb64043dacd97e5a",
+          "name": "Genomics",
+          "slug": "genomics"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f47a99bf40f77ef9754ab5e7fdf41e5d466fdf81a49457e094f398026c8450b1",
+    "currency": "USD",
+    "fundingAmount": "50M",
+    "fundingAnnounceDate": "2026-06-15",
+    "id": "14610_15814",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Ray Therapeutics is a Berkeley, California clinical-stage biopharmaceutical company developing optogenetic gene therapies to restore vision in patients with retinal degenerative diseases. Its approach delivers a bioengineered, highly light-sensitive protein to surviving retinal cells via a single intravitreal injection, aiming to restore functional sight regardless of the underlying genetic mutation. Lead candidate RTx-015 is in clinical development for retinitis pigmentosa and holds FDA Regenerative Medicine Advanced Therapy (RMAT) designation, while second program RTx-021 targets macular conditions such as Stargardt disease and geographic atrophy.",
+      "id": "d012bb94554b68b1ba765b30bc81392362b1be1beeee89b471084c24cd0d2495",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/ray-therapeutics-inc",
+      "name": "Ray Therapeutics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "d012bb94554b68b1ba765b30bc81392362b1be1beeee89b471084c24cd0d2495",
+    "currency": "USD",
+    "fundingAmount": "125M",
+    "fundingAnnounceDate": "2026-04-21",
+    "id": "11612_13466",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Red Metals is a Charleston, South Carolina-based copper manufacturer working to reshore U.S. copper refining. It combines processing, sorting, and refining into a single integrated operation that converts copper feedstocks, initially domestic copper scrap, directly into finished products such as high-conductivity copper rod, using fewer steps and less energy than conventional methods. Founded in 2025 by Jackson Switzer, the company is building its first 42,000-square-foot facility in North Charleston to supply power infrastructure, data center, electrification and defense demand.",
+      "id": "5b6093f8adf51bb0edd38402338c71155f4c546896aea8b2cef3adf63b675fb5",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/redmetals",
+      "name": "Red Metals",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "673e3f72326d4a41bdce7580c104b98e",
+          "name": "Defense",
+          "slug": "defense"
+        },
+        {
+          "category": "vertical",
+          "id": "a3e47e66f3bb4551945a52005d036ac7",
+          "name": "Mining & Metals",
+          "slug": "mining-metals"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "5b6093f8adf51bb0edd38402338c71155f4c546896aea8b2cef3adf63b675fb5",
+    "currency": "USD",
+    "fundingAmount": "10M",
+    "fundingAnnounceDate": "2026-06-05",
+    "id": "14209_15341",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Mexico",
+      "country_name": "Mexico",
+      "description": "RedGirasol is a Monterrey-based Mexican fintech and CNBV-regulated collective financing institution (IFC) operating under Mexico's Ley Fintech. For more than a decade it has connected retail and institutional investors with loans for solar-energy and other sustainable, productive projects, offering products such as Inversión Evergreen plus a secondary market that gives investors added liquidity. It positions itself as one of Mexico's leading impact-investing and green-lending platforms.",
+      "id": "1beb436cd3a66992223501041ac2a7613929940ab78a8ed7be07e0bba8282e56",
+      "industry": {
+        "id": "76264a88c17f405983512d389c6fd7c9",
+        "name": "Financial Services",
+        "slug": "financial-services"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/redgirasol",
+      "name": "RedGirasol",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "93143141f23f4e73ba523512f7e639e8",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "vertical",
+          "id": "ffb8b9445a2f419898a1ac680504c8fb",
+          "name": "Crowdfunding",
+          "slug": "crowdfunding"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "1beb436cd3a66992223501041ac2a7613929940ab78a8ed7be07e0bba8282e56",
+    "currency": "MXN",
+    "fundingAmount": "100M",
+    "fundingAnnounceDate": "2026-05-25",
+    "id": "14426_15616",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Rejuvenate Bio is a San Diego-based biotechnology company developing gene therapies that target the root biological drivers of aging and chronic, age-related disease. Its platform applies gene delivery, epigenetic reprogramming and longevity science to treat conditions such as osteoarthritis, heart disease and cancer, beginning in companion animals like dogs before extending to human health. The company pairs its veterinary pipeline with longer-term human therapeutic ambitions.",
+      "id": "9358892d621502530080fc34e38eac30149aacb6199ad376076ee84268dcf958",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/rejuvenate-bio",
+      "name": "Rejuvenate Bio",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "924a16bfb21d480f9de917a957d74f65",
+          "name": "Veterinary Services",
+          "slug": "veterinary-services"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9358892d621502530080fc34e38eac30149aacb6199ad376076ee84268dcf958",
+    "currency": "USD",
+    "fundingAmount": "6M",
+    "fundingAnnounceDate": "2026-06-08",
+    "id": "14286_15454",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Australia",
+      "country_name": "Australia",
+      "description": "Renewable Metals is a Perth-based clean-tech company commercialising a proprietary alkali-based hydrometallurgical process that recovers more than 95% of lithium, cobalt, nickel, copper and manganese from end-of-life lithium-ion batteries. Its single-line modular plants handle NMC and LFP chemistries together at far lower capital intensity than conventional facilities, targeting Western supply chains for critical minerals. The company is operating a commercial prototype plant in Kewdale, Western Australia, and planning a first commercial-scale facility in the Hunter region of New South Wales.",
+      "id": "15e97d3391fb6deb9a04b4d2df42c643efbeaedca38df875b912a59ba89777d7",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/renewable-metals",
+      "name": "Renewable Metals",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "vertical",
+          "id": "a3e47e66f3bb4551945a52005d036ac7",
+          "name": "Mining & Metals",
+          "slug": "mining-metals"
+        },
+        {
+          "category": "vertical",
+          "id": "e48ead4255dd4c05b478c9030af03139",
+          "name": "Climate Tech",
+          "slug": "climate-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "15e97d3391fb6deb9a04b4d2df42c643efbeaedca38df875b912a59ba89777d7",
+    "currency": "AUD",
+    "fundingAmount": "12M",
+    "fundingAnnounceDate": "2026-04-20",
+    "id": "11735_13600",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Reprogram Biosciences is a preclinical oncology biotech developing mRNA-based therapeutics that reprogram tumor cells in situ to activate the immune system against solid tumors. The company pairs an in vivo cell-reprogramming approach with an AI discovery engine called CellRecodeX, built on biological foundation models, to nominate and expand its pipeline. It is based in San Carlos, California and was founded in 2025 by CEO Rustam Esanov and COO Eziz Kuliyev.",
+      "id": "0d6603c0a8c52261149f8a36b6c5d8eabd809bcde83f02685bf27c6b0fab0491",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/reprogram-biosciences",
+      "name": "Reprogram Biosciences",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "0d6603c0a8c52261149f8a36b6c5d8eabd809bcde83f02685bf27c6b0fab0491",
+    "currency": "USD",
+    "fundingAmount": "undisclosed",
+    "fundingAnnounceDate": "2026-05-29",
+    "id": "13653_14977",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Finland",
+      "country_name": "Finland",
+      "description": "Resand (formerly Finn Recycling) is a Finnish cleantech company that regenerates and recycles foundry sand, supplying reclaimed sand to foundries on a Sand-as-a-Service model. Its technology recovers used casting sand at close to 100 percent efficiency, cutting the need for virgin sand and reducing sand-related CO2 emissions by up to 80 percent. Headquartered in Nuutajarvi, Finland, the company is scaling across European foundry markets with customers in the DACH region and Central Europe.",
+      "id": "a9750dd098900307f27460430c76a71e0b27803f917e18e6775741bca63556e4",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/finn-recycling-oy",
+      "name": "Resand",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a9750dd098900307f27460430c76a71e0b27803f917e18e6775741bca63556e4",
+    "currency": "EUR",
+    "fundingAmount": "25M",
+    "fundingAnnounceDate": "2026-06-05",
+    "id": "14231_15377",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "Rivan Industries is a UK-based synthetic fuel startup that vertically integrates every step of production — from renewable energy generation and green hydrogen, to direct-air-capture CO2 and Sabatier-reactor methane synthesis — to produce Synthetic Natural Gas (SNG) for injection into the gas grid. Its primary customers are heavy industries that are hard to electrify at scale, including steel, cement, chemicals and aviation. Founded in 2024 by Harvey Hodd, the company designs and manufactures its hardware in the UK from scratch and aims to reach fossil-fuel-competitive pricing within the next 2-3 years.",
+      "id": "0f559247202d5c47bd0d3fda98f16d76ce3bb122546cc7fc5b7b0a429d730af9",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/rivanindustries",
+      "name": "Rivan",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "31feb9b099e747daa43f444edf085610",
+          "name": "Chemicals",
+          "slug": "chemicals"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "0f559247202d5c47bd0d3fda98f16d76ce3bb122546cc7fc5b7b0a429d730af9",
+    "currency": "GBP",
+    "fundingAmount": "25M",
+    "fundingAnnounceDate": "2026-04-20",
+    "id": "11575_13426",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Maharashtra-based rooftop solar EPC services provider focused on commercial and industrial (C&I) customers. Develops, builds, and operates distributed solar installations across India. Expanded its portfolio to 125 MWp in FY26, achieving over 50% revenue growth and 75% profit increase. Serves businesses transitioning to clean energy through rooftop and group captive solar projects.",
+      "id": "b4710abe438710040ee49352e9e32633ffcd1cb7902d8479247697a54c2effa0",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/roofsol-energy-pvt-ltd",
+      "name": "Roofsol Energy",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "b4710abe438710040ee49352e9e32633ffcd1cb7902d8479247697a54c2effa0",
+    "currency": "INR",
+    "fundingAmount": "3.3B",
+    "fundingAnnounceDate": "2026-04-16",
+    "id": "11451_13317",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "France",
+      "country_name": "France",
+      "description": "Réempro is a French circular-economy company that industrialises the reuse of building materials and professional equipment. It runs the full reuse chain — diagnosis, selective deconstruction, waste management, reconditioning and resale of second-hand materials and furniture — for construction, industry and public-sector clients across France and Belgium. About 70% of its activity is reusing building materials such as sanitaryware, bricks and technical flooring.",
+      "id": "cf3b9ad678c61bc20d9f7510185938ae28c2a132380de57dbcc4f08f6397a8bc",
+      "industry": {
+        "id": "3862cdc6b102452398823a43c9e3a314",
+        "name": "Real Estate & Construction",
+        "slug": "real-estate-construction"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/r%C3%A9empro",
+      "name": "Réempro",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "7418c003979341279dedbd2846f418ee",
+          "name": "Waste Management",
+          "slug": "waste-management"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "vertical",
+          "id": "e96097ba84494eb09b3f733e349998b1",
+          "name": "Constructiontech",
+          "slug": "constructiontech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "cf3b9ad678c61bc20d9f7510185938ae28c2a132380de57dbcc4f08f6397a8bc",
+    "currency": "EUR",
+    "fundingAmount": "1.6M",
+    "fundingAnnounceDate": "2026-06-12",
+    "id": "14551_15770",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "STORM Therapeutics is a Cambridge, UK biotech pioneering RNA-epigenetic cancer therapies. Its lead asset STC-15, co-discovered with Evotec, is a first-in-class oral small-molecule inhibitor of the RNA methyltransferase METTL3 that reprograms tumor biology and activates anti-cancer immune responses. The company is advancing STC-15 through a Phase 2 sarcoma study and a Phase 1b/2 combination trial with toripalimab in non-small cell lung cancer.",
+      "id": "aa754776322f26413914b7a709a2e539078adc727fd62da5d889b25db75ee0d3",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/storm-therapeutics-limited",
+      "name": "STORM Therapeutics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "aa754776322f26413914b7a709a2e539078adc727fd62da5d889b25db75ee0d3",
+    "currency": "USD",
+    "fundingAmount": "56M",
+    "fundingAnnounceDate": "2026-04-16",
+    "id": "11381_13232",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "Uganda",
+      "country_name": "Uganda",
+      "description": "Sawa Energy develops, finances, builds, owns, and operates solar photovoltaic and energy storage systems for commercial and industrial clients under long-term service contracts (10-25 years). Through its energy-as-a-service model, businesses access reliable and affordable clean electricity without upfront capital investment, while reducing reliance on diesel generators. The company has deployed over 65 solar installations across Rwanda and Uganda, serving sectors including agro-processing, manufacturing, mining, hospitality, education, and commercial real estate.",
+      "id": "d048c58fbb317a9bf9016252283ccbe06504664f8fa4373d1222d8d66830d40f",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/sawa-energy",
+      "name": "Sawa Energy",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "d048c58fbb317a9bf9016252283ccbe06504664f8fa4373d1222d8d66830d40f",
+    "currency": "USD",
+    "fundingAmount": "10M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10855_12559",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Scalvy develops AI infrastructure solutions for power electronics and distributed energy management, with applications in electric mobility and grid optimization.\"",
+      "id": "d3ba2272da276ba2ccc91249ecdfabb4e4289d1eb05b00585afe74a7915da9df",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/scalvy",
+      "name": "Scalvy",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "cf21929d5eeb44a0906c84a5475e4301",
+          "name": "Electric Vehicles",
+          "slug": "electric-vehicles"
+        },
+        {
+          "category": "tech",
+          "id": "ef9c6b3d21804e90adb6320823fc77be",
+          "name": "Embedded Systems",
+          "slug": "embedded-systems"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "d3ba2272da276ba2ccc91249ecdfabb4e4289d1eb05b00585afe74a7915da9df",
+    "currency": "USD",
+    "fundingAmount": "13.9M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10562_12218",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "Semarion is a University of Cambridge spin-out from the Cavendish Laboratory that combines materials engineering, microfabrication, and cell biology for drug discovery. Its proprietary SemaCyte platform enables adherent cells to be used as barcoded, assay-ready, automation-compatible reagents, allowing researchers to multiplex cell models and generate richer datasets within existing lab workflows. The technology has been adopted by multiple top-10 global pharmaceutical companies across the US and Europe.",
+      "id": "b5f07dcb7daab658dc9ca8f0dcdaa41ba3e811b17616b39042d84151356e2bf3",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/semarion",
+      "name": "Semarion",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "e1de551a01a542aaa4cca444326c6f9e",
+          "name": "Synthetic Biology",
+          "slug": "synthetic-biology"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "b5f07dcb7daab658dc9ca8f0dcdaa41ba3e811b17616b39042d84151356e2bf3",
+    "currency": "USD",
+    "fundingAmount": "3.8M",
+    "fundingAnnounceDate": "2026-03-30",
+    "id": "10755_12442",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Denmark",
+      "country_name": "Denmark",
+      "description": "Sennos is a Durham, North Carolina-based sensing, analytics and automation company for the fermentation and fluidics industries. Its Sennosystem platform combines patent-pending SennosM3 in-tank sensor hardware, the SennosIQ AI analytics engine and the Sennoslink application to stream multi-parameter measurements — gravity, temperature, pH, pressure, conductivity and dissolved oxygen — into continuous, predictive control rather than the static spreadsheet-era sampling most fermentation producers still rely on. Founded in 2017 by Jared Resnick, the company serves producers of all sizes across fermented beverage and other high-value fluid-based processes and claims to operate the worlds largest real-time fermentation data repository.",
+      "id": "bf586109e789dfd8dbf624443acdd84c817f3a673154a194bd0111ef0f5e559a",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/sennos",
+      "name": "Sennos",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "31433d18f41c40a982bc5458c9075066",
+          "name": "Alcoholic Beverages",
+          "slug": "alcoholic-beverages"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "bf586109e789dfd8dbf624443acdd84c817f3a673154a194bd0111ef0f5e559a",
+    "currency": "USD",
+    "fundingAmount": "20M",
+    "fundingAnnounceDate": "2026-04-15",
+    "id": "11506_13368",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Sepion Technologies is an advanced materials company developing polymer coatings and membrane technologies to improve the performance, safety, and cost of energy storage systems. Its ultra-thin, drop-in separator coatings replace legacy ceramic materials, enabling higher energy density, faster charging, and improved durability without changes to existing battery manufacturing lines. Founded by Peter Frischmann, Sepion's products support customer qualification with leading global battery manufacturers for EV, ESS, and consumer electronics applications. The company's polymer platform also extends into adjacent markets including critical material separations, gas separations, chemical sensing, and water treatment.",
+      "id": "7abc64b6f0b83ba20bbf59b43b7507a500d132cb6e033491e33f66cd8e0f0de1",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/sepion-technologies",
+      "name": "Sepion Technologies",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1ea7dc6930ae40da8994161409efe7fe",
+          "name": "Nanotechnology",
+          "slug": "nanotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "tech",
+          "id": "35e64e8d17fb4be082d909888202f747",
+          "name": "Semiconductors",
+          "slug": "semiconductors"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "7abc64b6f0b83ba20bbf59b43b7507a500d132cb6e033491e33f66cd8e0f0de1",
+    "currency": "USD",
+    "fundingAmount": "10M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10758_12445",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "Sereact is a German robotics startup founded in 2021 that develops AI-powered robotics solutions using Vision Language Action Models (VLAM) to enable robots to understand and adapt to their environment in real-time without complex programming. Their software-first platform supports various robot hardware and is used in industries like logistics and manufacturing by clients such as BMW and Daimler Truck.",
+      "id": "xsEaNIHvpNqjbf3VfUq3",
+      "industry": {
+        "id": "e15485f2460d4a278c8216c4ffe02d55",
+        "name": "Software & Internet",
+        "slug": "software-internet"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/sereact",
+      "name": "Sereact",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "98bcec661ec74211bc6fd4ecf1b6bcd8",
+          "name": "Logistics",
+          "slug": "logistics"
+        },
+        {
+          "category": "vertical",
+          "id": "ca54250383ae4d47ac175c8680b89137",
+          "name": "SaaS",
+          "slug": "saas"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "xsEaNIHvpNqjbf3VfUq3",
+    "currency": "USD",
+    "fundingAmount": "110M",
+    "fundingAnnounceDate": "2026-04-27",
+    "id": "4527_13655",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Canada",
+      "country_name": "Canada",
+      "description": "Serenity Power is a Canadian cleantech company developing solid oxide fuel cell (SOFC) systems for remote and distributed power generation. Its fuel-flexible cells run on natural gas, hydrogen, methane, or blended fuels, positioning them as a lower-emission alternative to diesel generators for industrial and off-grid sites. Operating from Calgary and Toronto, the company is moving from lab-scale validation to its first commercial fuel cell stack with pilot deployments planned in Italy and Alberta.",
+      "id": "70fc4bb3b539c0514afea807297bdf9d58904cae7f6efc6bf97eaf143f58d4b8",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/serenity-power-ca",
+      "name": "Serenity Power",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "70fc4bb3b539c0514afea807297bdf9d58904cae7f6efc6bf97eaf143f58d4b8",
+    "currency": "CAD",
+    "fundingAmount": "1.2M",
+    "fundingAnnounceDate": "2026-04-27",
+    "id": "11829_13700",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Japan",
+      "country_name": "Japan",
+      "description": "Sharing Energy Co., Ltd. is a Japanese company focused on developing distributed low-voltage solar power plants, primarily on residential rooftops, and providing energy supply and management services.",
+      "id": "tgilLjmJ8fqbEUN25SY7",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/sharing-energy/",
+      "name": "Sharing Energy Co., Ltd.",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "tgilLjmJ8fqbEUN25SY7",
+    "currency": "JPY",
+    "fundingAmount": "862M",
+    "fundingAnnounceDate": "2026-04-17",
+    "id": "2590_13366",
+    "stage": "Series C+"
+  }
+]

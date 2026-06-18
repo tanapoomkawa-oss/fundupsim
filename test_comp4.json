@@ -1,0 +1,2414 @@
+[
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Shatterdome Energy is a San Francisco-based AI-driven energy trading and intelligence startup, emerging from stealth in May 2026 to build an optimization platform for battery storage assets in wholesale power markets.",
+      "id": "2ebe0598a269f3b0c2f1b899f34d1a3dc8083a8fc38f272031dd2c6c3c9dd4d2",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/shatterdome-energy",
+      "name": "Shatterdome Energy",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "2ebe0598a269f3b0c2f1b899f34d1a3dc8083a8fc38f272031dd2c6c3c9dd4d2",
+    "currency": "USD",
+    "fundingAmount": "3.5M",
+    "fundingAnnounceDate": "2026-05-21",
+    "id": "13094_14732",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "SiteVue is a Nashville-area startup founded in August 2025 by Andrew Jebasingh that uses AI-powered video analytics and smart cameras to monitor workforce productivity and safety in factories, warehouses and construction sites. Its computer-vision platform interprets activity on the floor in real time and surfaces cycle-time, downtime and near-miss metrics through dashboards aimed at operations leaders.",
+      "id": "9a4a6e5921749218b86b9e9a7ec3f4bb259f6aa3a47c2f7a612e0a8f2cbdb24d",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/sitevueai",
+      "name": "SiteVue",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "model",
+          "id": "1a9359e634ce4551b9fbd4c32195862d",
+          "name": "Platform",
+          "slug": "platform"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "tech",
+          "id": "d981c87d3d944ad9beb0f1401f9c67d6",
+          "name": "Computer Vision",
+          "slug": "computer-vision"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9a4a6e5921749218b86b9e9a7ec3f4bb259f6aa3a47c2f7a612e0a8f2cbdb24d",
+    "currency": "USD",
+    "fundingAmount": "7M",
+    "fundingAnnounceDate": "2026-05-12",
+    "id": "12913_14538",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Singapore",
+      "country_name": "Singapore",
+      "description": "Skye Renewables Energy is a Singapore-headquartered commercial & industrial (C&I) solar developer and renewable asset owner operating across Southeast Asia. Founded in 2021 by CEO Ross Coull, the company develops both onsite/rooftop solar and offsite/grid-connected renewables for corporate off-takers, with focus markets in Malaysia, Singapore, Vietnam, and the Philippines. It is also backed by Japanese energy group Idemitsu Kosan and UK development finance institution British International Investment.",
+      "id": "8caa0aa7a902bbefacebf22b2578ebb2edecdece8557c47806cdae95bc2c0d12",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/skye-renewables",
+      "name": "Skye Renewables Energy",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "8caa0aa7a902bbefacebf22b2578ebb2edecdece8557c47806cdae95bc2c0d12",
+    "currency": "USD",
+    "fundingAmount": "15M",
+    "fundingAnnounceDate": "2026-04-15",
+    "id": "11384_13235",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "Slamcore builds spatial-intelligence software that uses a stereo camera to track the position and behaviour of autonomous vehicles inside factories and warehouses without requiring extra infrastructure. Its Slamcore Aware and Slamcore Alert products are deployed across more than 30 facilities in Europe and North America, scaling to hundreds of units in under two years. The London-based company is led by CEO Owen Nicholson.",
+      "id": "5b672dd93d189d835458be38b789f2619f4e1331bb0415e52bf87a39b6dcdce5",
+      "industry": {
+        "id": "e15485f2460d4a278c8216c4ffe02d55",
+        "name": "Software & Internet",
+        "slug": "software-internet"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/slamcore-limited",
+      "name": "Slamcore",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "2047e21711ff4033976fa7a7ed3669f6",
+          "name": "Autonomous Vehicles",
+          "slug": "autonomous-vehicles"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "5b672dd93d189d835458be38b789f2619f4e1331bb0415e52bf87a39b6dcdce5",
+    "currency": "USD",
+    "fundingAmount": "14M",
+    "fundingAnnounceDate": "2026-05-27",
+    "id": "13478_14893",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Netherlands",
+      "country_name": "Netherlands",
+      "description": "SolarDew (SolarDew Clean Water B.V.) is a Wageningen-based Dutch cleantech company building solar-powered water purification and desalination systems. Its membrane technology uses only solar thermal energy and gravity — no electricity, high pressure, or chemicals — to turn polluted or saline water into safe drinking water for remote, coastal, and water-stressed communities. The company began industrial production in 2025 and aims to supply clean drinking water to one million people by 2035.",
+      "id": "0e5da75fdc823f6c3ecd1d65346af3aadb6dfc60688b3a4342384f362e875bfc",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/solardew",
+      "name": "SolarDew",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "5d7ecfd6042542e1993b04f4e2e275a9",
+          "name": "Water Technology",
+          "slug": "water-technology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "0e5da75fdc823f6c3ecd1d65346af3aadb6dfc60688b3a4342384f362e875bfc",
+    "currency": "EUR",
+    "fundingAmount": "800K",
+    "fundingAnnounceDate": "2026-06-03",
+    "id": "14113_15235",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "SolarSquare is a Mumbai-based full-stack residential rooftop solar company, founded in 2015, that handles the entire homeowner journey from design and installation to financing and ongoing maintenance. It began as a B2B solar provider before pivoting to the consumer market in 2021, and has served nearly 50,000 homes across India. The company positions itself as one of India's leading residential solar brands amid rapid adoption of rooftop solar in the country.",
+      "id": "69be1b0ac2499c47c14032961366d0638de0d6df0e2766797fe1fee0b399510c",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/solarsquare-energy-private-limited",
+      "name": "SolarSquare",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        },
+        {
+          "category": "vertical",
+          "id": "f7c57f46c580422c8049e0284cf81127",
+          "name": "Consumer Software",
+          "slug": "consumer-software"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "69be1b0ac2499c47c14032961366d0638de0d6df0e2766797fe1fee0b399510c",
+    "currency": "USD",
+    "fundingAmount": "53M",
+    "fundingAnnounceDate": "2026-06-16",
+    "id": "14217_15830",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "Brazil",
+      "country_name": "Brazil",
+      "description": "Brazilian energytech based in Mossoró building a software and fintech ecosystem for solar integrators — monitoring and management tools plus financial services to help installers sell and operate distributed solar plants.",
+      "id": "17f25e2a48127e5744f4b9057698c292edfa2b7b587d86964815a0122bec1ed8",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/solarz-tech",
+      "name": "SolarZ",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "93143141f23f4e73ba523512f7e639e8",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "17f25e2a48127e5744f4b9057698c292edfa2b7b587d86964815a0122bec1ed8",
+    "currency": "BRL",
+    "fundingAmount": "5.8M",
+    "fundingAnnounceDate": "2026-05-19",
+    "id": "13191_14784",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Solfin is a digital-first NBFC focused on financing India's clean-energy transition, providing rooftop solar loans across residential, commercial and industrial customers. The company combines a proprietary underwriting engine with a 1,200+ partner network of EPCs, dealers and OEMs to compress approval times to days.",
+      "id": "fba1880d5c1e08f73c9484dca90cf949fd3a7c899b5a5f3b030ed2bcd036298f",
+      "industry": {
+        "id": "76264a88c17f405983512d389c6fd7c9",
+        "name": "Financial Services",
+        "slug": "financial-services"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/solfin-sustainable-financing",
+      "name": "Solfin Sustainable Finance",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "f0e18843099b44fcaf2ce43e6f7022d4",
+          "name": "Lending",
+          "slug": "lending"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "fba1880d5c1e08f73c9484dca90cf949fd3a7c899b5a5f3b030ed2bcd036298f",
+    "currency": "INR",
+    "fundingAmount": "2.8B",
+    "fundingAnnounceDate": "2026-05-20",
+    "id": "13078_14715",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Switzerland",
+      "country_name": "Switzerland",
+      "description": "SolidWatts designs and manufactures solid-state Radio Frequency (RF) heating systems for industrial process heating, enabling electrification of energy-intensive industrial processes. Their platform delivers high-efficiency dielectric heating from 1 kW to megawatt-scale, targeting machine builders, integrators and end users across food processing, chemical processing and recycling. Founded in 2022 and based in Pully, Switzerland, the company emphasizes scalable power, digital process control and long service life as differentiators.",
+      "id": "d5f2db3d8fb3816856e5be6bfc08a27daadd1e187aea367a31e55b9e5681be44",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/solidwatts",
+      "name": "SolidWatts SA",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "tech",
+          "id": "b92b636a548d48ac87b1bc1c67487d42",
+          "name": "Hardware",
+          "slug": "hardware"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "d5f2db3d8fb3816856e5be6bfc08a27daadd1e187aea367a31e55b9e5681be44",
+    "currency": "CHF",
+    "fundingAmount": "1.8M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10613_12284",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Estonia",
+      "country_name": "Estonia",
+      "description": "Spiral Hydrogen is an Estonian-Dutch deep-tech company developing a centrifugal, bubble-free alkaline electrolyzer aimed at making green hydrogen cheaper than fossil-based hydrogen. By rotating the electrolyte and routing gases through hydrophobic porous electrodes, the system removes the bubble formation that limits conventional electrolyzers, pushing efficiency above 90% and simplifying the balance of plant. Founded in 2024 in Tartu, the company is moving from lab prototypes to an industrial pilot at the Port of Rotterdam in partnership with SwitcH2, targeting feedstock markets like ammonia, refining, methanol, and steel.",
+      "id": "0ff9ee9294c16f627cd808d728f364f6f5db715241d98835836c2fab8c3d235f",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/spiral-hydrogen",
+      "name": "Spiral Hydrogen",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "3d3230769cec4d2f80067a9f5e8d5493",
+          "name": "Early Stage",
+          "slug": "early-stage"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "0ff9ee9294c16f627cd808d728f364f6f5db715241d98835836c2fab8c3d235f",
+    "currency": "EUR",
+    "fundingAmount": "2.7M",
+    "fundingAnnounceDate": "2026-04-30",
+    "id": "11955_13841",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Kenya",
+      "country_name": "Kenya",
+      "description": "Spiro is an African electric vehicle (EV) company headquartered in Nairobi, Kenya, specializing in electric motorbikes and battery swapping infrastructure. The company operates across six African countries: Togo, Benin, Rwanda, Kenya, Uganda, and Nigeria, with a mission to reduce the continent's fossil fuel dependency.",
+      "id": "ZcC8FxuOJCPZznlj5omo",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://ke.linkedin.com/company/spironet",
+      "name": "Spiro",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "cf21929d5eeb44a0906c84a5475e4301",
+          "name": "Electric Vehicles",
+          "slug": "electric-vehicles"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "ZcC8FxuOJCPZznlj5omo",
+    "currency": "USD",
+    "fundingAmount": "215M",
+    "fundingAnnounceDate": "2026-06-01",
+    "id": "4767_15050",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Standard Bots is a Glen Cove, New York-based manufacturer of AI-native industrial robots, including six-axis robot arms and industrial humanoids, that are designed and assembled in the United States. Its robots are taught through demonstration and observation rather than traditional code, making automation accessible across tasks such as machining, welding, palletizing, assembly and inspection at a lower price point than legacy vendors. The company serves customers ranging from large enterprises like Sunoco, Lockheed Martin, Amazon, NASA and the U.S. Army to hundreds of small and mid-sized manufacturers.",
+      "id": "1c0168c1ae97bcbdf3bced93c423cad77ac593000e9a351f36db4965d8230004",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/standard-bots",
+      "name": "Standard Bots",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "stage",
+          "id": "fdc049bb90d9416098e59e14cd58e9b4",
+          "name": "Unicorn",
+          "slug": "unicorn"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "1c0168c1ae97bcbdf3bced93c423cad77ac593000e9a351f36db4965d8230004",
+    "currency": "USD",
+    "fundingAmount": "200M",
+    "fundingAnnounceDate": "2026-06-09",
+    "id": "14340_15516",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "France",
+      "country_name": "France",
+      "description": "Standing Ovation is a Paris-based precision fermentation startup founded in 2020 by Romain Chayot and CEO Yvan Chardonnens. The company produces next-generation dairy proteins (casein) through a patented process that upcycles agricultural sugars and milk whey into high-quality casein, delivering a 74% reduction in greenhouse gas emissions and up to 3x less water usage vs. animal casein. A French Tech 2030 laureate with eight patent families, Standing Ovation partners with Bel Group and Danone to commercialize its Advanced Casein™ ingredient globally.",
+      "id": "df96be6fc094a72151c44c5a27d454e7c5a59461a04ed5c814082f5804451bad",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/standingovation",
+      "name": "Standing Ovation",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "df96be6fc094a72151c44c5a27d454e7c5a59461a04ed5c814082f5804451bad",
+    "currency": "EUR",
+    "fundingAmount": "30M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "10733_12419",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Star Catcher Industries is a Jacksonville, Florida-based aerospace startup building the first power grid in space, using optical power beaming to deliver concentrated solar energy on demand to satellites and other spacecraft. The company's approach is designed to lift the power ceiling on existing satellite hardware — claiming up to 10x more available power with no retrofit or custom receiver — addressing what its team calls the binding constraint on space connectivity, computing, sensing and security workloads. Founded in 2024 by CEO Andrew Rush, Star Catcher has set a world record for optical power beaming, completed an on-orbit subsystem demonstration, and serves both commercial space operators and U.S. national security customers.",
+      "id": "09988616679fdd72bf661964f0012c728f3aa6faf05289c8267565c1c64dcd1c",
+      "industry": {
+        "id": "d2f4dacbb31a4ee090a7ccfecdbf278a",
+        "name": "Aerospace & Space",
+        "slug": "aerospace-space"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/starcatcherind",
+      "name": "Star Catcher Industries",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "7e99f3be2a0b4b8ea6239a948f242858",
+          "name": "Space Technology",
+          "slug": "space-technology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "09988616679fdd72bf661964f0012c728f3aa6faf05289c8267565c1c64dcd1c",
+    "currency": "USD",
+    "fundingAmount": "65M",
+    "fundingAnnounceDate": "2026-05-12",
+    "id": "12445_14306",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Starcloud is building data centers in space to address the AI energy challenge. The company designs solar-powered orbital computing infrastructure and has launched the first Nvidia H100 GPU to space, aiming to provide sustainable, scalable compute capacity for AI workloads.",
+      "id": "fc4d114383a16c1b12e0704340e0d360372f660fefbd071e8303916c2b8b246c",
+      "industry": {
+        "id": "d2f4dacbb31a4ee090a7ccfecdbf278a",
+        "name": "Aerospace & Space",
+        "slug": "aerospace-space"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/starcloudinc",
+      "name": "Starcloud",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "7e99f3be2a0b4b8ea6239a948f242858",
+          "name": "Space Technology",
+          "slug": "space-technology"
+        },
+        {
+          "category": "tech",
+          "id": "b13dee545cec4e02b724c7a5b3e632bc",
+          "name": "Cloud Infrastructure",
+          "slug": "cloud-infrastructure"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "fc4d114383a16c1b12e0704340e0d360372f660fefbd071e8303916c2b8b246c",
+    "currency": "USD",
+    "fundingAmount": "170M",
+    "fundingAnnounceDate": "2026-03-30",
+    "id": "10716_12399",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "StrainX Bioworks is a Bhopal-headquartered Indian biotech startup using synthetic biology and precision fermentation to manufacture alternative proteins at scale. Founded in 2023 by IIT Delhi alumni Akshay Mittal and Alok Malaviya, the company engineers microbes to produce ingredients for food, nutrition, materials and cosmetics, anchored by India-based bio-manufacturing capacity. It has secured US commercialisation approval and operates a 10,000-litre fermentation facility in Bhopal with an R&D lab in Bengaluru.",
+      "id": "1b33a6d7c62af0320516b5184cfeccdb6785ee2aa1be9ff49fa81e4f7033be82",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/strainx-bio",
+      "name": "StrainX",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e1de551a01a542aaa4cca444326c6f9e",
+          "name": "Synthetic Biology",
+          "slug": "synthetic-biology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "1b33a6d7c62af0320516b5184cfeccdb6785ee2aa1be9ff49fa81e4f7033be82",
+    "currency": "USD",
+    "fundingAmount": "13M",
+    "fundingAnnounceDate": "2026-05-25",
+    "id": "13284_14816",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Stratum Biosciences is a biotech company combining AI and dermatology to accelerate discovery of novel topical actives and formulations. Its proprietary SkinSync™ platform analyzes a bioBank of over 200,000 real skin tissue samples to generate biological insights and optimize delivery across skin types. The company partners with consumer and pharmaceutical brands to translate cellular- and molecular-level findings into product technologies. Founded in 2024, Stratum is based in JLabs@NYC in SoHo, New York.",
+      "id": "f21c943a989d8e0f01e33ec7d96e2b4389c97a49da3c16f3dd906683d82fd185",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/stratumbio/",
+      "name": "Stratum Biosciences",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "12715f02b7634107ba166b5facca13a8",
+          "name": "Beauty & Personal Care",
+          "slug": "beauty-personal-care"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f21c943a989d8e0f01e33ec7d96e2b4389c97a49da3c16f3dd906683d82fd185",
+    "currency": "USD",
+    "fundingAmount": "2M",
+    "fundingAnnounceDate": "2026-03-27",
+    "id": "10603_12263",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Viet Nam",
+      "country_name": "Viet Nam",
+      "description": "Stride is a Vietnam-based climate-tech platform offering rooftop solar financing to households and small businesses, letting customers pay for solar installations through flexible monthly plans instead of large upfront costs. The company also runs a network of vetted installers and digital project-management tools to maintain quality across decentralised projects across Southeast Asia.",
+      "id": "87db3f5d26ac9b39e016e3d047b8f837487e93abe028c9001d1ad7e801fb822e",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/stridecoltd",
+      "name": "Stride",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "9e5882614ab544798908d42ef2df7108",
+          "name": "Project Management",
+          "slug": "project-management"
+        },
+        {
+          "category": "model",
+          "id": "c29b791685f846558eec8f76413bb706",
+          "name": "SMB",
+          "slug": "smb"
+        },
+        {
+          "category": "vertical",
+          "id": "e48ead4255dd4c05b478c9030af03139",
+          "name": "Climate Tech",
+          "slug": "climate-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "87db3f5d26ac9b39e016e3d047b8f837487e93abe028c9001d1ad7e801fb822e",
+    "currency": "USD",
+    "fundingAmount": "15M",
+    "fundingAnnounceDate": "2026-05-21",
+    "id": "13084_14721",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Israel",
+      "country_name": "Israel",
+      "description": "SuperMeat is an Israeli food-tech developing cultivated chicken using cell-cultured meat technology, with plans to scale commercial production through a Switzerland launch.",
+      "id": "8a3d5d8b568f443d76fa70c01c23768d5863226eb406b92aa7b2b1e71ee11f48",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/supermeat",
+      "name": "SuperMeat",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "8a3d5d8b568f443d76fa70c01c23768d5863226eb406b92aa7b2b1e71ee11f48",
+    "currency": "USD",
+    "fundingAmount": "6M",
+    "fundingAnnounceDate": "2026-05-13",
+    "id": "12724_14384",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Canada",
+      "country_name": "Canada",
+      "description": "Synakis is a Toronto-based biotech startup developing biomaterial-based therapies for ocular diseases including retinal detachment and glaucoma, originating from research at the University of Toronto.",
+      "id": "06737f5b0e5024ec65f40518c126800e70d07f43d74d4fcf652fa71606d0205d",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/synakis",
+      "name": "Synakis",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "06737f5b0e5024ec65f40518c126800e70d07f43d74d4fcf652fa71606d0205d",
+    "currency": "CAD",
+    "fundingAmount": "2.6M",
+    "fundingAnnounceDate": "2026-05-21",
+    "id": "13093_14731",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Spain",
+      "country_name": "Spain",
+      "description": "THEKER Robotics is a company specialized in robotics, deep learning, and computer vision. It has the capability to design, manufacture, and comprehensively market all types of autonomous machines or robots for process automation within the industrial sector. Their dedication to redefining the future is not limited to their products alone; it extends to their values and actions, solidifying their commitment to make a positive impact on the world by promoting the circular economy.\n\nTHEKER Robotics es una empresa de robótica, Deep Learning y visión artificial. Cuenta con la capacidad de diseñar, producir y comercializar de manera íntegra cualquier tipo de máquina autónoma o robot para la automatización de procesos dentro del ámbito industrial. Su dedicación a redefinir el futuro no se limita solo sus productos; se extiende a sus valores y acciones, consolidando su compromiso de dejar un impacto positivo en el mundo apostando por la economía circular.",
+      "id": "jfmyLBWTMi82lnnRw3zP",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/theker/",
+      "name": "THEKER Robotics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "jfmyLBWTMi82lnnRw3zP",
+    "currency": "EUR",
+    "fundingAmount": "73M",
+    "fundingAnnounceDate": "2026-06-11",
+    "id": "1476_15657",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Luxembourg",
+      "country_name": "Luxembourg",
+      "description": "TerraSpark is a Luxembourg-based startup developing space-based solar power (SBSP) with a modular approach. The company aims to beam solar energy from orbit using a system that is continuously operational, weather-proof, and accessible worldwide. In Phase 1 (2026), it aims to wirelessly transmit power over controlled distances on Earth. Founded in 2025 by Deprez, Dr Sanjay Vijendran (CTO), and Matthias Laug (COO).",
+      "id": "0ba8c215048c2bc953539fee2c703090a011d9a4dac82f57d15742dec993e646",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/terra-spark-",
+      "name": "TerraSpark",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "7e99f3be2a0b4b8ea6239a948f242858",
+          "name": "Space Technology",
+          "slug": "space-technology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "0ba8c215048c2bc953539fee2c703090a011d9a4dac82f57d15742dec993e646",
+    "currency": "EUR",
+    "fundingAmount": "5M",
+    "fundingAnnounceDate": "2026-03-30",
+    "id": "10711_12390",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Terrestrial (formerly Vaxess Technologies) develops a temperature-stable microarray patch (MAP) platform for transdermal delivery of therapies, enabling self-administration without needles or refrigeration. Its dissolvable MAP tips and advanced biomaterials are designed to deliver next-generation therapies such as GLP-1 therapeutics with controlled dosing and comparable bioavailability to injections. Headquartered near Boston, the company is scaling manufacturing capacity to support late-stage clinical trials and commercialization.",
+      "id": "71c72b30fea3a45a6020bac792a5c75debcf9c840635778124997f6447644dc6",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/terrestrial-bio",
+      "name": "Terrestrial Bio",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "05f75c20187c40158dd20f3b0ce55f98",
+          "name": "Medical Devices",
+          "slug": "medical-devices"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "71c72b30fea3a45a6020bac792a5c75debcf9c840635778124997f6447644dc6",
+    "currency": "USD",
+    "fundingAmount": "50M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10572_12228",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Texture builds an operating system for energy utilities, unifying grid visibility and operations across distributed assets like batteries, EVs, solar and SCADA into a single layer. The platform serves utility cooperatives, OEMs and grid services companies including Vermont Electric Cooperative and sonnen, and integrates with 50+ device makers to coordinate demand response and virtual power plant programs in real time.",
+      "id": "98301fc435388b37bb94ce0dce2e5a2cc8528f3463b1b3a5d3e0bd571ea5efb8",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/texturehq",
+      "name": "Texture",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "98301fc435388b37bb94ce0dce2e5a2cc8528f3463b1b3a5d3e0bd571ea5efb8",
+    "currency": "USD",
+    "fundingAmount": "12.5M",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13425_14871",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Finland",
+      "country_name": "Finland",
+      "description": "TheStorage is a Finnish cleantech company developing high-temperature industrial thermal energy storage that stores energy in moving sand at 800-1100°C. Its sand-in-motion technology lets factories electrify heat production, buy electricity during cheap hours, and release stored heat as steam or thermal oil when prices rise. Founded in 2023, the company targets up to 70% lower energy costs and up to 90% lower emissions versus fossil-based industrial heat.",
+      "id": "e417770909e0aa4a19e211cf5694e89cd5e709aaf4b56eb2544c619802b9c899",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/thestorage",
+      "name": "TheStorage",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "3d3230769cec4d2f80067a9f5e8d5493",
+          "name": "Early Stage",
+          "slug": "early-stage"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "e417770909e0aa4a19e211cf5694e89cd5e709aaf4b56eb2544c619802b9c899",
+    "currency": "EUR",
+    "fundingAmount": "3.6M",
+    "fundingAnnounceDate": "2026-04-23",
+    "id": "11680_13541",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Thea Energy is a New Jersey-based fusion power company commercializing a planar-coil stellarator architecture, using arrays of mass-manufacturable superconducting magnets and software-defined controls in place of precision-machined 3D coils. Spun out of Princeton University and Princeton Plasma Physics Laboratory in 2022, it is an awardee of the US Department of Energy's Milestone-Based Fusion Development Program and is building the Eos integrated stellarator en route to its first commercial Helios power plant.",
+      "id": "6512e051880f8eba859864607a810d14571a9fd0916d8ecc991cd9f23e5b5a0c",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/thea",
+      "name": "Thea Energy",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "6512e051880f8eba859864607a810d14571a9fd0916d8ecc991cd9f23e5b5a0c",
+    "currency": "USD",
+    "fundingAmount": "100M",
+    "fundingAnnounceDate": "2026-05-27",
+    "id": "13476_14891",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "ThinkLabs AI is a Toronto-based startup spun out of GE Vernova that builds physics-informed AI models to simulate and optimize electric grid behavior. The company's platform compresses month-long grid planning studies into minutes, running 10 million scenarios in 10 minutes with over 99.7% accuracy on power flow calculations. ThinkLabs helps utilities assess the grid impact of connecting large loads like AI data centers, EV chargers, and renewable energy sources, addressing the growing gap between surging electricity demand and legacy planning tools. Founded by CEO Josh Wong.",
+      "id": "9d3de13eba0e522d26f0ce8c567333b5d64fe16b50a91a9ba58a84f89f42d4b5",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/thinklabs-ai",
+      "name": "ThinkLabs AI",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "70ab87fbec354d5da72d41254e5f95bd",
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9d3de13eba0e522d26f0ce8c567333b5d64fe16b50a91a9ba58a84f89f42d4b5",
+    "currency": "USD",
+    "fundingAmount": "28M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "10802_12497",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Spain",
+      "country_name": "Spain",
+      "description": "Tolemy Bio is a UK-Spanish biotech building Orbit, an AI-native virtual control panel for cell biology that unifies fragmented lab data, instruments, and software into a single platform. The company combines virtual cell models and AI research agents to help cell and gene therapy developers simulate biological responses and accelerate biopharma R&D. Founded in 2026 by Alex Ward and Caelan Anderson, Tolemy operates between Cambridge, UK and Barcelona, Spain.",
+      "id": "fca85b090b94d2c06a7ec251722a063d2f2d8c7557564ba40ea654036f953e02",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/tolemy-bio",
+      "name": "Tolemy Bio",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "fca85b090b94d2c06a7ec251722a063d2f2d8c7557564ba40ea654036f953e02",
+    "currency": "EUR",
+    "fundingAmount": "1.4M",
+    "fundingAnnounceDate": "2026-05-12",
+    "id": "12460_14315",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "VREY (legally RE Joule GmbH) is a Berlin-based climate-tech company building an EnergyOS for multi-family buildings. As a certified smart metering operator and billing partner, it lets landlords deploy on-site solar and pass electricity directly to tenants under Germany's new Gemeinschaftliche Gebäudeversorgung (GGV) framework, without taking on energy-supplier obligations. Its platform also integrates batteries, heat pumps, and EV charging, and is live across a three-digit project pipeline in all 16 German federal states.",
+      "id": "a1343fc988c2330f342f5922fb0f48db5c9989bf24589b23340382b48dd2ccc7",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/vrey-energie",
+      "name": "VREY",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "2cb57627cd5249ac8ba623ae72141f62",
+          "name": "Proptech",
+          "slug": "proptech"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        },
+        {
+          "category": "vertical",
+          "id": "e48ead4255dd4c05b478c9030af03139",
+          "name": "Climate Tech",
+          "slug": "climate-tech"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a1343fc988c2330f342f5922fb0f48db5c9989bf24589b23340382b48dd2ccc7",
+    "currency": "EUR",
+    "fundingAmount": "3.3M",
+    "fundingAnnounceDate": "2026-04-23",
+    "id": "11664_13521",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Sweden",
+      "country_name": "Sweden",
+      "description": "Vaja AB is a Stockholm-based renewable-energy startup, founded in 2023 by serial entrepreneurs Henrik Eskilsson (co-founder of Tobii) and Anders Olsson (founder of Soldags), that develops vertical solar-tracking systems for high-latitude solar farms. Its VajaTrack product uses an aerodynamically balanced, wind-responsive design that pivots panels to follow low-hanging sun while cutting wind loads, producing roughly 25-30% more energy per year than fixed arrays at northern latitudes. The company is opening pilot projects with solar developers and turnkey installations for Swedish landowners.",
+      "id": "7697008e1566363566f4f1bc98ebe402ed5f8343be42b0eab5f56a84268fda5b",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/vaja-ab",
+      "name": "Vaja",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "3505c035785c4cc78a58998189524e59",
+          "name": "Vertical Farming",
+          "slug": "vertical-farming"
+        },
+        {
+          "category": "vertical",
+          "id": "e5faaf5f01814277a93b3f5df0574f65",
+          "name": "Wind Energy",
+          "slug": "wind-energy"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "7697008e1566363566f4f1bc98ebe402ed5f8343be42b0eab5f56a84268fda5b",
+    "currency": "EUR",
+    "fundingAmount": "3.1M",
+    "fundingAnnounceDate": "2026-06-15",
+    "id": "14598_15800",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Volt Harbor is an Ann Arbor, Michigan-based deep-tech company building modular, software-defined energy storage systems for data centers and the electric grid. Its patented MAC-BESS platform, licensed from the University of Michigan, integrates batteries, power electronics, and on-board computing into a single product class that supports both new and second-life EV battery modules across commercial, industrial, and utility deployments.",
+      "id": "f44ec34d5a2771e63b5ec4183e653c2877a4eae7ce7888849024a176ec5b3135",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/volt-harbor-inc",
+      "name": "Volt Harbor",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f44ec34d5a2771e63b5ec4183e653c2877a4eae7ce7888849024a176ec5b3135",
+    "currency": "USD",
+    "fundingAmount": "2M",
+    "fundingAnnounceDate": "2026-05-28",
+    "id": "13586_14948",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "VoltSeal is a New Delhi-based distributed energy storage company serving commercial and industrial customers in India. It installs behind-the-meter lithium iron phosphate (LFP) battery systems at industrial sites and pairs them with a software-driven optimization layer, helping customers cut diesel-generator dependence, shift consumption across tariff periods and reduce demand charges. VoltSeal retains operational dispatch control over each deployed unit, with the longer-term aim of aggregating them into virtual power plants that provide grid-balancing services.",
+      "id": "7a457893d023204f39db0bceb46d0cc455f24a6cfe7ef4fb6b1e06c2b77907a3",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/voltseal",
+      "name": "VoltSeal",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "7a457893d023204f39db0bceb46d0cc455f24a6cfe7ef4fb6b1e06c2b77907a3",
+    "currency": "USD",
+    "fundingAmount": "1.5M",
+    "fundingAnnounceDate": "2026-06-04",
+    "id": "14235_15384",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Voltify is a US-Israeli startup building a dynamic electrification platform for freight rail. The company retrofits diesel locomotives with battery power and deploys on-route fast-charging infrastructure and microgrids, targeting the $11 billion diesel rail energy market. Voltify claims to reduce rail energy costs by over 20% while avoiding the massive capital expenditure of traditional overhead wire electrification.",
+      "id": "4f86ffaf8d857787bf51794f02aeceb5dd90b9d14b865a78b49dbf4868e9d77d",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/justvoltify",
+      "name": "Voltify",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "4f86ffaf8d857787bf51794f02aeceb5dd90b9d14b865a78b49dbf4868e9d77d",
+    "currency": "USD",
+    "fundingAmount": "30M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "10821_12518",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Japan",
+      "country_name": "Japan",
+      "description": "WOTA is a Tokyo-based water-technology company building small-scale decentralized water recycling systems and autonomous water-treatment control technology to reuse domestic wastewater. Its product line includes WOTA BOX and WOSH, and the company operates a Water 2040 Fund for Japanese municipalities facing aging pipeline infrastructure, plus the JWAD disaster mutual-aid platform.",
+      "id": "b68950707c877f1b32bb96947181bfecb5b4f5df126ac6041a4cfef9939ea501",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/wota",
+      "name": "WOTA",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "5d7ecfd6042542e1993b04f4e2e275a9",
+          "name": "Water Technology",
+          "slug": "water-technology"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "vertical",
+          "id": "d81bcd961fb24950b90c0773b318fb4a",
+          "name": "Environmental Services",
+          "slug": "environmental-services"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "b68950707c877f1b32bb96947181bfecb5b4f5df126ac6041a4cfef9939ea501",
+    "currency": "JPY",
+    "fundingAmount": "undisclosed",
+    "fundingAnnounceDate": "2026-04-17",
+    "id": "12907_14532",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "China",
+      "country_name": "China",
+      "description": "X Square Robot develops general-purpose embodied intelligence robots with high-precision manipulation capabilities, including models like WALL-A and robots such as Quanta X1 and Quanta X2 for applications in manufacturing, logistics, and healthcare.",
+      "id": "Ze6E0MxuQ6ql5DOXRVRa",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/x-square-robot",
+      "name": "X Square Robot",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "98bcec661ec74211bc6fd4ecf1b6bcd8",
+          "name": "Logistics",
+          "slug": "logistics"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "Ze6E0MxuQ6ql5DOXRVRa",
+    "currency": "CNY",
+    "fundingAmount": "2B",
+    "fundingAnnounceDate": "2026-04-20",
+    "id": "7525_13371",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "South Africa",
+      "country_name": "South Africa",
+      "description": "Zimi is a Stellenbosch-based energy technology company offering an integrated electric-vehicle-as-a-service platform for commercial fleet operators in South Africa. It bundles EVs, charging infrastructure, solar energy systems and energy management tools, with a maintenance-lease option that converts capital expenditure into predictable operating costs. Founded in 2021, the company positions its turnkey \"Diesel to Digital\" model as a way to cut fleet energy costs while reducing exposure to volatile fuel prices.",
+      "id": "9d3794b17e4d464e071b15373bb6c80a20ff066583b3317a070ba7fac7fefb84",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/zimicharge",
+      "name": "Zimi",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "2669ec1203ae44a58b7c09d44f002636",
+          "name": "Fleet Management",
+          "slug": "fleet-management"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "cf21929d5eeb44a0906c84a5475e4301",
+          "name": "Electric Vehicles",
+          "slug": "electric-vehicles"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9d3794b17e4d464e071b15373bb6c80a20ff066583b3317a070ba7fac7fefb84",
+    "currency": "USD",
+    "fundingAmount": "2.6M",
+    "fundingAnnounceDate": "2026-06-05",
+    "id": "14253_15402",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Japan",
+      "country_name": "Japan",
+      "description": "bitBiome is a Tokyo- and Palo Alto-based biotech building an AI-driven enzyme and strain engineering platform on top of its proprietary single-cell microbial genome database (bit-MAP/bit-GEM), which holds over 3 billion sequences mostly absent from public datasets. The company couples this with high-throughput modelling (bit-EVO) to discover and engineer microbial enzymes and pathways for industrial biotech, pharma, food and advanced biomanufacturing.",
+      "id": "ff4841ca9165addba1998dd688e2e210a5db60e47a1a61b0bb739f955b94e933",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/bitbiome",
+      "name": "bitBiome",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "ff4841ca9165addba1998dd688e2e210a5db60e47a1a61b0bb739f955b94e933",
+    "currency": "JPY",
+    "fundingAmount": "undisclosed",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13428_14873",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "ecoworks is a Berlin-based renovation technology company founded in 2019, pioneering serial renovation for climate-neutral building decarbonisation across Europe. With 130+ engineers, architects and digital experts, it uses AI-powered planning, digital twins and industrial prefabrication to retrofit residential buildings at scale. The company industrially prefabricates facade modules, insulation, windows and PV systems ex-factory, dramatically reducing on-site construction time. Its mission is to save one gigaton of CO₂ by 2045.",
+      "id": "23e327488561689627f40cd88b3447f0c05953d7ce8823d7d66901f57d9fc7df",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/ecoworksnetzerobuildings",
+      "name": "ecoworks",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "e48ead4255dd4c05b478c9030af03139",
+          "name": "Climate Tech",
+          "slug": "climate-tech"
+        },
+        {
+          "category": "vertical",
+          "id": "e96097ba84494eb09b3f733e349998b1",
+          "name": "Constructiontech",
+          "slug": "constructiontech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "23e327488561689627f40cd88b3447f0c05953d7ce8823d7d66901f57d9fc7df",
+    "currency": "EUR",
+    "fundingAmount": "23M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "10854_12596",
+    "stage": "undisclosed"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "encosa is a Munich-based provider of battery energy storage systems (BESS) for commercial and industrial businesses, targeting Germany's energy-intensive Mittelstand. Founded in 2024, it runs an end-to-end model covering planning, financing, installation and operation, and combines behind-the-meter energy cost savings with front-of-meter energy trading and arbitrage. Customers can buy, rent or lease the systems and begin cutting electricity costs from the first month, with the investment typically paying back within 18 months to five years.",
+      "id": "2499110ebbca2df790ce8069c11eac452bb6fa6c4518fa6f042c26783c61bac2",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/encosa-energy",
+      "name": "encosa",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "2499110ebbca2df790ce8069c11eac452bb6fa6c4518fa6f042c26783c61bac2",
+    "currency": "EUR",
+    "fundingAmount": "25M",
+    "fundingAnnounceDate": "2026-06-01",
+    "id": "13871_15044",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "esVolta, LP is a US developer, owner, and operator of utility-scale battery energy storage systems, founded in 2017 and headquartered in Newport Beach, California. It serves utilities and corporate offtakers across major grid markets including CAISO, ERCOT and WECC, with roughly 2.0 GWh in operation or construction and a pipeline of around 30 projects totaling 25 GWh. The company is a portfolio company of sustainable infrastructure investor Generate Capital.",
+      "id": "1e9eb1ed08897269267e07085c9f2bf8153169864e7f80fa46e83063e5beb750",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/esvolta-lp",
+      "name": "esVolta",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "1e9eb1ed08897269267e07085c9f2bf8153169864e7f80fa46e83063e5beb750",
+    "currency": "USD",
+    "fundingAmount": "450M",
+    "fundingAnnounceDate": "2026-06-08",
+    "id": "14443_15634",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "InCharge Energy is a Los Angeles-based provider of full-lifecycle energy infrastructure services across North America, spanning EV charging, electrical and lighting, and distributed energy resources. It operates one of the continent's largest multi-brand charger service networks — more than 30,000 managed assets for fleets, school districts, and municipalities — powered by its proprietary InControl software platform and an in-house, nationwide field-service organization. The company positions itself as a single accountable partner from project planning and construction through long-term operations and maintenance.",
+      "id": "f7ffee5f199996871cf1f3bbd9eba9d323f283d495479c5a653cc87b4ca62ab7",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/incharge-energy",
+      "name": "inCharge Energy",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        },
+        {
+          "category": "vertical",
+          "id": "cf21929d5eeb44a0906c84a5475e4301",
+          "name": "Electric Vehicles",
+          "slug": "electric-vehicles"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f7ffee5f199996871cf1f3bbd9eba9d323f283d495479c5a653cc87b4ca62ab7",
+    "currency": "USD",
+    "fundingAmount": "46M",
+    "fundingAnnounceDate": "2026-06-04",
+    "id": "14233_15379",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "San Francisco Bay Area startup building frontier AI for molecular-level protein characterization across the life sciences. Spun out of Nobel laureate Carolyn Bertozzi's Stanford lab in December 2025 (Y Combinator W26), the platform combines deterministic chemistry/biology algorithms with AI agents that interpret mass spectrometry data, delivering automated, explainable characterization of biologic therapeutics in minutes rather than weeks. Initial customers include pharmaceutical and biotech partners using the tool to accelerate drug development decisions.",
+      "id": "b0853e3ae70d4b852c6afaa84d7270d57018c329291a387db441849f748229d1",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/10xscience",
+      "name": "10x Science",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "model",
+          "id": "1a9359e634ce4551b9fbd4c32195862d",
+          "name": "Platform",
+          "slug": "platform"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "b0853e3ae70d4b852c6afaa84d7270d57018c329291a387db441849f748229d1",
+    "currency": "USD",
+    "fundingAmount": "4.8M",
+    "fundingAnnounceDate": "2026-04-22",
+    "id": "11736_13601",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "ARTAN Bio is a St. Petersburg, Florida longevity biotechnology company developing mutation-specific codon-suppression therapies. Its platform centers on engineered suppressor tRNA systems (lead candidate ARTAN-102) that recognize disease-causing nonsense mutations and restore normal protein translation, targeting both rare genetic diseases and aging-related conditions. The company funds its research through VitaDAO's decentralized science (IP-NFT) model.",
+      "id": "8c70c786b7e842bf3e8432489adf0ebf9bd40b6be40a38616a4d989a8033001d",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/artan-bio",
+      "name": "ARTAN Bio",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "8c70c786b7e842bf3e8432489adf0ebf9bd40b6be40a38616a4d989a8033001d",
+    "currency": "USD",
+    "fundingAmount": "200K",
+    "fundingAnnounceDate": "2026-06-04",
+    "id": "14128_15251",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Advanced NanoTherapies (ANT) is a clinical-stage medtech company developing SirPlux Duo, a dual-drug (sirolimus and paclitaxel) drug-coated balloon built on a biodegradable nanoparticle platform for treating coronary and peripheral artery disease. The technology, exclusively licensed from Cleveland Clinic and granted FDA Breakthrough Device designation, is engineered to actively drive drug uptake into vessel-wall cells as an alternative to permanent implants such as drug-eluting stents. Based in Santa Clara, California, ANT is a T45 Labs portfolio company advancing toward U.S. pivotal trials.",
+      "id": "dcdf014e7430825e744ce5040388f77d91c5aa8973421edbdd99065982914c5a",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/advanced-nanotherapies",
+      "name": "Advanced NanoTherapies",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "a58c0ce68b754275970a528b3ff84112",
+          "name": "Medtech",
+          "slug": "medtech"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "dcdf014e7430825e744ce5040388f77d91c5aa8973421edbdd99065982914c5a",
+    "currency": "USD",
+    "fundingAmount": "31M",
+    "fundingAnnounceDate": "2026-06-02",
+    "id": "14007_15138",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Aetherflux's mission is to deliver energy to planet Earth. Our work will make energy more accessible, establish American energy independence, power underdeveloped and disaster-stricken areas, and protect American warfighters. \n\nAetherflux is taking a new approach to an old idea – space solar power. Our satellites will collect sunlight in Low Earth Orbit and transmit that power through infrared lasers to portable ground receivers, providing energy access where traditional delivery is expensive, challenging, or dangerous. \n\nCurrent energy systems rely on complex logistics and outdated infrastructure, making them vulnerable to natural disasters, extreme weather, and physical and cyber attacks. Aetherflux overcomes these challenges by enabling direct, on-demand, secure, and scalable 24-hour energy distribution from space. This can revolutionize energy generation and delivery, and enable new capabilities as we deliver power to remote regions, military bases, bespoke operations, and unmanned autonomous systems. \n\nBaiju Bhatt founded Aetherflux in 2024. Inspired by his father’s career at NASA, Baiju earned his B.S. in Physics and M.S. in Mathematics at Stanford before co-founding Robinhood, now a public company that has helped over 20 million Americans access the financial system. Aetherflux raised $60 million from Index Ventures, Interlagos, Breakthrough Energy Ventures, Andreessen Horowitz, NEA, and others. \n\nThis is an ambitious mission that demands extraordinary talent. Aetherflux’s team has worked at places like SpaceX, NASA, Anduril, and the U.S. Navy, and is based in San Carlos, CA. If you're ready to solve complex technical challenges and help build the most important energy company in the world, we want to hear from you.",
+      "id": "RBcpLvsM0W740c7dXNys",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/aetherflux/",
+      "name": "Aetherflux",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "7e99f3be2a0b4b8ea6239a948f242858",
+          "name": "Space Technology",
+          "slug": "space-technology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "RBcpLvsM0W740c7dXNys",
+    "currency": "USD",
+    "fundingAmount": "300M",
+    "fundingAnnounceDate": "2026-03-27",
+    "id": "1433_12394",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "Netherlands",
+      "country_name": "Netherlands",
+      "description": "Affix Labs is a Dutch green chemtech startup developing a patented water-based solubility and controlled-release system that turns traditionally oily, water-insoluble active ingredients into long-lasting, neurotoxic-free insect barriers. Its flagship product, Repeltec, is a surface insect repellent authorised in Germany, France, Austria, and Norway and is designed as a compliant alternative as EU pesticide rules tighten. The company also licenses the technology to FMCG brands, hospitality operators, and pest-control manufacturers via a \"Powered by Affix Labs\" white-label model.",
+      "id": "2ca4052032f79f104f64d4396b7252f9d469b8d4cf605e8a3ff69866182cfc46",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/affixlabs",
+      "name": "Affix Labs",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "model",
+          "id": "31a637d647ba47f88782cc11ee9cbe61",
+          "name": "White Label",
+          "slug": "white-label"
+        },
+        {
+          "category": "vertical",
+          "id": "31feb9b099e747daa43f444edf085610",
+          "name": "Chemicals",
+          "slug": "chemicals"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "2ca4052032f79f104f64d4396b7252f9d469b8d4cf605e8a3ff69866182cfc46",
+    "currency": "EUR",
+    "fundingAmount": "1M",
+    "fundingAnnounceDate": "2026-04-23",
+    "id": "11668_13525",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Brazil",
+      "country_name": "Brazil",
+      "description": "Aimirim is a Brazilian deeptech founded in Uberlândia that combines field hardware with software to digitalize industrial operations. Its Tupana platform delivers real-time automation, digital twins, IoT sensor management, predictive control and data analytics across agriculture, mining and pulp sectors, integrating with existing legacy equipment. Clients include Raízen, British American Tobacco, Mondelēz and Agropalma, and the company already serves customers in Brazil, the United States, Europe and Asia.",
+      "id": "96e90a3a972912422e260b30b37c4e847b5356626b8f0574973abaa21bc83ac6",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/aimirim-br",
+      "name": "Aimirim",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "0a34a0b3f0e04efa96033038b19611da",
+          "name": "Data Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "tech",
+          "id": "bfd4222565e14d96ad62f6a9d8d2c7ca",
+          "name": "IoT",
+          "slug": "iot"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "96e90a3a972912422e260b30b37c4e847b5356626b8f0574973abaa21bc83ac6",
+    "currency": "USD",
+    "fundingAmount": "2M",
+    "fundingAnnounceDate": "2026-05-15",
+    "id": "13046_14666",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Denmark",
+      "country_name": "Denmark",
+      "description": "Danish biotech developing an enzyme-based dietary supplement that breaks down alcohol in the stomach before it enters the bloodstream, targeting ALDH2 deficiency. Uses liposomal encapsulation to protect enzymes from stomach acid. Founded in 2020 out of student innovation hubs at UCPH and DTU, with a UK therapeutic subsidiary and initial market plans in Singapore and South Korea.",
+      "id": "01699a0f7e26f23ff468647f17ea20e98479581a02160dc2ea487ceb916e0598",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/alcolase",
+      "name": "Alcolase",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "f24da97e6a564994958b532e5a5bc48a",
+          "name": "Nutrition",
+          "slug": "nutrition"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "01699a0f7e26f23ff468647f17ea20e98479581a02160dc2ea487ceb916e0598",
+    "currency": "EUR",
+    "fundingAmount": "1.5M",
+    "fundingAnnounceDate": "2026-05-14",
+    "id": "12811_14446",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Aligned Data Centers is a technology infrastructure company specializing in innovative, sustainable, and adaptive scale data centers and build-to-scale solutions for hyperscale and enterprise customers. They focus on energy-efficient infrastructure with patented cooling technology to improve sustainability and reliability.",
+      "id": "a9usMUn7fFWwxvqjBaSN",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/aligned-energy",
+      "name": "Aligned Data Centers",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "tech",
+          "id": "b13dee545cec4e02b724c7a5b3e632bc",
+          "name": "Cloud Infrastructure",
+          "slug": "cloud-infrastructure"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a9usMUn7fFWwxvqjBaSN",
+    "currency": "USD",
+    "fundingAmount": "2.58B",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "3443_12236",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "New Zealand",
+      "country_name": "New Zealand",
+      "description": "Alimentary Systems designs and builds Bioresource Recovery Plants that accept all bioorganic waste and convert it into value. Their circular system offsets costs through bioenergy sales, fossil-free organic fertiliser, and carbon credits from landfill emissions reductions.",
+      "id": "f259688680ce78a15cf386ad8be33c6d80e75561512cd92b32182c1e82edce6f",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/alimentary-systems",
+      "name": "Alimentary Systems",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "6b10b94e0b224269a353070ee667ccb2",
+          "name": "Carbon Management",
+          "slug": "carbon-management"
+        },
+        {
+          "category": "vertical",
+          "id": "7418c003979341279dedbd2846f418ee",
+          "name": "Waste Management",
+          "slug": "waste-management"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f259688680ce78a15cf386ad8be33c6d80e75561512cd92b32182c1e82edce6f",
+    "currency": "NZD",
+    "fundingAmount": "13.2M",
+    "fundingAnnounceDate": "2026-03-28",
+    "id": "10635_12308",
+    "stage": "Seed"
+  }
+]

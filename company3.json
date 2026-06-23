@@ -1,0 +1,2510 @@
+[
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Aligned Data Centers is a technology infrastructure company specializing in innovative, sustainable, and adaptive scale data centers and build-to-scale solutions for hyperscale and enterprise customers. They focus on energy-efficient infrastructure with patented cooling technology to improve sustainability and reliability.",
+      "id": "a9usMUn7fFWwxvqjBaSN",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/aligned-energy",
+      "name": "Aligned Data Centers",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        },
+        {
+          "category": "tech",
+          "id": "b13dee545cec4e02b724c7a5b3e632bc",
+          "name": "Cloud Infrastructure",
+          "slug": "cloud-infrastructure"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a9usMUn7fFWwxvqjBaSN",
+    "currency": "USD",
+    "fundingAmount": "2.58B",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "3443_12236",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Leading the evolution of energy infrastructure, Aypa Power has redefined utility-scale battery energy storage as a critical asset class, supporting grid reliability and modernizing energy markets. As a Blackstone portfolio company, Aypa develops, owns, and operates large-scale energy storage and hybrid renewable energy projects across North America. Our portfolio includes 24 assets either operational or under construction, alongside a 22-gigawatt (GW) development pipeline, with many projects backed by long-term agreements.",
+      "id": "afc0e3a42507bc8e8435c6674afbef5acd8b681c10ffdb3749f24803fca25ff4",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/aypa",
+      "name": "Aypa Power",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "afc0e3a42507bc8e8435c6674afbef5acd8b681c10ffdb3749f24803fca25ff4",
+    "currency": "USD",
+    "fundingAmount": "500M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "10881_12588",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "Australia",
+      "country_name": "Australia",
+      "description": "Cable is a Sydney-based retail electricity provider for Australian small and medium businesses. It installs a smart battery at the customer site at no upfront cost and sells power on a flat 24/7 rate guaranteed for three years, charging the battery at low wholesale prices and discharging at peaks to deliver 20-40% bill savings. The company is currently serving SMEs in Sydney metro LGAs on the Ausgrid network after a six-month private beta.",
+      "id": "57c5a51ab9216657edfa98d94aa2bce5596e8c784f7e77c5343647468cc6d48b",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/cable-energy",
+      "name": "Cable",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "model",
+          "id": "c29b791685f846558eec8f76413bb706",
+          "name": "SMB",
+          "slug": "smb"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "57c5a51ab9216657edfa98d94aa2bce5596e8c784f7e77c5343647468cc6d48b",
+    "currency": "AUD",
+    "fundingAmount": "4M",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13424_14870",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "CleanDesign is a Toronto-based energy technology company building Hybrid Energy Management Systems (hEMS) that pair battery storage with proprietary software and AI to optimize power use on diesel-driven sites. Its trailer-scale units are deployed by oil and gas drillers and remote miners — including operations in Mexico and Canada's Arctic Circle — to cut fuel consumption by roughly 10-15% and emissions by up to 20% without replacing existing infrastructure. The hEMS platform collects 60,000 data points per second per unit to dynamically govern generators in real time.",
+      "id": "28bfeee4c5e7cf5d17433bf5c709b363a9eb5a84137b85656d11fe51f185c0b3",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/cleandesign-inc",
+      "name": "CleanDesign",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "28bfeee4c5e7cf5d17433bf5c709b363a9eb5a84137b85656d11fe51f185c0b3",
+    "currency": "USD",
+    "fundingAmount": "20M",
+    "fundingAnnounceDate": "2026-04-28",
+    "id": "11854_13727",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Cyient Semiconductors is a Hyderabad-based fabless power semiconductor company and arm of Cyient Ltd, designing custom ASICs and analog mixed-signal silicon for data centers, robotics, automotive and industrial automation. With design centers in India, Belgium and the US, the company combines in-house IP with the recently acquired Kinetic Technologies portfolio to target power-efficiency constraints in AI infrastructure.",
+      "id": "5a45923e899316c0152a196ed70420c8bfe974e3d3d04a860d7e1f14b1860bfe",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/cyientsemi",
+      "name": "Cyient Semiconductors",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "35e64e8d17fb4be082d909888202f747",
+          "name": "Semiconductors",
+          "slug": "semiconductors"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "5a45923e899316c0152a196ed70420c8bfe974e3d3d04a860d7e1f14b1860bfe",
+    "currency": "USD",
+    "fundingAmount": "30M",
+    "fundingAnnounceDate": "2026-05-25",
+    "id": "13328_14830",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Cypher AI builds AI-native digital infrastructure for life science R&D, unifying experiment design, execution, analysis, and vendor coordination in a single platform for biotech, pharma, and research teams. The Cambridge, MA company aims to replace fragmented manual lab systems with an intelligent operating layer that accelerates discovery.",
+      "id": "cefa052abdf77781aea490c60632238274e6492015690cee3e849afc9b088020",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/cypherbio",
+      "name": "Cypher AI",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "cefa052abdf77781aea490c60632238274e6492015690cee3e849afc9b088020",
+    "currency": "USD",
+    "fundingAmount": "2M",
+    "fundingAnnounceDate": "2026-05-27",
+    "id": "13490_14898",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Belgium",
+      "country_name": "Belgium",
+      "description": "D-CRBN is an Antwerp-based deep-tech company that uses electrified plasma technology to convert industrial CO2 emissions and hydrocarbons into carbon monoxide and syngas — building blocks for sustainable fuels, chemicals and materials. The spin-off from the PLASMANT research group at the University of Antwerp targets decarbonisation of heavy industry, with pilots already validated in the steel and chemicals sectors.",
+      "id": "680a8afe1688726cd41acce5abffb6380fe8a0134a5bb8aa9ca17f20172b5a00",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/d-crbn",
+      "name": "D-CRBN",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "31feb9b099e747daa43f444edf085610",
+          "name": "Chemicals",
+          "slug": "chemicals"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "6b10b94e0b224269a353070ee667ccb2",
+          "name": "Carbon Management",
+          "slug": "carbon-management"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "680a8afe1688726cd41acce5abffb6380fe8a0134a5bb8aa9ca17f20172b5a00",
+    "currency": "EUR",
+    "fundingAmount": "17.5M",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13430_14875",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "DISA Technologies is an innovative materials liberation company based in Casper, Wyoming, specializing in patented High-Pressure Slurry Ablation (HPSA) technology that enhances mineral recovery and environmental remediation. Their technology optimizes resource use, disrupts mining and reclamation practices, and isolates a wide range of geologic materials including precious and industrial metals, hydrocarbons, and abandoned uranium mine material.",
+      "id": "RAlvESymPnoJzn1IJyFi",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/disa-technologies/",
+      "name": "DISA Technologies",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "stage",
+          "id": "3d3230769cec4d2f80067a9f5e8d5493",
+          "name": "Early Stage",
+          "slug": "early-stage"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "a3e47e66f3bb4551945a52005d036ac7",
+          "name": "Mining & Metals",
+          "slug": "mining-metals"
+        },
+        {
+          "category": "vertical",
+          "id": "d81bcd961fb24950b90c0773b318fb4a",
+          "name": "Environmental Services",
+          "slug": "environmental-services"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "RAlvESymPnoJzn1IJyFi",
+    "currency": "USD",
+    "fundingAmount": "33M",
+    "fundingAnnounceDate": "2026-04-30",
+    "id": "2808_13867",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "China",
+      "country_name": "China",
+      "description": "DeepWay develops new-energy autonomous heavy-duty freight trucks, designing vehicle platforms, electric powertrains, and Level 4 driving software in-house rather than retrofitting diesel chassis. Founded in 2020 as a joint venture between Baidu and Chinese trucking firm Lionbridge, the Hefei-based company has delivered around 6,400 intelligent electric trucks across China since starting commercial operations in 2023 and filed for a Hong Kong listing in November 2025.",
+      "id": "f3be6b3eaf08d856a3c7f58180a26ececaa66d6684ad16abb0076aeeef79e55d",
+      "industry": {
+        "id": "d15fdcd6613f4d9893bad1c011565916",
+        "name": "Transportation & Logistics",
+        "slug": "transportation-logistics"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/deepway-technology",
+      "name": "DeepWay",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "2047e21711ff4033976fa7a7ed3669f6",
+          "name": "Autonomous Vehicles",
+          "slug": "autonomous-vehicles"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "577b156b66e54e5a88e8ce956c5ca305",
+          "name": "Freight & Shipping",
+          "slug": "freight-shipping"
+        },
+        {
+          "category": "vertical",
+          "id": "cf21929d5eeb44a0906c84a5475e4301",
+          "name": "Electric Vehicles",
+          "slug": "electric-vehicles"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f3be6b3eaf08d856a3c7f58180a26ececaa66d6684ad16abb0076aeeef79e55d",
+    "currency": "USD",
+    "fundingAmount": "310M",
+    "fundingAnnounceDate": "2026-04-21",
+    "id": "12015_13904",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "Korea, Republic of",
+      "country_name": "Korea, Republic of",
+      "description": "Deeply is a Seoul-based sound AI company that builds non-verbal acoustic analysis (\"machine hearing\") technology. Its flagship Listen AI Industrial solution automates the acoustic inspection of manufactured parts, detecting defects and equipment anomalies for quality control and predictive maintenance in smart factories. Founded in 2017, the company reports inspection accuracy above 99.87% and supplies automakers, Hyosung Electric, Korail and the Republic of Korea Army.",
+      "id": "9515f485d644eb5b24316270d4980a8d5053a835c69e5be3a237f9f3f4e1e87c",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/deeplyinc",
+      "name": "Deeply",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9515f485d644eb5b24316270d4980a8d5053a835c69e5be3a237f9f3f4e1e87c",
+    "currency": "KRW",
+    "fundingAmount": "2.5B",
+    "fundingAnnounceDate": "2026-06-15",
+    "id": "14600_15802",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "China",
+      "country_name": "China",
+      "description": "Degron Therapeutics is a clinical-stage biotechnology company developing molecular glue degrader (MGD) medicines that target previously undruggable proteins across oncology, immunology and metabolic disease. Its proprietary GlueXplorer platform has produced more than 10,000 differentiated MGD compounds, and its lead program DEG6498 — a first-in-class oral HuR degrader — is in Phase 1 dose escalation for advanced solid tumors. Founded in 2021, the company is headquartered in Shanghai with offices in Hangzhou and San Diego, and partners with Takeda on additional MGD programs.",
+      "id": "69c64149f929dae12526dbfb8c81d0490f28ce9ab0b6b843ad802303a8f5b42d",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/degrontx",
+      "name": "Degron Therapeutics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "69c64149f929dae12526dbfb8c81d0490f28ce9ab0b6b843ad802303a8f5b42d",
+    "currency": "USD",
+    "fundingAmount": "40M",
+    "fundingAnnounceDate": "2026-05-14",
+    "id": "12780_14422",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "AI robotics startup specializing in warehouse automation and intelligence.",
+      "id": "QfBjgw9g9ig1LT22F4zH",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/dexory/",
+      "name": "Dexory",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        },
+        {
+          "category": "vertical",
+          "id": "fd9e78ca7f3347109072b68e0ba88fbd",
+          "name": "Supply Chain",
+          "slug": "supply-chain"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "QfBjgw9g9ig1LT22F4zH",
+    "currency": "EUR",
+    "fundingAmount": "9.8M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "2977_12194",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Dholakia Lab Grown Diamond (DLGD) is a Surat-based, vertically integrated lab-grown diamond and jewellery manufacturer that grows, cuts, polishes, designs, and distributes LGDs to over 100 retailers across 25+ countries. It is the lab-grown diamond arm of the 33-year-old Hari Krishna Group and runs proprietary diamond-growing, robotic manufacturing and AI-assisted design lines powered by renewable energy. Beyond jewellery, DLGD is developing precision single-crystal diamonds for optical, quantum, thermal, semiconductor and defence applications.",
+      "id": "9d3eeb4003f434b1ffde2566f400e94405c979e3031ab1c1abafc60dd6660650",
+      "industry": {
+        "id": "2450cd244ad34bbfaa61746ba097f8a2",
+        "name": "Consumer Goods & Retail",
+        "slug": "consumer-goods-retail"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/dholakialabgrowndiamond",
+      "name": "Dholakia Lab Grown Diamond",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "23bb14b6e2e44dd281c1cc4a1fdf5066",
+          "name": "Growth Stage",
+          "slug": "growth-stage"
+        },
+        {
+          "category": "vertical",
+          "id": "649112ba57644aa780681061cc7140ab",
+          "name": "Jewelry",
+          "slug": "jewelry"
+        },
+        {
+          "category": "tech",
+          "id": "ad7e37793577453b949e5804e0dae8ec",
+          "name": "Quantum Computing",
+          "slug": "quantum-computing"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9d3eeb4003f434b1ffde2566f400e94405c979e3031ab1c1abafc60dd6660650",
+    "currency": "INR",
+    "fundingAmount": "8B",
+    "fundingAnnounceDate": "2026-04-29",
+    "id": "12295_14172",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "Japan",
+      "country_name": "Japan",
+      "description": "Dioseve is a Tokyo-based reproductive-medicine startup developing assisted reproductive technology built on iPS-cell differentiation. Its lead product, ReproNest (DIOS-101), is a co-culture system using iPS-derived ovarian support cells to improve the in vitro maturation of immature eggs, aiming to reduce the hormonal stimulation and clinic visits that fertility patients face. The company is pursuing treatments for age-related and hereditary infertility and is backed by Japanese deep-tech and pharmaceutical investors.",
+      "id": "ba6cd45d3b5c9d59531b16d5b6c21d2631dd37894321f48f28a88072b99fac35",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/dioseve",
+      "name": "Dioseve",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "ba6cd45d3b5c9d59531b16d5b6c21d2631dd37894321f48f28a88072b99fac35",
+    "currency": "JPY",
+    "fundingAmount": "1B",
+    "fundingAnnounceDate": "2026-06-12",
+    "id": "14527_15745",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Australia",
+      "country_name": "Australia",
+      "description": "Inventors of URTHCOR®. Creating a revolution in sustainable packaging without compromise | We are a global packaging manufacturer and the inventor of URTHCOR®, the first non-fibre, waterproof, reusable, and closed-loop recyclable packaging material made from majority earth-based minerals. The patented technology is designed as a high-performance packaging alternative to conventional packaging. \n\nTo achieve this, we’ve built a passionate team of polymer engineering, corrugated paper, plastic manufacturing and sustainable packaging experts, all fuelled by a desire for sustainable innovation.",
+      "id": "ccc44a31da4caf1fa2ec2542a31590ea2f879d2d7463be074a86c743026fd2e8",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/disruptive-packaging",
+      "name": "Disruptive Packaging",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "ccc44a31da4caf1fa2ec2542a31590ea2f879d2d7463be074a86c743026fd2e8",
+    "currency": "USD",
+    "fundingAmount": "30M",
+    "fundingAnnounceDate": "2026-03-25",
+    "id": "11088_12873",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Singapore",
+      "country_name": "Singapore",
+      "description": "Doozy Robotics is a Singapore-based Physical AI company building an autonomous industrial workforce that combines an Industrial Super Humanoid with autonomous mobile robots and forklifts, coordinated by its proprietary Eywa-OS orchestration layer. The startup sells its stack via a Robot-as-a-Service subscription model and has live deployments across Asia and the US with customers including Daimler, Carrier and VitaQuest.",
+      "id": "3018f1e7a5d96e74dde1f6992df7ea8a852313257470e4db0795f86140080faf",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/doozy-robotics",
+      "name": "Doozy Robotics",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "model",
+          "id": "565b7cc668c34bcb8273a2f5e36cbd25",
+          "name": "Subscription",
+          "slug": "subscription"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "3018f1e7a5d96e74dde1f6992df7ea8a852313257470e4db0795f86140080faf",
+    "currency": "USD",
+    "fundingAmount": "undisclosed",
+    "fundingAnnounceDate": "2026-05-21",
+    "id": "13090_14727",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Dream Aerospace Technologies is an IIT Kanpur-incubated deeptech startup developing indigenous green satellite propulsion systems, including its ATOM thruster series and CUBEHOOD propulsion module. The company positions its non-toxic propulsion as a lower-cost alternative to imported hydrazine-based systems for the small satellite market, working with ISRO under an MoU on an in-orbit demonstration mission.",
+      "id": "6a5ffd6134983f32bbd2af1c9d661773951f2b8fef8f52a07d89ee4888fba995",
+      "industry": {
+        "id": "d2f4dacbb31a4ee090a7ccfecdbf278a",
+        "name": "Aerospace & Space",
+        "slug": "aerospace-space"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/dream-aerospace",
+      "name": "Dream Aerospace Technologies",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "7e99f3be2a0b4b8ea6239a948f242858",
+          "name": "Space Technology",
+          "slug": "space-technology"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        },
+        {
+          "category": "vertical",
+          "id": "f86c43bbfdb24ef3be10b5d470214c89",
+          "name": "Satellite Services",
+          "slug": "satellite-services"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "6a5ffd6134983f32bbd2af1c9d661773951f2b8fef8f52a07d89ee4888fba995",
+    "currency": "INR",
+    "fundingAmount": "100M",
+    "fundingAnnounceDate": "2026-06-11",
+    "id": "14464_15664",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Italy",
+      "country_name": "Italy",
+      "description": "Dronus is an Italian startup (founded 2018) that designs and manufactures automated industrial drone systems, specializing in the patented NEST® drone-in-a-box platform. Its technology enables autonomous inspection, monitoring and security patrols with 24/7 remote fleet management, automated take-off, landing and charging. Dronus serves industrial sites, critical infrastructure, smart cities and civil protection, focusing on scalable autonomous operations and AI-enabled analytics.",
+      "id": "2a118de3068ce7a2cb6a5fd5550c77dcab9c504d1c4a2bb3e6655285ede14346",
+      "industry": {
+        "id": "d2f4dacbb31a4ee090a7ccfecdbf278a",
+        "name": "Aerospace & Space",
+        "slug": "aerospace-space"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/dronus-automated-industrial-drones",
+      "name": "Dronus",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec968153a34436f88826c0d57fe433e",
+          "name": "Smart Cities",
+          "slug": "smart-cities"
+        },
+        {
+          "category": "vertical",
+          "id": "d32c36e5ee644c2f9ff76007daaa9d54",
+          "name": "Drones & UAVs",
+          "slug": "drones-uavs"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "2a118de3068ce7a2cb6a5fd5550c77dcab9c504d1c4a2bb3e6655285ede14346",
+    "currency": "EUR",
+    "fundingAmount": "15M",
+    "fundingAnnounceDate": "2026-03-24",
+    "id": "10535_12187",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "EPIC Microsystems is a San Jose-based semiconductor company emerging from stealth to develop breakthrough power delivery solutions for next-generation AI data centers. The company develops integrated voltage regulators and power management ICs designed to reduce power conversion losses and improve compute density for hyperscale AI infrastructure.",
+      "id": "0358224126c1509b09392076abcd4dc873e6c3ecae2f2c7f2c0eadf3622461fb",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/epic-micro",
+      "name": "EPIC Microsystems",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "tech",
+          "id": "35e64e8d17fb4be082d909888202f747",
+          "name": "Semiconductors",
+          "slug": "semiconductors"
+        },
+        {
+          "category": "stage",
+          "id": "3d3230769cec4d2f80067a9f5e8d5493",
+          "name": "Early Stage",
+          "slug": "early-stage"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "b92b636a548d48ac87b1bc1c67487d42",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "category": "vertical",
+          "id": "c4302ab6f1fd4474804153510329e7a0",
+          "name": "Electronics Manufacturing",
+          "slug": "electronics-manufacturing"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "0358224126c1509b09392076abcd4dc873e6c3ecae2f2c7f2c0eadf3622461fb",
+    "currency": "USD",
+    "fundingAmount": "21M",
+    "fundingAnnounceDate": "2026-03-25",
+    "id": "10495_12129",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Austria",
+      "country_name": "Austria",
+      "description": "Efferon is an Austrian biotech company that designs multimodal hemoadsorption cartridges used to strip endotoxins and inflammatory cytokines from the bloodstream, primarily as an ICU therapy for sepsis and septic shock. Its product line spans Efferon LPS for adult patients and Efferon NEO for pediatric and neonatal use, with the technology approved and deployed across more than 40 countries. Manufacturing sits in Estonia and Latvia, with commercial offices in Austria and the United States.",
+      "id": "dbde3f37f93a8cb342d2cd36332dab97a6898f4ce5350e7db2ef32035bf4960d",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/efferon",
+      "name": "Efferon",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "05f75c20187c40158dd20f3b0ce55f98",
+          "name": "Medical Devices",
+          "slug": "medical-devices"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "dbde3f37f93a8cb342d2cd36332dab97a6898f4ce5350e7db2ef32035bf4960d",
+    "currency": "EUR",
+    "fundingAmount": "2.5M",
+    "fundingAnnounceDate": "2026-05-21",
+    "id": "13091_14728",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Element Biosciences is a San Diego-based genomics and multiomics technology company that develops DNA sequencing systems and analysis tools. Its AVITI platform, launched in 2022, competes with incumbents like Illumina, and the company has since expanded into a broader ecosystem of genomic, transcriptomic, protein, spatial and cellular analysis products serving customers in over 40 countries.",
+      "id": "f0ea055951e0b111c737d8706605c5de97987ef86f8ea5697d0b060d3c7c41f2",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/elembio",
+      "name": "Element Biosciences",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "ba16ac276e3846569323709a603b9d3e",
+          "name": "Diagnostics",
+          "slug": "diagnostics"
+        },
+        {
+          "category": "vertical",
+          "id": "c992748dc4994982bb64043dacd97e5a",
+          "name": "Genomics",
+          "slug": "genomics"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f0ea055951e0b111c737d8706605c5de97987ef86f8ea5697d0b060d3c7c41f2",
+    "currency": "USD",
+    "fundingAmount": "175M",
+    "fundingAnnounceDate": "2026-06-09",
+    "id": "14352_15527",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "China",
+      "country_name": "China",
+      "description": "Elite Robots is a Chinese robotics company specializing in collaborative robots (cobots) and industrial automation solutions. Founded in 2016, the company develops high-degree-of-freedom robotic arms and automation systems for manufacturing industries. Elite Robots has delivered robots to customers across China and internationally.",
+      "id": "a797ba232a6e584d421501465ef0c931c734dfd1d34a857eba2b7b5adf4ab26c",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/eliterobots",
+      "name": "Elite Robots",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "38aecb96c30c4733831815eed2e3c436",
+          "name": "Collaboration Software",
+          "slug": "collaboration-software"
+        },
+        {
+          "category": "model",
+          "id": "4ce9228d1ec64fb6a7b0a1a4a46bf102",
+          "name": "Enterprise",
+          "slug": "enterprise"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "tech",
+          "id": "b92b636a548d48ac87b1bc1c67487d42",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "category": "vertical",
+          "id": "c4302ab6f1fd4474804153510329e7a0",
+          "name": "Electronics Manufacturing",
+          "slug": "electronics-manufacturing"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a797ba232a6e584d421501465ef0c931c734dfd1d34a857eba2b7b5adf4ab26c",
+    "currency": "USD",
+    "fundingAmount": "87.1M",
+    "fundingAnnounceDate": "2026-03-25",
+    "id": "10880_12587",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Elmed Life Sciences is a Hyderabad-based science-led biotech company developing probiotic and biological solutions for animal health, aquaculture, agriculture, and human health. The company manufactures microbiome-based products designed to boost productivity, immunity, and sustainability across multiple sectors. Elmed partners with pharmaceutical and agricultural firms including Aurobindo and Apex Laboratories, and focuses on expanding microbiome innovation across India and globally.",
+      "id": "62b95ff51d2d11f734b60d949f68430dd561172801c67472068c76320de36b74",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/elmedlifesciences",
+      "name": "Elmed Life Sciences",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "3a400a8aa0194fc89cdaebbd4d2b0d3e",
+          "name": "Agritech",
+          "slug": "agritech"
+        },
+        {
+          "category": "vertical",
+          "id": "b7bfdec3c75948d2908a9087fe3520dd",
+          "name": "Aquaculture",
+          "slug": "aquaculture"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "62b95ff51d2d11f734b60d949f68430dd561172801c67472068c76320de36b74",
+    "currency": "USD",
+    "fundingAmount": "2.7M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10773_12462",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Emerald AI develops an AI-driven compute orchestration platform called Conductor that transforms energy-intensive data centers into flexible grid assets by dynamically managing AI workloads to optimize power consumption and support electric grid stability.",
+      "id": "x98Hz9BQhn9pAb5LGtCQ",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/emerald-ai-1/",
+      "name": "Emerald AI",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "0a34a0b3f0e04efa96033038b19611da",
+          "name": "Data Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "x98Hz9BQhn9pAb5LGtCQ",
+    "currency": "USD",
+    "fundingAmount": "25M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "4140_12607",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Endurance Energy is a Seattle-based deep-tech startup developing undersea geothermal power generators that tap heat from the seafloor to produce baseload renewable electricity. The company recently launched a subsea pilot with the Kingdom of Tonga and is targeting island grids and military installations as early customers.",
+      "id": "e87af895ca1508256e145b6ec067c29ed4bcfa4e504aa7cc479355a3c74d3f79",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/enduranceenergy",
+      "name": "Endurance Energy",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "9989a0fbeb814081aba32b1d1b8ab77c",
+          "name": "Geothermal Energy",
+          "slug": "geothermal-energy"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "e87af895ca1508256e145b6ec067c29ed4bcfa4e504aa7cc479355a3c74d3f79",
+    "currency": "USD",
+    "fundingAmount": "25M",
+    "fundingAnnounceDate": "2026-05-27",
+    "id": "13555_14928",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "Entelo Bio is an Oxford, UK-based AIxBio startup spun out of the University of Oxford's Botnar Institute for Musculoskeletal Sciences. The company combines a proprietary clinical network, wet-lab capabilities, and AI infrastructure to generate high-resolution human data and disease models targeting movement and ageing-related conditions that affect roughly 1.7 billion people worldwide. Led by CEO Dr Peter Crane and CTO Prof Adam Cribbs, Entelo Bio positions itself as a foundational data engine for precision medicine in human physical resilience, partnering on and developing therapeutics for chronic age-associated and rare genetic movement disorders.",
+      "id": "0c7f3014be23b814ea661585fe221da8db0d851b2eb3f5470fa92271d1dfefda",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/entelobiosciences",
+      "name": "Entelo Bio",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "0c7f3014be23b814ea661585fe221da8db0d851b2eb3f5470fa92271d1dfefda",
+    "currency": "USD",
+    "fundingAmount": "4M",
+    "fundingAnnounceDate": "2026-04-24",
+    "id": "11712_13571",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "EnteroBiotix is a Glasgow-based clinical-stage biopharmaceutical company developing full-spectrum microbiome therapeutics for gut-health indications. Its lead candidate, EBX-102-02, is an orally delivered investigational microbiome therapy advancing into Phase 2b development for Irritable Bowel Syndrome with Constipation (IBS-C). The company is building a pipeline targeting high-value gastrointestinal conditions where unmet need has persisted for decades.",
+      "id": "a457ae0ffda9ef5353b9470536e629ea465c0b849a3346e94868494f6f673993",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/enterobiotix",
+      "name": "EnteroBiotix",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a457ae0ffda9ef5353b9470536e629ea465c0b849a3346e94868494f6f673993",
+    "currency": "GBP",
+    "fundingAmount": "19M",
+    "fundingAnnounceDate": "2026-04-29",
+    "id": "12000_13889",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "EpiFrontier Therapeutics is a biotechnology company focused on developing epigenetic therapeutics for beta globin diseases, including sickle cell disease.",
+      "id": "31bb5d73daf06d7385f4bb14c6ed63324f846ee53eca5c8a6a8bf717b79363c2",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/epifrontier-therapeutics",
+      "name": "EpiFrontier Therapeutics, Inc.",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "c992748dc4994982bb64043dacd97e5a",
+          "name": "Genomics",
+          "slug": "genomics"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "31bb5d73daf06d7385f4bb14c6ed63324f846ee53eca5c8a6a8bf717b79363c2",
+    "currency": "USD",
+    "fundingAmount": "32M",
+    "fundingAnnounceDate": "2026-03-24",
+    "id": "10437_12060",
+    "stage": "undisclosed"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Estro Tech Robotics is a Kerala-based deep-tech startup building robotics and AIoT (Artificial Intelligence of Things) systems for retail, infrastructure, and industrial applications. Founded in 2020, it first gained attention for India's first UV-sterilising robot during the pandemic and now develops products such as RobAd, an in-store retail advertising robot, alongside inspection robotics for underground utility networks. The company has established distribution partnerships across Nigeria, Botswana, Qatar, and South Korea.",
+      "id": "281fb252aa0eaf53c5287a7a2cc0b3070de854444f67ca1c49d0d18276f31962",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/estro-tech-robotics",
+      "name": "Estro Tech Robotics",
+      "tags": [
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "tech",
+          "id": "5a4644a4ad514946b9e8e3dbd658dd26",
+          "name": "Robotics",
+          "slug": "robotics"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "ce7137d464b444319eab2dab1104dccb",
+          "name": "Retailtech",
+          "slug": "retailtech"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "281fb252aa0eaf53c5287a7a2cc0b3070de854444f67ca1c49d0d18276f31962",
+    "currency": "INR",
+    "fundingAmount": "10M",
+    "fundingAnnounceDate": "2026-06-05",
+    "id": "14516_15734",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Ethyreal Bio is a Cambridge, Massachusetts biotechnology company developing precision therapies for thyroid diseases with high unmet need. Its lead program, ETHY-001, is a monoclonal antibody antagonist of the thyroid stimulating hormone receptor (TSHR) designed to block the autoantibody-driven mechanism shared by Graves' disease and thyroid eye disease, delivered via patient-friendly subcutaneous dosing. The company emerged from stealth in June 2026 and plans to begin first-in-human trials in the second half of 2026.",
+      "id": "a8e9c010a0a0e0893838f00e3589a569bb6a3ebfb19cdfbf62c596cf46e3486e",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/ethyreal-bio",
+      "name": "Ethyreal Bio",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a8e9c010a0a0e0893838f00e3589a569bb6a3ebfb19cdfbf62c596cf46e3486e",
+    "currency": "USD",
+    "fundingAmount": "101M",
+    "fundingAnnounceDate": "2026-06-10",
+    "id": "14440_15632",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Evotrex is a California-based company innovating outdoor travel with intelligent, power-generating RV trailers designed for adventure without limits, enabling off-grid living with advanced energy management and comfort.",
+      "id": "A8Q1rOACfQbK2eduHaLz",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/evotrexnow",
+      "name": "Evotrex",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "6ee27f0411ff4cb29cca46c827d6c6b8",
+          "name": "Outdoor Activities",
+          "slug": "outdoor-activities"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "A8Q1rOACfQbK2eduHaLz",
+    "currency": "USD",
+    "fundingAmount": "30M",
+    "fundingAnnounceDate": "2026-06-09",
+    "id": "4918_15491",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Builds AI systems that automate expert decision-making in regulated laboratory environments using Limited Sample Model (LSM) on raw instrument data for pharmaceuticals, manufacturing, food-safety testing, and industrial workflows.",
+      "id": "o6gDXpGnVR0Bo8ic9O0n",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/expert-intelligence/",
+      "name": "Expert Intelligence",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "9e4e7b3f5c4d4494a581df5c730d36b8",
+          "name": "Pharmaceuticals",
+          "slug": "pharmaceuticals"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        },
+        {
+          "category": "tech",
+          "id": "ea189360c7574b03b78bb1d6b0286588",
+          "name": "Automation",
+          "slug": "automation"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "o6gDXpGnVR0Bo8ic9O0n",
+    "currency": "USD",
+    "fundingAmount": "5.8M",
+    "fundingAnnounceDate": "2026-04-15",
+    "id": "8225_13164",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Japan",
+      "country_name": "Japan",
+      "description": "FACTORY X is an Aichi-based Japanese manufacturing-tech startup developing an \"Inventory Strategy Model\" that helps factories decide how much stock to hold strategically rather than reflexively minimizing it. Its software structures production, financial, and risk data to calculate the inventory level that maximizes value within a given budget, giving executives and shop floors a shared logic for inventory decisions. Early proofs of concept are underway with major Japanese automotive parts manufacturers, with some advancing toward full deployment.",
+      "id": "c9a6d00173acc63cd5ebf5c9577fc68c816230e3db2e334919a1ac3087acc8cb",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/factoryx-inc",
+      "name": "FACTORY X",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "9dfbf8955ab44345a7d0ee3771678459",
+          "name": "Enterprise Software",
+          "slug": "enterprise-software"
+        },
+        {
+          "category": "vertical",
+          "id": "fd9e78ca7f3347109072b68e0ba88fbd",
+          "name": "Supply Chain",
+          "slug": "supply-chain"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "c9a6d00173acc63cd5ebf5c9577fc68c816230e3db2e334919a1ac3087acc8cb",
+    "currency": "JPY",
+    "fundingAmount": "100M",
+    "fundingAnnounceDate": "2026-05-22",
+    "id": "13154_14775",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Croatia",
+      "country_name": "Croatia",
+      "description": "Fasal Bio is a Zagreb-based renewable materials company developing Naturion, a wood-based composite engineered to replace conventional plastics in injection moulding and extrusion processes without requiring new manufacturing equipment. Founded in 2012 by plastics engineer Krešimir Hagljan, the company develops both materials and finished consumer goods across categories including animal chewables, children's toys, household items and clothing accessories, sold under proprietary brands such as D-Bone and FORMIQ. Its products are used in commercial production for international brands across the United States and Western Europe.",
+      "id": "6d09b8cc8691844a11b93fcd12a999c00fcba8b72ec76e8462976ca7fc0acfc9",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/fasal-bio",
+      "name": "Fasal Bio",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "89273f46cfbe49e68f64d701c979676d",
+          "name": "Consumer Goods",
+          "slug": "consumer-goods"
+        },
+        {
+          "category": "vertical",
+          "id": "f4d04418fefd41c8a6748af6ab7cec25",
+          "name": "Materials Science",
+          "slug": "materials-science"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "6d09b8cc8691844a11b93fcd12a999c00fcba8b72ec76e8462976ca7fc0acfc9",
+    "currency": "EUR",
+    "fundingAmount": "7M",
+    "fundingAnnounceDate": "2026-04-23",
+    "id": "11743_13608",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Fathom Therapeutics, formerly Atommap, is a New York-based drug design company combining quantum chemistry, physics-based simulations, and AI to model protein motion at atomic resolution. Its Microcosmos platform generates the data needed to design small molecules with sharper therapeutic effects and reduced off-target risk. The company runs internal discovery programs and discovery partnerships, with a lead asset advanced into animal efficacy studies.",
+      "id": "9fa959d1f64722c1ba35c98a7718c8da2d446544a222ba7c9413763779f9878a",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/fathomtx",
+      "name": "Fathom Therapeutics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "tech",
+          "id": "ad7e37793577453b949e5804e0dae8ec",
+          "name": "Quantum Computing",
+          "slug": "quantum-computing"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "9fa959d1f64722c1ba35c98a7718c8da2d446544a222ba7c9413763779f9878a",
+    "currency": "USD",
+    "fundingAmount": "47M",
+    "fundingAnnounceDate": "2026-04-27",
+    "id": "11809_13677",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "Feldwerke is a Munich-based cleantech company developing and installing open-field agri-photovoltaic systems that pair single-axis solar trackers with active farming on the same parcels. Founded in 2023 by Nicolai Reiners, Nils Kuchenbuch and Marco Mielenz, the firm has installed more than 20 MW to date — including the largest agri-PV plant in southern Germany at Oberndorf am Lech — and is developing a pipeline of roughly 50 projects totaling over 400 MW with an ambition of 1 GW by 2030.",
+      "id": "12a93dc9649762abce40d93a39cfe2f390221e753afd87ed2bd22ad696f788a9",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/feldwerke",
+      "name": "Feldwerke",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "04f319303b3c44bcb9eed13a8a50bcb4",
+          "name": "Solar Energy",
+          "slug": "solar-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "3505c035785c4cc78a58998189524e59",
+          "name": "Vertical Farming",
+          "slug": "vertical-farming"
+        },
+        {
+          "category": "vertical",
+          "id": "3a400a8aa0194fc89cdaebbd4d2b0d3e",
+          "name": "Agritech",
+          "slug": "agritech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "12a93dc9649762abce40d93a39cfe2f390221e753afd87ed2bd22ad696f788a9",
+    "currency": "EUR",
+    "fundingAmount": "12M",
+    "fundingAnnounceDate": "2026-05-19",
+    "id": "13012_14646",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "Switzerland",
+      "country_name": "Switzerland",
+      "description": "GR3N is a Lugano-based Swiss cleantech company, founded in 2013, that develops chemical recycling technology for PET plastics and polyester fibres. Its patented MADE (Microwave Assisted DEpolymerisation) process can recycle 100% of PET waste — including textiles, films and coloured resins that conventional mechanical recycling cannot handle — into food-grade monomers that can be reused indefinitely. The company is industrialising the technology through MODUS, a first-of-a-kind 40,000-ton/year plant in Spain.",
+      "id": "da2624f519cd6ac2f42af6ccca76f60b4aab2f9b67d8c57724d50bb1483c13b0",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/gr3n",
+      "name": "GR3N",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "7418c003979341279dedbd2846f418ee",
+          "name": "Waste Management",
+          "slug": "waste-management"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "vertical",
+          "id": "e48ead4255dd4c05b478c9030af03139",
+          "name": "Climate Tech",
+          "slug": "climate-tech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "da2624f519cd6ac2f42af6ccca76f60b4aab2f9b67d8c57724d50bb1483c13b0",
+    "currency": "EUR",
+    "fundingAmount": "15.5M",
+    "fundingAnnounceDate": "2026-06-05",
+    "id": "14241_15390",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "United Kingdom",
+      "country_name": "United Kingdom",
+      "description": "Halo Drive is a Glasgow-based startup building vehicle-aware AI for commercial fleets. Its technology pairs on-vehicle intelligence (Halo Core) with vehicle-to-everything (V2X) networking and a fleet platform, ViewPort, that connects vehicles to live energy, grid, weather, infrastructure and traffic data to coordinate movement, charging and deployment. The company targets fleet operators and OEMs with autonomy and energy-optimisation capabilities, including vehicle-to-grid use of idle assets.",
+      "id": "fb56836f3c9e1ee1cabcd25c319d5a788a14af832ffff1aaf8a877c3a2a1b8fa",
+      "industry": {
+        "id": "d15fdcd6613f4d9893bad1c011565916",
+        "name": "Transportation & Logistics",
+        "slug": "transportation-logistics"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/drivehalo",
+      "name": "Halo Drive",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "2047e21711ff4033976fa7a7ed3669f6",
+          "name": "Autonomous Vehicles",
+          "slug": "autonomous-vehicles"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "2669ec1203ae44a58b7c09d44f002636",
+          "name": "Fleet Management",
+          "slug": "fleet-management"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "fb56836f3c9e1ee1cabcd25c319d5a788a14af832ffff1aaf8a877c3a2a1b8fa",
+    "currency": "GBP",
+    "fundingAmount": "250K",
+    "fundingAnnounceDate": "2026-06-12",
+    "id": "14591_15793",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "Hygenco Green Energies is an Indian green hydrogen and green ammonia developer founded in 2020 and headquartered in Gurugram, Haryana. It builds and operates commercial-scale production assets on a Hydrogen-as-a-Service model, supplying zero-emission green molecules to hard-to-abate industrial customers; its Project Heartland in Hisar was among India's first 100% green hydrogen plants. The company is scaling a portfolio of green hydrogen and green ammonia projects, including a 1.1 million tonne-per-year green ammonia facility in Odisha.",
+      "id": "98b0eb90c350098f6964c3e8c5f85f0ca6171a99f589c5c4f113b503111cab35",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/hygenco",
+      "name": "Hygenco Green Energies",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "model",
+          "id": "8fadae05e16c4dc182cd17ec1744edab",
+          "name": "Hydrogen-as-a-Service",
+          "slug": "hydrogen-as-a-service"
+        },
+        {
+          "category": "stage",
+          "id": "da505fe2a8124821abead7e2cce35671",
+          "name": "Series C+",
+          "slug": "series-c-plus"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "98b0eb90c350098f6964c3e8c5f85f0ca6171a99f589c5c4f113b503111cab35",
+    "currency": "USD",
+    "fundingAmount": "105M",
+    "fundingAnnounceDate": "2026-06-08",
+    "id": "14305_15470",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Mesabi Metallics (an Essar Group company) is developing the first new iron ore mine and pellet plant in Minnesota in nearly 50 years. The company is constructing a 7 million metric ton per year facility to produce direct-reduction grade iron ore pellets, supporting US steel supply chain and green steel transition.",
+      "id": "e0c88823277882198ecf8d62a5712119669bf05ffc847a317672d8c0b377ae7f",
+      "industry": {
+        "id": "2440194bf8204c1b8a4e4fafe84d43ea",
+        "name": "Manufacturing & Industrial",
+        "slug": "manufacturing-industrial"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/mesabi-metallics",
+      "name": "Mesabi Metallics",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "a3e47e66f3bb4551945a52005d036ac7",
+          "name": "Mining & Metals",
+          "slug": "mining-metals"
+        },
+        {
+          "category": "vertical",
+          "id": "fd9e78ca7f3347109072b68e0ba88fbd",
+          "name": "Supply Chain",
+          "slug": "supply-chain"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "e0c88823277882198ecf8d62a5712119669bf05ffc847a317672d8c0b377ae7f",
+    "currency": "USD",
+    "fundingAmount": "520M",
+    "fundingAnnounceDate": "2026-03-31",
+    "id": "10882_12589",
+    "stage": "Debt"
+  },
+  {
+    "company": {
+      "country": "Australia",
+      "country_name": "Australia",
+      "description": "New Energy Transport (NET) is an Australian zero-emission road freight company building what it bills as the country's first vertically integrated electric trucking platform, operating electric prime movers powered by renewable energy. NET combines its own trucks, charging depots and energy procurement in-house so it can offer electric line-haul freight at diesel-equivalent cost, and is constructing Australia's largest planned heavy electric truck depot at Wilton, NSW. The company deploys modular mobile ultra-fast charging units along freight corridors to extend zero-emission haulage into regional routes.",
+      "id": "20a71609e4fe3ddda3f1cd2e74cc04340e17909ace35b54991febda36bfb1234",
+      "industry": {
+        "id": "d15fdcd6613f4d9893bad1c011565916",
+        "name": "Transportation & Logistics",
+        "slug": "transportation-logistics"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/new-energy-transport",
+      "name": "New Energy Transport",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "vertical",
+          "id": "577b156b66e54e5a88e8ce956c5ca305",
+          "name": "Freight & Shipping",
+          "slug": "freight-shipping"
+        },
+        {
+          "category": "vertical",
+          "id": "cf21929d5eeb44a0906c84a5475e4301",
+          "name": "Electric Vehicles",
+          "slug": "electric-vehicles"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "20a71609e4fe3ddda3f1cd2e74cc04340e17909ace35b54991febda36bfb1234",
+    "currency": "AUD",
+    "fundingAmount": "5M",
+    "fundingAnnounceDate": "2026-06-15",
+    "id": "14620_15827",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Israel",
+      "country_name": "Israel",
+      "description": "Phytolon is an Israeli biotech developing fermentation-derived natural food colors using engineered baker's yeast. Its first commercial pigment, Beetroot Red, received FDA approval in 2026 and targets bakery, beverage, confectionery, and supplement makers seeking clean-label alternatives to synthetic dyes. The company spans pink, red, orange, and yellow shades across the food and beverage supply chain.",
+      "id": "5648a2ad1a7cccfadfb8b43d91a46d4c6fd5b5174879cac88eca3cc481e29a4f",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/phytolon",
+      "name": "Phytolon",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "vertical",
+          "id": "89273f46cfbe49e68f64d701c979676d",
+          "name": "Consumer Goods",
+          "slug": "consumer-goods"
+        },
+        {
+          "category": "vertical",
+          "id": "b85df050bd8144e097192eb22b8fd4f5",
+          "name": "Healthtech",
+          "slug": "healthtech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "5648a2ad1a7cccfadfb8b43d91a46d4c6fd5b5174879cac88eca3cc481e29a4f",
+    "currency": "USD",
+    "fundingAmount": "23.6M",
+    "fundingAnnounceDate": "2026-05-26",
+    "id": "13397_14864",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "France",
+      "country_name": "France",
+      "description": "ROSI is a French cleantech company developing high-value photovoltaic module recycling technology that recovers silver, silicon, copper, aluminium and glass from end-of-life solar panels for the European circular-economy supply chain.",
+      "id": "a95ca8df010922943fa15651043e60f9e4ad4469f8470c0da86ccf6b078eae2b",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/rosi-solar",
+      "name": "ROSI",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "stage",
+          "id": "6058d7d031514e30afc0a93783953ae9",
+          "name": "Series B",
+          "slug": "series-b"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "vertical",
+          "id": "9ec3de5c683b4ecdbdc67235683b0380",
+          "name": "Sustainability",
+          "slug": "sustainability"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "a95ca8df010922943fa15651043e60f9e4ad4469f8470c0da86ccf6b078eae2b",
+    "currency": "EUR",
+    "fundingAmount": "20M",
+    "fundingAnnounceDate": "2026-04-29",
+    "id": "12824_14460",
+    "stage": "Series B"
+  },
+  {
+    "company": {
+      "country": "France",
+      "country_name": "France",
+      "description": "Réempro is a French circular-economy company that industrialises the reuse of building materials and professional equipment. It runs the full reuse chain — diagnosis, selective deconstruction, waste management, reconditioning and resale of second-hand materials and furniture — for construction, industry and public-sector clients across France and Belgium. About 70% of its activity is reusing building materials such as sanitaryware, bricks and technical flooring.",
+      "id": "cf3b9ad678c61bc20d9f7510185938ae28c2a132380de57dbcc4f08f6397a8bc",
+      "industry": {
+        "id": "3862cdc6b102452398823a43c9e3a314",
+        "name": "Real Estate & Construction",
+        "slug": "real-estate-construction"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/r%C3%A9empro",
+      "name": "Réempro",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "7418c003979341279dedbd2846f418ee",
+          "name": "Waste Management",
+          "slug": "waste-management"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "vertical",
+          "id": "e96097ba84494eb09b3f733e349998b1",
+          "name": "Constructiontech",
+          "slug": "constructiontech"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "cf3b9ad678c61bc20d9f7510185938ae28c2a132380de57dbcc4f08f6397a8bc",
+    "currency": "EUR",
+    "fundingAmount": "1.6M",
+    "fundingAnnounceDate": "2026-06-12",
+    "id": "14551_15770",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Shatterdome Energy is a San Francisco-based AI-driven energy trading and intelligence startup, emerging from stealth in May 2026 to build an optimization platform for battery storage assets in wholesale power markets.",
+      "id": "2ebe0598a269f3b0c2f1b899f34d1a3dc8083a8fc38f272031dd2c6c3c9dd4d2",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/shatterdome-energy",
+      "name": "Shatterdome Energy",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "51c8345d7c284abc86d7374e559bb9a1",
+          "name": "AI/ML",
+          "slug": "ai-ml"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "2ebe0598a269f3b0c2f1b899f34d1a3dc8083a8fc38f272031dd2c6c3c9dd4d2",
+    "currency": "USD",
+    "fundingAmount": "3.5M",
+    "fundingAnnounceDate": "2026-05-21",
+    "id": "13094_14732",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Switzerland",
+      "country_name": "Switzerland",
+      "description": "SolidWatts designs and manufactures solid-state Radio Frequency (RF) heating systems for industrial process heating, enabling electrification of energy-intensive industrial processes. Their platform delivers high-efficiency dielectric heating from 1 kW to megawatt-scale, targeting machine builders, integrators and end users across food processing, chemical processing and recycling. Founded in 2022 and based in Pully, Switzerland, the company emphasizes scalable power, digital process control and long service life as differentiators.",
+      "id": "d5f2db3d8fb3816856e5be6bfc08a27daadd1e187aea367a31e55b9e5681be44",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/solidwatts",
+      "name": "SolidWatts SA",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "7d348f40b8604ab399d2dacd56c8fe30",
+          "name": "Industrial Automation",
+          "slug": "industrial-automation"
+        },
+        {
+          "category": "vertical",
+          "id": "81da3a04d014403e9b3649c724e68cd7",
+          "name": "Recycling",
+          "slug": "recycling"
+        },
+        {
+          "category": "tech",
+          "id": "b92b636a548d48ac87b1bc1c67487d42",
+          "name": "Hardware",
+          "slug": "hardware"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "d5f2db3d8fb3816856e5be6bfc08a27daadd1e187aea367a31e55b9e5681be44",
+    "currency": "CHF",
+    "fundingAmount": "1.8M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10613_12284",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "India",
+      "country_name": "India",
+      "description": "StrainX Bioworks is a Bhopal-headquartered Indian biotech startup using synthetic biology and precision fermentation to manufacture alternative proteins at scale. Founded in 2023 by IIT Delhi alumni Akshay Mittal and Alok Malaviya, the company engineers microbes to produce ingredients for food, nutrition, materials and cosmetics, anchored by India-based bio-manufacturing capacity. It has secured US commercialisation approval and operates a 10,000-litre fermentation facility in Bhopal with an R&D lab in Bengaluru.",
+      "id": "1b33a6d7c62af0320516b5184cfeccdb6785ee2aa1be9ff49fa81e4f7033be82",
+      "industry": {
+        "id": "2d7678a9b8b74842bd7b5fb552bd61c4",
+        "name": "Agriculture & Food",
+        "slug": "agriculture-food"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/strainx-bio",
+      "name": "StrainX",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "stage",
+          "id": "409bddd5253b48d6895be8d0ac745e78",
+          "name": "Series A",
+          "slug": "series-a"
+        },
+        {
+          "category": "vertical",
+          "id": "60fff435f0be4beba28116b8cef51a47",
+          "name": "Foodtech",
+          "slug": "foodtech"
+        },
+        {
+          "category": "vertical",
+          "id": "e1de551a01a542aaa4cca444326c6f9e",
+          "name": "Synthetic Biology",
+          "slug": "synthetic-biology"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "1b33a6d7c62af0320516b5184cfeccdb6785ee2aa1be9ff49fa81e4f7033be82",
+    "currency": "USD",
+    "fundingAmount": "13M",
+    "fundingAnnounceDate": "2026-05-25",
+    "id": "13284_14816",
+    "stage": "Series A"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Terrestrial (formerly Vaxess Technologies) develops a temperature-stable microarray patch (MAP) platform for transdermal delivery of therapies, enabling self-administration without needles or refrigeration. Its dissolvable MAP tips and advanced biomaterials are designed to deliver next-generation therapies such as GLP-1 therapeutics with controlled dosing and comparable bioavailability to injections. Headquartered near Boston, the company is scaling manufacturing capacity to support late-stage clinical trials and commercialization.",
+      "id": "71c72b30fea3a45a6020bac792a5c75debcf9c840635778124997f6447644dc6",
+      "industry": {
+        "id": "a2814bd481a046dd8b664971614f9d6f",
+        "name": "Healthcare & Life Sciences",
+        "slug": "healthcare-life-sciences"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/terrestrial-bio",
+      "name": "Terrestrial Bio",
+      "tags": [
+        {
+          "category": "vertical",
+          "id": "05f75c20187c40158dd20f3b0ce55f98",
+          "name": "Medical Devices",
+          "slug": "medical-devices"
+        },
+        {
+          "category": "vertical",
+          "id": "066c4e2a4c1342e68d679fc5ede04b08",
+          "name": "Biotechnology",
+          "slug": "biotechnology"
+        },
+        {
+          "category": "vertical",
+          "id": "e7878d27b1324eec955f6cf1b690ea2f",
+          "name": "Clinical Trials",
+          "slug": "clinical-trials"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "71c72b30fea3a45a6020bac792a5c75debcf9c840635778124997f6447644dc6",
+    "currency": "USD",
+    "fundingAmount": "50M",
+    "fundingAnnounceDate": "2026-03-26",
+    "id": "10572_12228",
+    "stage": "Series C+"
+  },
+  {
+    "company": {
+      "country": "United States",
+      "country_name": "United States",
+      "description": "Volt Harbor is an Ann Arbor, Michigan-based deep-tech company building modular, software-defined energy storage systems for data centers and the electric grid. Its patented MAC-BESS platform, licensed from the University of Michigan, integrates batteries, power electronics, and on-board computing into a single product class that supports both new and second-life EV battery modules across commercial, industrial, and utility deployments.",
+      "id": "f44ec34d5a2771e63b5ec4183e653c2877a4eae7ce7888849024a176ec5b3135",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/volt-harbor-inc",
+      "name": "Volt Harbor",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "tech",
+          "id": "e7414c9e2d2946d89724af7781a6b436",
+          "name": "Deep Tech",
+          "slug": "deep-tech"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "f44ec34d5a2771e63b5ec4183e653c2877a4eae7ce7888849024a176ec5b3135",
+    "currency": "USD",
+    "fundingAmount": "2M",
+    "fundingAnnounceDate": "2026-05-28",
+    "id": "13586_14948",
+    "stage": "Seed"
+  },
+  {
+    "company": {
+      "country": "Germany",
+      "country_name": "Germany",
+      "description": "encosa is a Munich-based provider of battery energy storage systems (BESS) for commercial and industrial businesses, targeting Germany's energy-intensive Mittelstand. Founded in 2024, it runs an end-to-end model covering planning, financing, installation and operation, and combines behind-the-meter energy cost savings with front-of-meter energy trading and arbitrage. Customers can buy, rent or lease the systems and begin cutting electricity costs from the first month, with the investment typically paying back within 18 months to five years.",
+      "id": "2499110ebbca2df790ce8069c11eac452bb6fa6c4518fa6f042c26783c61bac2",
+      "industry": {
+        "id": "0700fe912e7440748aa06b6ad9dd9b08",
+        "name": "Energy & Sustainability",
+        "slug": "energy-sustainability"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/encosa-energy",
+      "name": "encosa",
+      "tags": [
+        {
+          "category": "stage",
+          "id": "034f68f89f174a92a59249ec83a4183a",
+          "name": "Seed",
+          "slug": "seed"
+        },
+        {
+          "category": "vertical",
+          "id": "1eded6244bcb428bb1112b38f980f63d",
+          "name": "Cleantech",
+          "slug": "cleantech"
+        },
+        {
+          "category": "vertical",
+          "id": "20fc01a49bfc442bb7a9966e5c105848",
+          "name": "Renewable Energy",
+          "slug": "renewable-energy"
+        },
+        {
+          "category": "model",
+          "id": "7fa4ea7ccfef49d58304452da7afcae2",
+          "name": "B2B",
+          "slug": "b2b"
+        },
+        {
+          "category": "vertical",
+          "id": "fcba6486e73a416993e3bef2556ab3a2",
+          "name": "Energy Storage",
+          "slug": "energy-storage"
+        }
+      ],
+      "website": null
+    },
+    "companyId": "2499110ebbca2df790ce8069c11eac452bb6fa6c4518fa6f042c26783c61bac2",
+    "currency": "EUR",
+    "fundingAmount": "25M",
+    "fundingAnnounceDate": "2026-06-01",
+    "id": "13871_15044",
+    "stage": "Seed"
+  }
+]

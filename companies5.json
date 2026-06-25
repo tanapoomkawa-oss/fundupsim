@@ -1,0 +1,482 @@
+﻿[
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Applied Atomics is a developer and operator of full-stack nuclear power plants. The company is advancing next-generation nuclear technology for energy production.",
+                        "id":  "47fe20febca05cefaad842adbfb47f368594cc81a0c983629e507719ca19efce",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/applied-atomics",
+                        "name":  "Applied Atomics",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "3d3230769cec4d2f80067a9f5e8d5493",
+                                         "name":  "Early Stage",
+                                         "slug":  "early-stage"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "e7414c9e2d2946d89724af7781a6b436",
+                                         "name":  "Deep Tech",
+                                         "slug":  "deep-tech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "47fe20febca05cefaad842adbfb47f368594cc81a0c983629e507719ca19efce",
+        "currency":  "USD",
+        "fundingAmount":  "8.3M",
+        "fundingAnnounceDate":  "2026-03-25",
+        "id":  "10522_12165",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "Japan",
+                        "country_name":  "Japan",
+                        "description":  "Tokyo-based deep-tech startup commercializing graphite thermal energy storage. Its G-TES boiler stores surplus renewable electricity as heat in graphite blocks and discharges it as hot water or steam, replacing fossil-fired industrial boilers. Founded in 2022 by ex-JAEA high-temperature gas reactor researchers; first commercial unit deployed in Takehara, Hiroshima in 2025.",
+                        "id":  "8398d91a20743de416f05ad5a4548a5a9047dcab4d189bb983578910c0ee0ed4",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/blossom-energy",
+                        "name":  "Blossom Energy",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "7d348f40b8604ab399d2dacd56c8fe30",
+                                         "name":  "Industrial Automation",
+                                         "slug":  "industrial-automation"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "e7414c9e2d2946d89724af7781a6b436",
+                                         "name":  "Deep Tech",
+                                         "slug":  "deep-tech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "fcba6486e73a416993e3bef2556ab3a2",
+                                         "name":  "Energy Storage",
+                                         "slug":  "energy-storage"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "8398d91a20743de416f05ad5a4548a5a9047dcab4d189bb983578910c0ee0ed4",
+        "currency":  "JPY",
+        "fundingAmount":  "300M",
+        "fundingAnnounceDate":  "2026-05-26",
+        "id":  "13534_14918",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United Kingdom",
+                        "country_name":  "United Kingdom",
+                        "description":  "Caudal Energy is an Oxford University spinout, formerly Porpoise Power, building bio-inspired oscillating-fin tidal generators. Its modular surface-mounted system targets mid-flow tidal sites with peak flows above 3 knots, expanding the addressable deployment footprint beyond the handful of extreme-flow locations conventional turbines require.",
+                        "id":  "70f48b776b6e8be05c2582a23b02a2351e28dff85c1464863f526146bf9bf3c8",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/porpoisepower",
+                        "name":  "Caudal Energy",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "e7414c9e2d2946d89724af7781a6b436",
+                                         "name":  "Deep Tech",
+                                         "slug":  "deep-tech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "70f48b776b6e8be05c2582a23b02a2351e28dff85c1464863f526146bf9bf3c8",
+        "currency":  "GBP",
+        "fundingAmount":  "4.3M",
+        "fundingAnnounceDate":  "2026-05-27",
+        "id":  "13452_14883",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Climate First Bancorp is the holding company for Climate First Bank, the world\u0027s first FDIC-insured, values-based, digital-forward community bank founded to combat the climate crisis. It focuses on financing renewable energy projects, especially residential solar, and offers banking products with an emphasis on sustainability and eco-conscious customers.",
+                        "id":  "IQlqYqupCQR18DfZO2Ob",
+                        "industry":  {
+                                         "id":  "76264a88c17f405983512d389c6fd7c9",
+                                         "name":  "Financial Services",
+                                         "slug":  "financial-services"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/climate-first-bank",
+                        "name":  "Climate First Bancorp",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "db1aab0420a04c39b6123538d9db3953",
+                                         "name":  "Banking",
+                                         "slug":  "banking"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "IQlqYqupCQR18DfZO2Ob",
+        "currency":  "USD",
+        "fundingAmount":  "67M",
+        "fundingAnnounceDate":  "2026-06-09",
+        "id":  "6372_15681",
+        "stage":  "Series C+"
+    },
+    {
+        "company":  {
+                        "country":  "France",
+                        "country_name":  "France",
+                        "description":  "Decade Energy is a logistics electrification and energy management company that helps fleet operators and property owners transition to electric transport. Founded by the team behind Volta Trucks, the company provides an integrated infrastructure solutionâ€”including grid connections, solar power, and battery storageâ€”under a Zero-CapEx model.",
+                        "id":  "15e752c3d212a5d511a6af121ec10c93ba4e6792916952de98eb42cc3dc09973",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/decade-energy",
+                        "name":  "Decade Energy",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "409bddd5253b48d6895be8d0ac745e78",
+                                         "name":  "Series A",
+                                         "slug":  "series-a"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "98bcec661ec74211bc6fd4ecf1b6bcd8",
+                                         "name":  "Logistics",
+                                         "slug":  "logistics"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "cf21929d5eeb44a0906c84a5475e4301",
+                                         "name":  "Electric Vehicles",
+                                         "slug":  "electric-vehicles"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "15e752c3d212a5d511a6af121ec10c93ba4e6792916952de98eb42cc3dc09973",
+        "currency":  "EUR",
+        "fundingAmount":  "22M",
+        "fundingAnnounceDate":  "2026-04-23",
+        "id":  "11643_13499",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "Sweden",
+                        "country_name":  "Sweden",
+                        "description":  "Enkei is a Stockholm-based startup that transforms construction and ceramic demolition waste into ReCeramixâ„¢, a design-grade circular material that serves as an alternative to concrete, marble, and terrazzo for interior surfaces. Founded by Lovisa Sunnerholm and Miriam Bichsel, the company reduces cement use by up to 80% compared to conventional decorative concrete and is distributed through premium design venues including Nordiska Galleriet in Stockholm and The Oblist in Paris.",
+                        "id":  "fc7b61ba8126e2724381498b890b80e345db1d59b9256f198aabdd7f4c06c709",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/enkei-world/",
+                        "name":  "Enkei",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "d81bcd961fb24950b90c0773b318fb4a",
+                                         "name":  "Environmental Services",
+                                         "slug":  "environmental-services"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e96097ba84494eb09b3f733e349998b1",
+                                         "name":  "Constructiontech",
+                                         "slug":  "constructiontech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "fc7b61ba8126e2724381498b890b80e345db1d59b9256f198aabdd7f4c06c709",
+        "currency":  "EUR",
+        "fundingAmount":  "400K",
+        "fundingAnnounceDate":  "2026-03-31",
+        "id":  "10752_12439",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "Netherlands",
+                        "country_name":  "Netherlands",
+                        "description":  "Foamlab is a Delft-based biomaterials startup developing high-performance, compostable foams made from bacterial nanocellulose as an alternative to fossil-based plastics like polystyrene. A 2024 spin-off from TU Delft\u0027s Biodesign Lab (Faculty of Industrial Design Engineering), the company uses microbial fermentation to grow foams whose mechanical, acoustic and aesthetic properties can be tuned at the nanoscale, targeting construction insulation, packaging, fashion and furniture.",
+                        "id":  "24c8cd0ae645fda58fb7ca68b982d7e918249a1fbd8b6e04884f559e8e482fa4",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/foamlab",
+                        "name":  "Foamlab",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "9ec3de5c683b4ecdbdc67235683b0380",
+                                         "name":  "Sustainability",
+                                         "slug":  "sustainability"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "24c8cd0ae645fda58fb7ca68b982d7e918249a1fbd8b6e04884f559e8e482fa4",
+        "currency":  "EUR",
+        "fundingAmount":  "3M",
+        "fundingAnnounceDate":  "2026-04-24",
+        "id":  "11676_13537",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United Kingdom",
+                        "country_name":  "United Kingdom",
+                        "description":  "Gigaton (formerly Carbon Re) is a London-based AI company, spun out of UCL and the University of Cambridge, that builds self-learning control software for energy-intensive heavy industries such as cement, steel, glass and chemicals. Rather than sitting on top of legacy systems, its platform replaces the underlying control stack, autonomously adjusting parameters like fuel mix, kiln speed and oxygen to cut energy use, emissions and process instability. It is already deployed by major cement producers including Adani Cement, Heidelberg Materials and Holcim, delivering seven-figure annual savings per plant.",
+                        "id":  "be0a2f7403cdc0cf47bd80463814cf47e57b202f788df7052b6307bd5aabbd23",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/gigaton-technologies",
+                        "name":  "Gigaton",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "409bddd5253b48d6895be8d0ac745e78",
+                                         "name":  "Series A",
+                                         "slug":  "series-a"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "7d348f40b8604ab399d2dacd56c8fe30",
+                                         "name":  "Industrial Automation",
+                                         "slug":  "industrial-automation"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "be0a2f7403cdc0cf47bd80463814cf47e57b202f788df7052b6307bd5aabbd23",
+        "currency":  "USD",
+        "fundingAmount":  "26M",
+        "fundingAnnounceDate":  "2026-06-03",
+        "id":  "14043_15153",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Helion is an Everett, Washington-based fusion energy company developing systems to generate zero-carbon electricity from nuclear fusion. Led by CEO David Kirtley, it is building toward grid-scale commercial fusion and has signed power agreements with Microsoft and steelmaker Nucor. It is among the most heavily funded private fusion developers.",
+                        "id":  "dc330de32e3173c2e6eef1a118cd70de9da3f72db9d38f056aec3482d68533dc",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/helion-energy",
+                        "name":  "Helion",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "da505fe2a8124821abead7e2cce35671",
+                                         "name":  "Series C+",
+                                         "slug":  "series-c-plus"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "fdc049bb90d9416098e59e14cd58e9b4",
+                                         "name":  "Unicorn",
+                                         "slug":  "unicorn"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "dc330de32e3173c2e6eef1a118cd70de9da3f72db9d38f056aec3482d68533dc",
+        "currency":  "USD",
+        "fundingAmount":  "465M",
+        "fundingAnnounceDate":  "2026-06-04",
+        "id":  "14127_15250",
+        "stage":  "Series C+"
+    },
+    {
+        "company":  {
+                        "country":  "Australia",
+                        "country_name":  "Australia",
+                        "description":  "Integrant is a Sydney-based Australian biotechnology company founded in 2015 that develops AI-enhanced regenerative medicine and orthopaedic surgical products for bone healing, fracture management, and cartilage regeneration. Its flagship intra-articular injection therapy targets meniscus cartilage repair as a non-invasive, disease-modifying treatment for osteoarthritis, and its proprietary machine-learning platforms are used to design biomaterials, tailor regenerative protocols to individual patients, and predict clinical outcomes. The company\u0027s biologic processing systems and orthopaedic therapies are gaining traction across the Asia-Pacific region as it prepares for a Nasdaq listing under the ticker INGT.",
+                        "id":  "2a8dbca8cc74a6719315ee9419fe8f0461c610e62333a5081714b6148cdd4972",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/integrantau",
+                        "name":  "Integrant",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "409bddd5253b48d6895be8d0ac745e78",
+                                         "name":  "Series A",
+                                         "slug":  "series-a"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "2a8dbca8cc74a6719315ee9419fe8f0461c610e62333a5081714b6148cdd4972",
+        "currency":  "AUD",
+        "fundingAmount":  "undisclosed",
+        "fundingAnnounceDate":  "2026-04-25",
+        "id":  "11719_13584",
+        "stage":  "Series A"
+    }
+]

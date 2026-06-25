@@ -1,0 +1,488 @@
+﻿[
+    {
+        "company":  {
+                        "country":  "Denmark",
+                        "country_name":  "Denmark",
+                        "description":  "Danish biotech developing an enzyme-based dietary supplement that breaks down alcohol in the stomach before it enters the bloodstream, targeting ALDH2 deficiency. Uses liposomal encapsulation to protect enzymes from stomach acid. Founded in 2020 out of student innovation hubs at UCPH and DTU, with a UK therapeutic subsidiary and initial market plans in Singapore and South Korea.",
+                        "id":  "01699a0f7e26f23ff468647f17ea20e98479581a02160dc2ea487ceb916e0598",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/alcolase",
+                        "name":  "Alcolase",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "f24da97e6a564994958b532e5a5bc48a",
+                                         "name":  "Nutrition",
+                                         "slug":  "nutrition"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "01699a0f7e26f23ff468647f17ea20e98479581a02160dc2ea487ceb916e0598",
+        "currency":  "EUR",
+        "fundingAmount":  "1.5M",
+        "fundingAnnounceDate":  "2026-05-14",
+        "id":  "12811_14446",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "Canada",
+                        "country_name":  "Canada",
+                        "description":  "Aurora Hydrogen is a Canadian clean energy company developing microwave-driven methane pyrolysis technology to produce clean hydrogen without CO2 emissions. Founded in 2021 and headquartered in Edmonton, the company targets hydrogen production for industrial decarbonization, including maritime shipping.",
+                        "id":  "a7ca735637c68c91a1e346d44de9640017bcdbd1e64175790bd469e46e2b793b",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/aurora-hydrogen",
+                        "name":  "Aurora Hydrogen",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "6b10b94e0b224269a353070ee667ccb2",
+                                         "name":  "Carbon Management",
+                                         "slug":  "carbon-management"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "a7ca735637c68c91a1e346d44de9640017bcdbd1e64175790bd469e46e2b793b",
+        "currency":  "USD",
+        "fundingAmount":  "3M",
+        "fundingAnnounceDate":  "2026-03-26",
+        "id":  "10878_12585",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "Spain",
+                        "country_name":  "Spain",
+                        "description":  "BASE4 Biosciences is a Barcelona-based biotech building a multi-omic platform that infers the biological state and age of 47 tissues from a single blood sample, combining transcriptomics, genomics and AI across more than 15,000 genes and 330 metabolic pathways. Its sex-specific models target women\u0027s health, preventive screening and pharmacotranscriptomics, with initial programs in fertility and menopause biology. The company is led by molecular biologist Dr. Jose Manuel Soria and operates between Barcelona and Riyadh, backed by over â‚¬7M of prior research funding.",
+                        "id":  "9ebe975e517b2cd84b877b1631ea783732298a3ec30463bf4cdab867d9594398",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/base4-biosciences",
+                        "name":  "BASE4 Biosciences",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "9ebe975e517b2cd84b877b1631ea783732298a3ec30463bf4cdab867d9594398",
+        "currency":  "USD",
+        "fundingAmount":  "1M",
+        "fundingAnnounceDate":  "2026-04-23",
+        "id":  "11710_13569",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "India",
+                        "country_name":  "India",
+                        "description":  "Bacancy Systems is an Ahmedabad-based startup building IP-led embedded electronics and power systems for electric vehicles and railways. The company designs and manufactures turnkey electronic control units, battery management systems, and power conversion solutions for EV and rail OEMs.",
+                        "id":  "98043d2bb324ce4e4d47e388b44e619a10309b5d506a66656322bf3dfccc91b4",
+                        "industry":  {
+                                         "id":  "2440194bf8204c1b8a4e4fafe84d43ea",
+                                         "name":  "Manufacturing \u0026 Industrial",
+                                         "slug":  "manufacturing-industrial"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/bacancy-technology/?originalSubdomain=in",
+                        "name":  "Bacancy Systems",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "c4302ab6f1fd4474804153510329e7a0",
+                                         "name":  "Electronics Manufacturing",
+                                         "slug":  "electronics-manufacturing"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "cf21929d5eeb44a0906c84a5475e4301",
+                                         "name":  "Electric Vehicles",
+                                         "slug":  "electric-vehicles"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "ef9c6b3d21804e90adb6320823fc77be",
+                                         "name":  "Embedded Systems",
+                                         "slug":  "embedded-systems"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "98043d2bb324ce4e4d47e388b44e619a10309b5d506a66656322bf3dfccc91b4",
+        "currency":  "INR",
+        "fundingAmount":  "400M",
+        "fundingAnnounceDate":  "2026-03-30",
+        "id":  "10723_12407",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "India",
+                        "country_name":  "India",
+                        "description":  "Battery Smart operates India\u0027s largest battery-as-a-service (BaaS) network, letting drivers of electric two- and three-wheelers swap depleted lithium-ion batteries for fully charged ones in minutes through a partner-led station network. Headquartered in Gurugram and founded in 2019 by Pulkit Khurana and Siddharth Sikka, the company has scaled to roughly 1,500-1,600 stations across 50+ cities and powers last-mile delivery and passenger-transport drivers across major Indian urban and semi-urban markets.",
+                        "id":  "525404c07346fcf055bb593ad1c7f1717d904b4cb89a9f293df3b60ce34ac704",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/batterysmart",
+                        "name":  "Battery Smart",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "146235949e90471495fc4182217e2d46",
+                                         "name":  "Last-Mile Delivery",
+                                         "slug":  "last-mile-delivery"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "cf21929d5eeb44a0906c84a5475e4301",
+                                         "name":  "Electric Vehicles",
+                                         "slug":  "electric-vehicles"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "fcba6486e73a416993e3bef2556ab3a2",
+                                         "name":  "Energy Storage",
+                                         "slug":  "energy-storage"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "525404c07346fcf055bb593ad1c7f1717d904b4cb89a9f293df3b60ce34ac704",
+        "currency":  "USD",
+        "fundingAmount":  "15M",
+        "fundingAnnounceDate":  "2026-04-28",
+        "id":  "11870_13746",
+        "stage":  "Debt"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Boston-based clinical-stage biotech developing precision therapies for autoimmune and inflammatory diseases. Emerged from stealth with five programs licensed from Bristol Myers Squibb, including Phase 2 lupus candidate afimetoran and novel IL-2 assets. Led by CEO Saqib Islam, who previously guided Pfizer\u0027s immunology portfolio. Focuses on precision immunology â€” targeting the right patients with the right therapy at the right time.",
+                        "id":  "fb621e6be4024aaadb1a595475f9d22a045485a5a387ddcb9f58c9ffa5dc6915",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/beelinemedicines",
+                        "name":  "Beeline Medicines",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "409bddd5253b48d6895be8d0ac745e78",
+                                         "name":  "Series A",
+                                         "slug":  "series-a"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e7878d27b1324eec955f6cf1b690ea2f",
+                                         "name":  "Clinical Trials",
+                                         "slug":  "clinical-trials"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "fb621e6be4024aaadb1a595475f9d22a045485a5a387ddcb9f58c9ffa5dc6915",
+        "currency":  "USD",
+        "fundingAmount":  "300M",
+        "fundingAnnounceDate":  "2026-04-17",
+        "id":  "11473_13335",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "China",
+                        "country_name":  "China",
+                        "description":  "Beijing Xingdong Jiyuan Technology is a Beijing-based humanoid robotics startup incubated by Tsinghua University\u0027s Institute of Interdisciplinary Information Science, focusing on the research, development, and mass production of humanoid robot hardware and software technologies.",
+                        "id":  "ShuqdkAFdMedV7yieVu3",
+                        "industry":  {
+                                         "id":  "2440194bf8204c1b8a4e4fafe84d43ea",
+                                         "name":  "Manufacturing \u0026 Industrial",
+                                         "slug":  "manufacturing-industrial"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/robotera1/",
+                        "name":  "Beijing Xingdong Jiyuan Technology Co., Ltd.",
+                        "tags":  [
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "5a4644a4ad514946b9e8e3dbd658dd26",
+                                         "name":  "Robotics",
+                                         "slug":  "robotics"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "7d348f40b8604ab399d2dacd56c8fe30",
+                                         "name":  "Industrial Automation",
+                                         "slug":  "industrial-automation"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "b92b636a548d48ac87b1bc1c67487d42",
+                                         "name":  "Hardware",
+                                         "slug":  "hardware"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "e7414c9e2d2946d89724af7781a6b436",
+                                         "name":  "Deep Tech",
+                                         "slug":  "deep-tech"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "ea189360c7574b03b78bb1d6b0286588",
+                                         "name":  "Automation",
+                                         "slug":  "automation"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "ShuqdkAFdMedV7yieVu3",
+        "currency":  "USD",
+        "fundingAmount":  "200M",
+        "fundingAnnounceDate":  "2026-04-27",
+        "id":  "6086_13717",
+        "stage":  "Series C+"
+    },
+    {
+        "company":  {
+                        "country":  "India",
+                        "country_name":  "India",
+                        "description":  "Bellatrix Aerospace is an Indian aerospace company developing in-space propulsion systems and small-satellite orbital launch vehicles. The company builds thruster technologies including microwave plasma and Hall-effect thrusters and focuses on green propellant systems and reusable nano-satellite launch vehicles. Headquartered in Bengaluru, Bellatrix targets commercial smallsat launch and in-space mobility markets with a technology-led approach; it was founded in 2015.",
+                        "id":  "1fb68dec38e80d1534f52d76a5ddb6d5b01548b1eea01e1bf388dff9a9655bcb",
+                        "industry":  {
+                                         "id":  "d2f4dacbb31a4ee090a7ccfecdbf278a",
+                                         "name":  "Aerospace \u0026 Space",
+                                         "slug":  "aerospace-space"
+                                     },
+                        "linkedin_url":  "https://in.linkedin.com/company/bellatrix-aerospace",
+                        "name":  "Bellatrix Aerospace",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "7e99f3be2a0b4b8ea6239a948f242858",
+                                         "name":  "Space Technology",
+                                         "slug":  "space-technology"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "e7414c9e2d2946d89724af7781a6b436",
+                                         "name":  "Deep Tech",
+                                         "slug":  "deep-tech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "f86c43bbfdb24ef3be10b5d470214c89",
+                                         "name":  "Satellite Services",
+                                         "slug":  "satellite-services"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "1fb68dec38e80d1534f52d76a5ddb6d5b01548b1eea01e1bf388dff9a9655bcb",
+        "currency":  "USD",
+        "fundingAmount":  "20M",
+        "fundingAnnounceDate":  "2026-03-27",
+        "id":  "10597_12383",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Beren Therapeutics is a founder-led, public-benefit biotechnology company in Thousand Oaks, California, developing cyclodextrin-based therapeutics for diseases driven by defective intracellular cholesterol trafficking. Its lead asset, adrabetadex, is a proprietary 2-hydroxypropyl-beta-cyclodextrin therapy under FDA Priority Review (PDUFA target November 17, 2026) as a potential first-in-class, disease-modifying treatment for infantile-onset Niemann-Pick disease type C. Beren is the parent company of Mandos LLC and has supported the NPC community through an Expanded Access Program since 2021.",
+                        "id":  "12583ff40847db6a8bfe2567c0925068e00359f0a73231fa47c19f304c65b1c3",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/berentx",
+                        "name":  "Beren Therapeutics",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "9e4e7b3f5c4d4494a581df5c730d36b8",
+                                         "name":  "Pharmaceuticals",
+                                         "slug":  "pharmaceuticals"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "c028a355d0f84246961c739806093fd3",
+                                         "name":  "Public Company",
+                                         "slug":  "public-company"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e7878d27b1324eec955f6cf1b690ea2f",
+                                         "name":  "Clinical Trials",
+                                         "slug":  "clinical-trials"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "12583ff40847db6a8bfe2567c0925068e00359f0a73231fa47c19f304c65b1c3",
+        "currency":  "USD",
+        "fundingAmount":  "300M",
+        "fundingAnnounceDate":  "2026-06-10",
+        "id":  "14396_15582",
+        "stage":  "Series C+"
+    },
+    {
+        "company":  {
+                        "country":  "Sweden",
+                        "country_name":  "Sweden",
+                        "description":  "Stockholm-based biotech scale-up developing laminin-based technologies that enable next-generation cell therapies for serious chronic diseases. The company\u0027s recombinant laminin products support stem cell technologies targeting conditions including type 1 diabetes, Parkinson\u0027s disease, and heart failure. Provides the critical cell culture matrices that pharmaceutical and biotech companies need to manufacture advanced therapy medicinal products (ATMPs).",
+                        "id":  "d2d7860f72e0abe61a3054c82e10fd004d8cd149638dbfeef757b8ed6b3e813a",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/biolamina-ab",
+                        "name":  "BioLamina",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e7878d27b1324eec955f6cf1b690ea2f",
+                                         "name":  "Clinical Trials",
+                                         "slug":  "clinical-trials"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "d2d7860f72e0abe61a3054c82e10fd004d8cd149638dbfeef757b8ed6b3e813a",
+        "currency":  "EUR",
+        "fundingAmount":  "20M",
+        "fundingAnnounceDate":  "2026-04-17",
+        "id":  "11481_13343",
+        "stage":  "Debt"
+    }
+]

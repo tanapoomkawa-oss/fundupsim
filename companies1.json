@@ -1,0 +1,506 @@
+﻿[
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "San Francisco Bay Area startup building frontier AI for molecular-level protein characterization across the life sciences. Spun out of Nobel laureate Carolyn Bertozzi\u0027s Stanford lab in December 2025 (Y Combinator W26), the platform combines deterministic chemistry/biology algorithms with AI agents that interpret mass spectrometry data, delivering automated, explainable characterization of biologic therapeutics in minutes rather than weeks. Initial customers include pharmaceutical and biotech partners using the tool to accelerate drug development decisions.",
+                        "id":  "b0853e3ae70d4b852c6afaa84d7270d57018c329291a387db441849f748229d1",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/10xscience",
+                        "name":  "10x Science",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "model",
+                                         "id":  "1a9359e634ce4551b9fbd4c32195862d",
+                                         "name":  "Platform",
+                                         "slug":  "platform"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "b0853e3ae70d4b852c6afaa84d7270d57018c329291a387db441849f748229d1",
+        "currency":  "USD",
+        "fundingAmount":  "4.8M",
+        "fundingAnnounceDate":  "2026-04-22",
+        "id":  "11736_13601",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "India",
+                        "country_name":  "India",
+                        "description":  "Precision oncology startup that combines genomic testing with AI-powered clinical intelligence to enable personalized cancer treatment decisions for underrepresented patient populations.",
+                        "id":  "1w7VczbeUgUgUwH5yZBh",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://in.linkedin.com/company/4basecare",
+                        "name":  "4baseCare",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "c992748dc4994982bb64043dacd97e5a",
+                                         "name":  "Genomics",
+                                         "slug":  "genomics"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "1w7VczbeUgUgUwH5yZBh",
+        "currency":  "INR",
+        "fundingAmount":  "1.3B",
+        "fundingAnnounceDate":  "2026-06-11",
+        "id":  "7898_15710",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "Switzerland",
+                        "country_name":  "Switzerland",
+                        "description":  "ALP Bio is a Swiss biotech building an immunogenicity-intelligence platform for antibody and biologics development. The Schlieren-based company combines human tonsil-derived immune organoids with generative AI to predict and reduce anti-drug antibody (ADA) risk earlier in antibody discovery, aiming to surface immunogenicity signals before clinical trials. Founded in 2025, it partners with pharma and biotech teams on lead-candidate screening, ADA risk stratification and sequence redesign.",
+                        "id":  "10d6c4f15d66e383928bda38e0218ffb37a8b91351270fc5fd1c70fbcf1f411b",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/alpbio",
+                        "name":  "ALP Bio",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "1d0dce5fd46e4997a519ae30563b48ab",
+                                         "name":  "Generative AI",
+                                         "slug":  "generative-ai"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e7878d27b1324eec955f6cf1b690ea2f",
+                                         "name":  "Clinical Trials",
+                                         "slug":  "clinical-trials"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "10d6c4f15d66e383928bda38e0218ffb37a8b91351270fc5fd1c70fbcf1f411b",
+        "currency":  "EUR",
+        "fundingAmount":  "1.9M",
+        "fundingAnnounceDate":  "2026-04-30",
+        "id":  "11956_13842",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "ARTAN Bio is a St. Petersburg, Florida longevity biotechnology company developing mutation-specific codon-suppression therapies. Its platform centers on engineered suppressor tRNA systems (lead candidate ARTAN-102) that recognize disease-causing nonsense mutations and restore normal protein translation, targeting both rare genetic diseases and aging-related conditions. The company funds its research through VitaDAO\u0027s decentralized science (IP-NFT) model.",
+                        "id":  "8c70c786b7e842bf3e8432489adf0ebf9bd40b6be40a38616a4d989a8033001d",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/artan-bio",
+                        "name":  "ARTAN Bio",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "8c70c786b7e842bf3e8432489adf0ebf9bd40b6be40a38616a4d989a8033001d",
+        "currency":  "USD",
+        "fundingAmount":  "200K",
+        "fundingAnnounceDate":  "2026-06-04",
+        "id":  "14128_15251",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Aboard is a Southern California-based startup applying automotive-grade engineering to the travel trailer category. Its first product is an extended-range electric (EREV) travel trailer that integrates energy independence, vehicle-level towing, automated comfort systems, and high-precision body manufacturing into a single platform, with configurations starting at $80,000. Founded by Jiangtao Lyu, the company is preparing for mass production and a formal public launch at Outside Days in Denver.",
+                        "id":  "ad5b5e732ed72189debf52dad800d5b610a7b63f66a4da71f1cdc66415f6b180",
+                        "industry":  {
+                                         "id":  "d15fdcd6613f4d9893bad1c011565916",
+                                         "name":  "Transportation \u0026 Logistics",
+                                         "slug":  "transportation-logistics"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/aboardrv",
+                        "name":  "Aboard",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "2047e21711ff4033976fa7a7ed3669f6",
+                                         "name":  "Autonomous Vehicles",
+                                         "slug":  "autonomous-vehicles"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "23b7ceeb950a4200bc6e4119f7167366",
+                                         "name":  "Traveltech",
+                                         "slug":  "traveltech"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "3d3230769cec4d2f80067a9f5e8d5493",
+                                         "name":  "Early Stage",
+                                         "slug":  "early-stage"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "cf21929d5eeb44a0906c84a5475e4301",
+                                         "name":  "Electric Vehicles",
+                                         "slug":  "electric-vehicles"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "ad5b5e732ed72189debf52dad800d5b610a7b63f66a4da71f1cdc66415f6b180",
+        "currency":  "USD",
+        "fundingAmount":  "13M",
+        "fundingAnnounceDate":  "2026-05-21",
+        "id":  "13104_14743",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Accelevate Solutions, based in Henderson, United States, develops AI-driven business intelligence solutions, including the world\u0027s first AI-Assistant with generative capabilities to optimize fuel usage and operational costs across various fuel types.",
+                        "id":  "c7nk0ekHxY9dsQdxkpW4",
+                        "industry":  {
+                                         "id":  "e15485f2460d4a278c8216c4ffe02d55",
+                                         "name":  "Software \u0026 Internet",
+                                         "slug":  "software-internet"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/accelevate-solutions",
+                        "name":  "Accelevate Solutions",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "0a34a0b3f0e04efa96033038b19611da",
+                                         "name":  "Data Analytics",
+                                         "slug":  "data-analytics"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "27eba046f92f48c7b39883907bbf2849",
+                                         "name":  "Real-Time Analytics",
+                                         "slug":  "real-time-analytics"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "37ad28b013784225a6a9b62193190a76",
+                                         "name":  "Business Intelligence",
+                                         "slug":  "business-intelligence"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "ef9c6b3d21804e90adb6320823fc77be",
+                                         "name":  "Embedded Systems",
+                                         "slug":  "embedded-systems"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "c7nk0ekHxY9dsQdxkpW4",
+        "currency":  "USD",
+        "fundingAmount":  "1M",
+        "fundingAnnounceDate":  "2026-06-08",
+        "id":  "2616_15433",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "China",
+                        "country_name":  "China",
+                        "description":  "Accro Bioscience (also operating as Accropeutics) is a clinical-stage biotechnology company developing oral small-molecule therapeutics for inflammatory and autoimmune diseases by targeting regulatory cell death pathways. Its lead asset AC-101, a selective RIPK2 inhibitor for moderate-to-severe ulcerative colitis, has completed Phase I and Phase Ib/IIa studies and holds U.S. FDA IND clearance for Phase II. The company is headquartered in Suzhou, China with U.S. operations.",
+                        "id":  "09a60529d845d2b92ce320dcaf473806f09ede6bf3b0e93c29759fb0aee049f5",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/accro-bioscience",
+                        "name":  "Accro Bioscience",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "9e4e7b3f5c4d4494a581df5c730d36b8",
+                                         "name":  "Pharmaceuticals",
+                                         "slug":  "pharmaceuticals"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "da505fe2a8124821abead7e2cce35671",
+                                         "name":  "Series C+",
+                                         "slug":  "series-c-plus"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e7878d27b1324eec955f6cf1b690ea2f",
+                                         "name":  "Clinical Trials",
+                                         "slug":  "clinical-trials"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "09a60529d845d2b92ce320dcaf473806f09ede6bf3b0e93c29759fb0aee049f5",
+        "currency":  "USD",
+        "fundingAmount":  "50M",
+        "fundingAnnounceDate":  "2026-05-18",
+        "id":  "12957_14580",
+        "stage":  "Series C+"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Advanced NanoTherapies (ANT) is a clinical-stage medtech company developing SirPlux Duo, a dual-drug (sirolimus and paclitaxel) drug-coated balloon built on a biodegradable nanoparticle platform for treating coronary and peripheral artery disease. The technology, exclusively licensed from Cleveland Clinic and granted FDA Breakthrough Device designation, is engineered to actively drive drug uptake into vessel-wall cells as an alternative to permanent implants such as drug-eluting stents. Based in Santa Clara, California, ANT is a T45 Labs portfolio company advancing toward U.S. pivotal trials.",
+                        "id":  "dcdf014e7430825e744ce5040388f77d91c5aa8973421edbdd99065982914c5a",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/advanced-nanotherapies",
+                        "name":  "Advanced NanoTherapies",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "6058d7d031514e30afc0a93783953ae9",
+                                         "name":  "Series B",
+                                         "slug":  "series-b"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "a58c0ce68b754275970a528b3ff84112",
+                                         "name":  "Medtech",
+                                         "slug":  "medtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e7878d27b1324eec955f6cf1b690ea2f",
+                                         "name":  "Clinical Trials",
+                                         "slug":  "clinical-trials"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "dcdf014e7430825e744ce5040388f77d91c5aa8973421edbdd99065982914c5a",
+        "currency":  "USD",
+        "fundingAmount":  "31M",
+        "fundingAnnounceDate":  "2026-06-02",
+        "id":  "14007_15138",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Aetherflux\u0027s mission is to deliver energy to planet Earth. Our work will make energy more accessible, establish American energy independence, power underdeveloped and disaster-stricken areas, and protect American warfighters. \n\nAetherflux is taking a new approach to an old idea â€“ space solar power. Our satellites will collect sunlight in Low Earth Orbit and transmit that power through infrared lasers to portable ground receivers, providing energy access where traditional delivery is expensive, challenging, or dangerous. \n\nCurrent energy systems rely on complex logistics and outdated infrastructure, making them vulnerable to natural disasters, extreme weather, and physical and cyber attacks. Aetherflux overcomes these challenges by enabling direct, on-demand, secure, and scalable 24-hour energy distribution from space. This can revolutionize energy generation and delivery, and enable new capabilities as we deliver power to remote regions, military bases, bespoke operations, and unmanned autonomous systems. \n\nBaiju Bhatt founded Aetherflux in 2024. Inspired by his fatherâ€™s career at NASA, Baiju earned his B.S. in Physics and M.S. in Mathematics at Stanford before co-founding Robinhood, now a public company that has helped over 20 million Americans access the financial system. Aetherflux raised $60 million from Index Ventures, Interlagos, Breakthrough Energy Ventures, Andreessen Horowitz, NEA, and others. \n\nThis is an ambitious mission that demands extraordinary talent. Aetherfluxâ€™s team has worked at places like SpaceX, NASA, Anduril, and the U.S. Navy, and is based in San Carlos, CA. If you\u0027re ready to solve complex technical challenges and help build the most important energy company in the world, we want to hear from you.",
+                        "id":  "RBcpLvsM0W740c7dXNys",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/aetherflux/",
+                        "name":  "Aetherflux",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "7e99f3be2a0b4b8ea6239a948f242858",
+                                         "name":  "Space Technology",
+                                         "slug":  "space-technology"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "RBcpLvsM0W740c7dXNys",
+        "currency":  "USD",
+        "fundingAmount":  "300M",
+        "fundingAnnounceDate":  "2026-03-27",
+        "id":  "1433_12394",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "Netherlands",
+                        "country_name":  "Netherlands",
+                        "description":  "Affix Labs is a Dutch green chemtech startup developing a patented water-based solubility and controlled-release system that turns traditionally oily, water-insoluble active ingredients into long-lasting, neurotoxic-free insect barriers. Its flagship product, Repeltec, is a surface insect repellent authorised in Germany, France, Austria, and Norway and is designed as a compliant alternative as EU pesticide rules tighten. The company also licenses the technology to FMCG brands, hospitality operators, and pest-control manufacturers via a \"Powered by Affix Labs\" white-label model.",
+                        "id":  "2ca4052032f79f104f64d4396b7252f9d469b8d4cf605e8a3ff69866182cfc46",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/affixlabs",
+                        "name":  "Affix Labs",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "model",
+                                         "id":  "31a637d647ba47f88782cc11ee9cbe61",
+                                         "name":  "White Label",
+                                         "slug":  "white-label"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "31feb9b099e747daa43f444edf085610",
+                                         "name":  "Chemicals",
+                                         "slug":  "chemicals"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "2ca4052032f79f104f64d4396b7252f9d469b8d4cf605e8a3ff69866182cfc46",
+        "currency":  "EUR",
+        "fundingAmount":  "1M",
+        "fundingAnnounceDate":  "2026-04-23",
+        "id":  "11668_13525",
+        "stage":  "Seed"
+    }
+]

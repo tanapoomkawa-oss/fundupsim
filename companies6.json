@@ -1,0 +1,470 @@
+﻿[
+    {
+        "company":  {
+                        "country":  "United Kingdom",
+                        "country_name":  "United Kingdom",
+                        "description":  "Ascension Earth Resources is a University of Oxford Earth Sciences spin-out (founded 2024 via Oxford University Innovation) developing geothermal-powered in-situ extraction of rare-earth elements and other critical minerals from volcanic rocks. Its approach replaces conventional surface mining with heat-plus-solvent chemistry that recovers targeted metals underground, supplying downstream markets in electric vehicles, wind turbines, and advanced defense. Based at AgileLab, Oxford University Science Park Begbroke.",
+                        "id":  "2e3d4b2283475da32866655e1811e8dffd254d46e8c9146a555be7e8cc3845f5",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/ascension-earth-resources",
+                        "name":  "Ascension Earth Resources",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "673e3f72326d4a41bdce7580c104b98e",
+                                         "name":  "Defense",
+                                         "slug":  "defense"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "9989a0fbeb814081aba32b1d1b8ab77c",
+                                         "name":  "Geothermal Energy",
+                                         "slug":  "geothermal-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "a3e47e66f3bb4551945a52005d036ac7",
+                                         "name":  "Mining \u0026 Metals",
+                                         "slug":  "mining-metals"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "cf21929d5eeb44a0906c84a5475e4301",
+                                         "name":  "Electric Vehicles",
+                                         "slug":  "electric-vehicles"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "2e3d4b2283475da32866655e1811e8dffd254d46e8c9146a555be7e8cc3845f5",
+        "currency":  "GBP",
+        "fundingAmount":  "1.7M",
+        "fundingAnnounceDate":  "2026-04-15",
+        "id":  "11419_13277",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Blue Energy develops modular nuclear power plants manufactured in existing fab yards and shipyards, using submerged light-water reactor designs to improve safety and simplify construction. The company emphasizes prefabrication and fixed-price contracting to enable predictable timelines and project finance, targeting high-density energy users such as AI data centers and industrial offtakers. Its approach focuses on passive safety features, modular scalability, and the ability to provide interim natural-gas bridge power while licensing and installing nuclear islands.",
+                        "id":  "cd609a1a4038f0523c18f7510a6aeac427cab49fa624264b097af7ea9605d15e",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/blue-energy-co",
+                        "name":  "Blue Energy",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "cd609a1a4038f0523c18f7510a6aeac427cab49fa624264b097af7ea9605d15e",
+        "currency":  "USD",
+        "fundingAmount":  "400M",
+        "fundingAnnounceDate":  "2026-03-27",
+        "id":  "10609_12598",
+        "stage":  "Debt"
+    },
+    {
+        "company":  {
+                        "country":  "Australia",
+                        "country_name":  "Australia",
+                        "description":  "Cauldron Ferm is a next-generation biomanufacturing company pioneering continuous \u0027hyper-fermentation\u0027 technology for industrial-scale, cost-competitive bioproduction. Based in Orange, New South Wales, Australia, the company keeps engineered microbes in a highly productive steady state running continuously at up to 10,000-liter scaleâ€”delivering higher yields, lower costs, and reduced resource inputs compared to traditional batch fermentation. Cauldron serves clients commercializing bio-based food ingredients, chemicals, and nutraceuticals, and operates a 30,000-liter demonstration facility. Founded in 2022, the company was named a World Economic Forum Technology Pioneer in 2025 and recognized on Fast Company\u0027s Most Innovative Companies list in 2026.",
+                        "id":  "e9e3657a47210c40b10949d8244d428f19692c2b93fe2c31257171da340d524f",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/cauldron-ferm/",
+                        "name":  "Cauldron Ferm",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "60fff435f0be4beba28116b8cef51a47",
+                                         "name":  "Foodtech",
+                                         "slug":  "foodtech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "e9e3657a47210c40b10949d8244d428f19692c2b93fe2c31257171da340d524f",
+        "currency":  "USD",
+        "fundingAmount":  "13.25M",
+        "fundingAnnounceDate":  "2026-03-24",
+        "id":  "10411_12033",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "Germany",
+                        "country_name":  "Germany",
+                        "description":  "CollimateHealth is a Munich-based medtech startup developing microbeam radiation therapy, a cancer treatment that delivers arrays of ultra-thin, micrometre-scale radiation beams to destroy tumours while sparing healthy tissue and activating an anti-tumour immune response. Spun out of nearly a decade of research at the Technical University of Munich, the company has miniaturised the beamline needed to generate microbeams down to roughly 10 square metres, an order of magnitude smaller than the stadium-scale synchrotrons traditionally required. It works with academic and clinical partners including TUM University Hospital and The Royal Marsden in London.",
+                        "id":  "96ddb773d25bfe984a366966935ce6789afadce1988878490ade24fc779bdf52",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/collimatehealth",
+                        "name":  "CollimateHealth",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "a58c0ce68b754275970a528b3ff84112",
+                                         "name":  "Medtech",
+                                         "slug":  "medtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "96ddb773d25bfe984a366966935ce6789afadce1988878490ade24fc779bdf52",
+        "currency":  "EUR",
+        "fundingAmount":  "6M",
+        "fundingAnnounceDate":  "2026-06-15",
+        "id":  "14561_15785",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "France",
+                        "country_name":  "France",
+                        "description":  "Eclipse is a Paris-based company dedicated to utility-scale battery energy storage in Europe, handling project development as well as the optimization and trading of storage assets. Its proprietary Flowstream platform buys electricity when prices are low, stores it, and resells it when demand pushes prices up, optimizing assets in real time across European electricity markets. Founded in 2023 by former Electra co-founder Augustin Derville, the roughly 20-person company also offers tolling and optimization services to third-party asset owners across France and Belgium.",
+                        "id":  "5d8bd8c8ba88fc1c3b564548756495a6ec75a05f255403b8b10fdb7e2687ea18",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/eclipse11",
+                        "name":  "Eclipse",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "409bddd5253b48d6895be8d0ac745e78",
+                                         "name":  "Series A",
+                                         "slug":  "series-a"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "fc85576291984011a02cd201b5e85aeb",
+                                         "name":  "Trading",
+                                         "slug":  "trading"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "fcba6486e73a416993e3bef2556ab3a2",
+                                         "name":  "Energy Storage",
+                                         "slug":  "energy-storage"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "5d8bd8c8ba88fc1c3b564548756495a6ec75a05f255403b8b10fdb7e2687ea18",
+        "currency":  "EUR",
+        "fundingAmount":  "20M",
+        "fundingAnnounceDate":  "2026-06-09",
+        "id":  "14496_15708",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "United Kingdom",
+                        "country_name":  "United Kingdom",
+                        "description":  "Epoch\u0027s biorecycling platform unlocks circularity for the toughest-to-recycle materials. Our AI-designed enzymes enable infinite recycling for mixed plastics and textiles at low temperatures. We produce sustainable outputs for use in apparel, automotive, packaging and more.",
+                        "id":  "fcb156d463ab673152a9ae515891b32f30a99e05e2bbaf3ad33b83d1b74e9bad",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/epochbiodesign/",
+                        "name":  "Epoch Biodesign",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "81da3a04d014403e9b3649c724e68cd7",
+                                         "name":  "Recycling",
+                                         "slug":  "recycling"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "9ec3de5c683b4ecdbdc67235683b0380",
+                                         "name":  "Sustainability",
+                                         "slug":  "sustainability"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "fcb156d463ab673152a9ae515891b32f30a99e05e2bbaf3ad33b83d1b74e9bad",
+        "currency":  "GBP",
+        "fundingAmount":  "9M",
+        "fundingAnnounceDate":  "2026-03-25",
+        "id":  "10470_12100",
+        "stage":  "Series A"
+    },
+    {
+        "company":  {
+                        "country":  "United Kingdom",
+                        "country_name":  "United Kingdom",
+                        "description":  "A Solana-based Decentralized Physical Infrastructure Network (DePIN) project building a decentralized energy grid where participants can produce, trade, and consume energy peer-to-peer.",
+                        "id":  "NU0J933YDQhbLYZXtgxa",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/fuseenergyhq",
+                        "name":  "Fuse Energy",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "e34a11aeda734d46bb6f8275bb18a2f5",
+                                         "name":  "Blockchain / Web3",
+                                         "slug":  "blockchain-web3"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "efde6f6c30b04bdc9c6def4fb38a9f2d",
+                                         "name":  "Blockchain Finance",
+                                         "slug":  "blockchain-finance"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "NU0J933YDQhbLYZXtgxa",
+        "currency":  "EUR",
+        "fundingAmount":  "25M",
+        "fundingAnnounceDate":  "2026-06-05",
+        "id":  "7127_15468",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Goshe Energy Storage is a Boulder, Colorado developer, owner, and operator of utility-scale battery energy storage systems (BESS), focused on acquiring late-stage projects and managing them through construction and commercial operations. The company targets the ERCOT Texas market, having raised over $460 million in total capital to support its first wave of grid-scale BESS assets.",
+                        "id":  "e59e089f1d59f0c252ae859b60e22f9e63476ad8d8ec4ab756d5a8957887b000",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/goshe-energy-storage",
+                        "name":  "Goshe Energy Storage",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "fcba6486e73a416993e3bef2556ab3a2",
+                                         "name":  "Energy Storage",
+                                         "slug":  "energy-storage"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "e59e089f1d59f0c252ae859b60e22f9e63476ad8d8ec4ab756d5a8957887b000",
+        "currency":  "USD",
+        "fundingAmount":  "40M",
+        "fundingAnnounceDate":  "2026-05-28",
+        "id":  "13671_14987",
+        "stage":  "Debt"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Helix Earth develops accelerated liquidâ€“gas chemistry hardware derived from NASA aerospace research to improve commercial HVAC performance, humidity management, industrial filtration, and CO2 capture. The companyâ€™s retrofit systems enable rapid liquidâ€“gas reactions to reduce energy use and lower the cost and footprint of capture equipment, targeting building owners, facility managers, and industrial operators. Headquartered in Houston, Helix Earthâ€™s technology originated from Rice University research and is positioned for manufacturing scale-up and commercial deployment.",
+                        "id":  "6bc8ca3cf83ff72b2838024dd925613e1e7fb81a567c8ced583fa6f7df993c2c",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/helixearth",
+                        "name":  "Helix Earth",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "6b10b94e0b224269a353070ee667ccb2",
+                                         "name":  "Carbon Management",
+                                         "slug":  "carbon-management"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "6bc8ca3cf83ff72b2838024dd925613e1e7fb81a567c8ced583fa6f7df993c2c",
+        "currency":  "USD",
+        "fundingAmount":  "12M",
+        "fundingAnnounceDate":  "2026-03-26",
+        "id":  "10591_12250",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "Germany",
+                        "country_name":  "Germany",
+                        "description":  "Munich-based cleantech startup building autonomous AI workers that integrate with existing renewable energy software (SCADA, maintenance, ERP, weather feeds) to handle alarms, maintenance records, compliance and routine operations on behalf of solar and wind operators. Founded in 2026 by Joseph Perrotta and Kaan Durmaz after 5,000+ interviews with European energy operators surfaced an acute operational-talent shortage; the platform currently manages over 1.8 GW of solar capacity across European portfolios.",
+                        "id":  "2f8488eab4857a8c30f48dfb56d741d857049924bbe5f79841050ad8e54102f1",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/invertix",
+                        "name":  "Invertix",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "04f319303b3c44bcb9eed13a8a50bcb4",
+                                         "name":  "Solar Energy",
+                                         "slug":  "solar-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e5faaf5f01814277a93b3f5df0574f65",
+                                         "name":  "Wind Energy",
+                                         "slug":  "wind-energy"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "2f8488eab4857a8c30f48dfb56d741d857049924bbe5f79841050ad8e54102f1",
+        "currency":  "EUR",
+        "fundingAmount":  "1.7M",
+        "fundingAnnounceDate":  "2026-05-20",
+        "id":  "13062_14688",
+        "stage":  "Seed"
+    }
+]

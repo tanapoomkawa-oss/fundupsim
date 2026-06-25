@@ -1,0 +1,476 @@
+﻿[
+    {
+        "company":  {
+                        "country":  "New Zealand",
+                        "country_name":  "New Zealand",
+                        "description":  "Alimentary Systems designs and builds Bioresource Recovery Plants that accept all bioorganic waste and convert it into value. Their circular system offsets costs through bioenergy sales, fossil-free organic fertiliser, and carbon credits from landfill emissions reductions.",
+                        "id":  "f259688680ce78a15cf386ad8be33c6d80e75561512cd92b32182c1e82edce6f",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/alimentary-systems",
+                        "name":  "Alimentary Systems",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "6b10b94e0b224269a353070ee667ccb2",
+                                         "name":  "Carbon Management",
+                                         "slug":  "carbon-management"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "7418c003979341279dedbd2846f418ee",
+                                         "name":  "Waste Management",
+                                         "slug":  "waste-management"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "f259688680ce78a15cf386ad8be33c6d80e75561512cd92b32182c1e82edce6f",
+        "currency":  "NZD",
+        "fundingAmount":  "13.2M",
+        "fundingAnnounceDate":  "2026-03-28",
+        "id":  "10635_12308",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "China",
+                        "country_name":  "China",
+                        "description":  "BioGeometry (ç™¾å¥¥å‡ ä½•) is a Beijing-based AI-native biotech building generative-AI foundation models for the life sciences â€” a \"microscopic world model\" that links protein sequence, structure and function to redesign drug discovery. Its GeoFlow model family handles de novo antibody, peptide and enzyme design, paired with an automated wet-lab platform to run a closed design-experiment-learning loop. Founded by AI4S scientist Jian Tang with Turing Award winner Yoshua Bengio as chief scientific advisor.",
+                        "id":  "258542d4136f4dedce1de26153ac5623926eae68a0ba65cce273ffde60debe98",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/biogeometry",
+                        "name":  "BioGeometry",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "1d0dce5fd46e4997a519ae30563b48ab",
+                                         "name":  "Generative AI",
+                                         "slug":  "generative-ai"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "9dfbf8955ab44345a7d0ee3771678459",
+                                         "name":  "Enterprise Software",
+                                         "slug":  "enterprise-software"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b85df050bd8144e097192eb22b8fd4f5",
+                                         "name":  "Healthtech",
+                                         "slug":  "healthtech"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "258542d4136f4dedce1de26153ac5623926eae68a0ba65cce273ffde60debe98",
+        "currency":  "CNY",
+        "fundingAmount":  "undisclosed",
+        "fundingAnnounceDate":  "2026-06-09",
+        "id":  "14536_15755",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "Canada",
+                        "country_name":  "Canada",
+                        "description":  "Carbonyx is a Vancouver-based carbon-removal startup that runs electrochemical reactors on mining, construction, and manufacturing waste rock. The process uses electricity and water to mineralize atmospheric CO2 into permanent carbonate rock while yielding industrial by-products such as silica and calcium carbonate for the cement, coatings, and glass markets. Spun out of UBC\u0027s Department of Chemistry, the company positions itself as a materials business that pays for carbon removal rather than relying on offset markets.",
+                        "id":  "c3414ecf5db77827aaafd7f4f0e0e7e9b29aaa076cea588d20517cfa7635bfd8",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/carbonyx",
+                        "name":  "Carbonyx",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "6b10b94e0b224269a353070ee667ccb2",
+                                         "name":  "Carbon Management",
+                                         "slug":  "carbon-management"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "f4d04418fefd41c8a6748af6ab7cec25",
+                                         "name":  "Materials Science",
+                                         "slug":  "materials-science"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "c3414ecf5db77827aaafd7f4f0e0e7e9b29aaa076cea588d20517cfa7635bfd8",
+        "currency":  "CAD",
+        "fundingAmount":  "1.2M",
+        "fundingAnnounceDate":  "2026-04-21",
+        "id":  "11617_13471",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "Hong Kong",
+                        "country_name":  "Hong Kong",
+                        "description":  "Clear Robotics (Clearbot) is a Hong Kong-founded maritime technology company building all-electric, AI-enabled unmanned surface vessels for critical infrastructure tasks such as waterway pollution recovery and marine surveillance. Founded in 2020, it operates a fleet of 26 autonomous, zero-emission vessels and also develops autonomous retrofit technology for existing ships. The company has expanded across Singapore, Malaysia and the Philippines and won the Pier71 Smart Port Challenge in 2024.",
+                        "id":  "1bdc2677dd31191ba43e9ced8d2cf2362cf3e1e6d7f16f24c67e5fac96aa5da6",
+                        "industry":  {
+                                         "id":  "d15fdcd6613f4d9893bad1c011565916",
+                                         "name":  "Transportation \u0026 Logistics",
+                                         "slug":  "transportation-logistics"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/clearrobotics",
+                        "name":  "Clear Robotics",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "5ee06cfef12a436b897cf83741d3db61",
+                                         "name":  "Maritime \u0026 Shipping",
+                                         "slug":  "maritime-shipping"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "c637ec3c173045ef9c99bc1b0791bc67",
+                                         "name":  "Autonomous Vessels",
+                                         "slug":  "autonomous-vessels"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "1bdc2677dd31191ba43e9ced8d2cf2362cf3e1e6d7f16f24c67e5fac96aa5da6",
+        "currency":  "USD",
+        "fundingAmount":  "1.8M",
+        "fundingAnnounceDate":  "2026-06-08",
+        "id":  "14271_15427",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "DaisyChain Energy is a Brooklyn-based cleantech startup building an AI-enabled software platform that helps commercial buildings, multifamily properties, and real estate portfolios manage electrification, decarbonization, and energy compliance. The platform integrates submetering, EV charging, solar, heat pumps, batteries, and power-quality monitoring to unlock new cashflows and operational savings from building electrification. Founded in 2024 by Alex Blumberg, Robert Currie, Amit Singh, and McGowan Southworth, the company is a participant in the Google for Startups Accelerator: AI for Energy cohort.",
+                        "id":  "5644bfc30eb42dc0bec6d8e288622efbb33452e8b30ef134885f31c167a3496a",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/daisychain-energy",
+                        "name":  "DaisyChain Energy",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "2cb57627cd5249ac8ba623ae72141f62",
+                                         "name":  "Proptech",
+                                         "slug":  "proptech"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "fcba6486e73a416993e3bef2556ab3a2",
+                                         "name":  "Energy Storage",
+                                         "slug":  "energy-storage"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "5644bfc30eb42dc0bec6d8e288622efbb33452e8b30ef134885f31c167a3496a",
+        "currency":  "USD",
+        "fundingAmount":  "5.3M",
+        "fundingAnnounceDate":  "2026-05-19",
+        "id":  "12997_14628",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "EnerVenue is a California-based energy storage company developing metal-hydrogen battery technology originally derived from NASA\u0027s nickel-hydrogen space battery chemistry. The company produces durable, lithium-free battery solutions designed for grid-scale, utility-scale, commercial, and industrial applications, with a 30-year product lifetime and resilience in extreme temperatures and harsh environments. EnerVenue\u0027s aqueous metal-hydrogen batteries target renewable energy integration, grid stabilization, and AI data center backup power, and the company is scaling manufacturing toward 1 GWh capacity at a North Carolina facility.",
+                        "id":  "2cd8522e0e3cd9d85c20959bc26753ec5bba3b95cb8eb8ecddbf36f182f3bdc0",
+                        "industry":  {
+                                         "id":  "0700fe912e7440748aa06b6ad9dd9b08",
+                                         "name":  "Energy \u0026 Sustainability",
+                                         "slug":  "energy-sustainability"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/enervenue",
+                        "name":  "EnerVenue",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "1eded6244bcb428bb1112b38f980f63d",
+                                         "name":  "Cleantech",
+                                         "slug":  "cleantech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "fcba6486e73a416993e3bef2556ab3a2",
+                                         "name":  "Energy Storage",
+                                         "slug":  "energy-storage"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "2cd8522e0e3cd9d85c20959bc26753ec5bba3b95cb8eb8ecddbf36f182f3bdc0",
+        "currency":  "USD",
+        "fundingAmount":  "300M",
+        "fundingAnnounceDate":  "2026-03-31",
+        "id":  "10782_12475",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "United States",
+                        "country_name":  "United States",
+                        "description":  "Fermeate is a precision-fermentation company applying optogenetics to dynamically control microbial gene expression in industrial bioreactors, aiming to lower the cost of fermentation-derived ingredients without retrofitting existing tanks.",
+                        "id":  "c64a1cfdbb227ebf4fdc51f8f11056183c4b7413ec1c6d1dda0c7f352d53e11b",
+                        "industry":  {
+                                         "id":  "2d7678a9b8b74842bd7b5fb552bd61c4",
+                                         "name":  "Agriculture \u0026 Food",
+                                         "slug":  "agriculture-food"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/fermeate",
+                        "name":  "Fermeate",
+                        "tags":  [
+                                     {
+                                         "category":  "stage",
+                                         "id":  "034f68f89f174a92a59249ec83a4183a",
+                                         "name":  "Seed",
+                                         "slug":  "seed"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "60fff435f0be4beba28116b8cef51a47",
+                                         "name":  "Foodtech",
+                                         "slug":  "foodtech"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "e1de551a01a542aaa4cca444326c6f9e",
+                                         "name":  "Synthetic Biology",
+                                         "slug":  "synthetic-biology"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "c64a1cfdbb227ebf4fdc51f8f11056183c4b7413ec1c6d1dda0c7f352d53e11b",
+        "currency":  "USD",
+        "fundingAmount":  "2M",
+        "fundingAnnounceDate":  "2026-04-27",
+        "id":  "11805_13673",
+        "stage":  "Seed"
+    },
+    {
+        "company":  {
+                        "country":  "United Kingdom",
+                        "country_name":  "United Kingdom",
+                        "description":  "Forest (operated by HumanForest) runs a shared electric bike service in London, which it has scaled into the world\u0027s largest shared e-bike market. Since launching in 2020, the company has grown to 1.5 million users completing roughly two million rides per month across 18 boroughs, and powers its fleet with zero-emissions energy while offering riders up to 30 free minutes of cycling daily.",
+                        "id":  "c3873a5845e8405c8a1bac15c97926ff68bdfdb6371a7b3377981ca98ba7c819",
+                        "industry":  {
+                                         "id":  "d15fdcd6613f4d9893bad1c011565916",
+                                         "name":  "Transportation \u0026 Logistics",
+                                         "slug":  "transportation-logistics"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/forestbikeapp",
+                        "name":  "Forest",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "20fc01a49bfc442bb7a9966e5c105848",
+                                         "name":  "Renewable Energy",
+                                         "slug":  "renewable-energy"
+                                     },
+                                     {
+                                         "category":  "stage",
+                                         "id":  "6058d7d031514e30afc0a93783953ae9",
+                                         "name":  "Series B",
+                                         "slug":  "series-b"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "8c7cb82efaca439b85c8d732dc931eb3",
+                                         "name":  "Micro-Mobility",
+                                         "slug":  "micro-mobility"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "c3873a5845e8405c8a1bac15c97926ff68bdfdb6371a7b3377981ca98ba7c819",
+        "currency":  "GBP",
+        "fundingAmount":  "40M",
+        "fundingAnnounceDate":  "2026-04-28",
+        "id":  "11849_13722",
+        "stage":  "Series B"
+    },
+    {
+        "company":  {
+                        "country":  "Belgium",
+                        "country_name":  "Belgium",
+                        "description":  "Full-Life Technologies is a fully integrated global radiotherapeutics company with operations in Belgium, Germany, and China. The company focuses on radiopharmaceutical research, development, production, and commercialization, aiming to deliver clinical impact for patients through innovative treatments.",
+                        "id":  "cpWcvYQVcNti0XnUlCdV",
+                        "industry":  {
+                                         "id":  "a2814bd481a046dd8b664971614f9d6f",
+                                         "name":  "Healthcare \u0026 Life Sciences",
+                                         "slug":  "healthcare-life-sciences"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/full-life-technologies",
+                        "name":  "Full-Life Technologies",
+                        "tags":  [
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "066c4e2a4c1342e68d679fc5ede04b08",
+                                         "name":  "Biotechnology",
+                                         "slug":  "biotechnology"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "9e4e7b3f5c4d4494a581df5c730d36b8",
+                                         "name":  "Pharmaceuticals",
+                                         "slug":  "pharmaceuticals"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "b2dede8cb53b4414a14b91602426e287",
+                                         "name":  "Medical Imaging",
+                                         "slug":  "medical-imaging"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "cpWcvYQVcNti0XnUlCdV",
+        "currency":  "USD",
+        "fundingAmount":  "150M",
+        "fundingAnnounceDate":  "2026-05-18",
+        "id":  "4296_14582",
+        "stage":  "Series C+"
+    },
+    {
+        "company":  {
+                        "country":  "Australia",
+                        "country_name":  "Australia",
+                        "description":  "Future Maintenance Technologies is a Brisbane-based robotics and AI startup that develops autonomous robots and drones for inspecting and repairing rail infrastructure and other large-scale assets. Its platform captures inspection data through onboard sensors and cameras, using AI to flag faults and predict maintenance requirements. The company also develops robotic systems capable of physical repairs, including replacing brake blocks on iron ore trains. Founded by five former Downer EDI executives, the company has secured contracts with Dubai Metro, Copenhagen Metro, Melbourne\u0027s high-capacity metro trains, and Lufthansa.",
+                        "id":  "e48cbb8d1bff1acd9755c524f92af4fa218b08bde29d6b3973c27c578c53879f",
+                        "industry":  {
+                                         "id":  "2440194bf8204c1b8a4e4fafe84d43ea",
+                                         "name":  "Manufacturing \u0026 Industrial",
+                                         "slug":  "manufacturing-industrial"
+                                     },
+                        "linkedin_url":  "https://www.linkedin.com/company/thinkfmt",
+                        "name":  "Future Maintenance Technologies",
+                        "tags":  [
+                                     {
+                                         "category":  "tech",
+                                         "id":  "51c8345d7c284abc86d7374e559bb9a1",
+                                         "name":  "AI/ML",
+                                         "slug":  "ai-ml"
+                                     },
+                                     {
+                                         "category":  "tech",
+                                         "id":  "5a4644a4ad514946b9e8e3dbd658dd26",
+                                         "name":  "Robotics",
+                                         "slug":  "robotics"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "7d348f40b8604ab399d2dacd56c8fe30",
+                                         "name":  "Industrial Automation",
+                                         "slug":  "industrial-automation"
+                                     },
+                                     {
+                                         "category":  "vertical",
+                                         "id":  "d32c36e5ee644c2f9ff76007daaa9d54",
+                                         "name":  "Drones \u0026 UAVs",
+                                         "slug":  "drones-uavs"
+                                     }
+                                 ],
+                        "website":  null
+                    },
+        "companyId":  "e48cbb8d1bff1acd9755c524f92af4fa218b08bde29d6b3973c27c578c53879f",
+        "currency":  "AUD",
+        "fundingAmount":  "8M",
+        "fundingAnnounceDate":  "2026-03-27",
+        "id":  "10624_12296",
+        "stage":  "Seed"
+    }
+]

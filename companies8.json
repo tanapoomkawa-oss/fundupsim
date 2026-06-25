@@ -1,0 +1,422 @@
+[
+  {
+    "id": "f001",
+    "companyId": "c001",
+    "stage": "Seed",
+    "fundingAmount": "3500000",
+    "currency": "USD",
+    "fundingAnnounceDate": "2026-06-10",
+    "company": {
+      "id": "c001",
+      "name": "CarbonVault",
+      "description": "Direct air capture systems that mineralize captured CO2 into stable carbonate aggregates for permanent geological storage.",
+      "country": "US",
+      "country_name": "United States",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/carbonvault",
+      "industry": {
+        "id": "ind_climate-tech",
+        "name": "Climate Tech",
+        "slug": "climate-tech"
+      },
+      "tags": [
+        {
+          "id": "tag_ccus",
+          "name": "CCUS",
+          "slug": "ccus",
+          "category": "sector"
+        },
+        {
+          "id": "tag_carbon-removal",
+          "name": "Carbon Removal",
+          "slug": "carbon-removal",
+          "category": "sector"
+        },
+        {
+          "id": "tag_direct-air-capture",
+          "name": "Direct Air Capture",
+          "slug": "direct-air-capture",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f002",
+    "companyId": "c002",
+    "stage": "Series A",
+    "fundingAmount": "22000000",
+    "currency": "USD",
+    "fundingAnnounceDate": "2026-06-08",
+    "company": {
+      "id": "c002",
+      "name": "Helios Fields",
+      "description": "Develops, builds, and operates utility-scale solar photovoltaic farms and rooftop C&I solar across Southeast Asia.",
+      "country": "SG",
+      "country_name": "Singapore",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/heliosfields",
+      "industry": {
+        "id": "ind_renewable-energy",
+        "name": "Renewable Energy",
+        "slug": "renewable-energy"
+      },
+      "tags": [
+        {
+          "id": "tag_solar",
+          "name": "Solar",
+          "slug": "solar",
+          "category": "sector"
+        },
+        {
+          "id": "tag_photovoltaic",
+          "name": "Photovoltaic",
+          "slug": "photovoltaic",
+          "category": "sector"
+        },
+        {
+          "id": "tag_energy-generation",
+          "name": "Energy Generation",
+          "slug": "energy-generation",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f003",
+    "companyId": "c003",
+    "stage": "Seed",
+    "fundingAmount": "8000000",
+    "currency": "USD",
+    "fundingAnnounceDate": "2026-05-30",
+    "company": {
+      "id": "c003",
+      "name": "AtomCore Reactors",
+      "description": "Designs factory-manufactured small modular nuclear fission reactors providing clean baseload power for industrial sites.",
+      "country": "US",
+      "country_name": "United States",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/atomcore",
+      "industry": {
+        "id": "ind_nuclear",
+        "name": "Nuclear",
+        "slug": "nuclear"
+      },
+      "tags": [
+        {
+          "id": "tag_nuclear",
+          "name": "Nuclear",
+          "slug": "nuclear",
+          "category": "sector"
+        },
+        {
+          "id": "tag_smr",
+          "name": "SMR",
+          "slug": "smr",
+          "category": "sector"
+        },
+        {
+          "id": "tag_clean-energy",
+          "name": "Clean Energy",
+          "slug": "clean-energy",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f004",
+    "companyId": "c004",
+    "stage": "Series A",
+    "fundingAmount": "15000000",
+    "currency": "BRL",
+    "fundingAnnounceDate": "2026-05-22",
+    "company": {
+      "id": "c004",
+      "name": "VinaFuel",
+      "description": "Second-generation biorefinery converting sugarcane vinasse into bioethanol and biogas, valorizing distillery waste streams.",
+      "country": "BR",
+      "country_name": "Brazil",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/vinafuel",
+      "industry": {
+        "id": "ind_biofuels",
+        "name": "Biofuels",
+        "slug": "biofuels"
+      },
+      "tags": [
+        {
+          "id": "tag_vinasse",
+          "name": "Vinasse",
+          "slug": "vinasse",
+          "category": "sector"
+        },
+        {
+          "id": "tag_biofuel",
+          "name": "Biofuel",
+          "slug": "biofuel",
+          "category": "sector"
+        },
+        {
+          "id": "tag_biorefinery",
+          "name": "Biorefinery",
+          "slug": "biorefinery",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f005",
+    "companyId": "c005",
+    "stage": "Seed",
+    "fundingAmount": "6200000",
+    "currency": "EUR",
+    "fundingAnnounceDate": "2026-06-14",
+    "company": {
+      "id": "c005",
+      "name": "GridSense",
+      "description": "AI platform for distributed energy resource management, virtual power plants, smart metering, and real-time grid balancing.",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/gridsense",
+      "industry": {
+        "id": "ind_energy-software",
+        "name": "Energy Software",
+        "slug": "energy-software"
+      },
+      "tags": [
+        {
+          "id": "tag_smart-grid",
+          "name": "Smart Grid",
+          "slug": "smart-grid",
+          "category": "sector"
+        },
+        {
+          "id": "tag_der",
+          "name": "DER",
+          "slug": "der",
+          "category": "sector"
+        },
+        {
+          "id": "tag_vpp",
+          "name": "VPP",
+          "slug": "vpp",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f006",
+    "companyId": "c006",
+    "stage": "Pre-Series A",
+    "fundingAmount": "4100000",
+    "currency": "USD",
+    "fundingAnnounceDate": "2026-04-18",
+    "company": {
+      "id": "c006",
+      "name": "MineralCarb",
+      "description": "Electrochemical CO2-to-carbonate mineralization that converts captured industrial CO2 into construction-grade minerals.",
+      "country": "CA",
+      "country_name": "Canada",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/mineralcarb",
+      "industry": {
+        "id": "ind_climate-tech",
+        "name": "Climate Tech",
+        "slug": "climate-tech"
+      },
+      "tags": [
+        {
+          "id": "tag_ccus",
+          "name": "CCUS",
+          "slug": "ccus",
+          "category": "sector"
+        },
+        {
+          "id": "tag_co2-utilization",
+          "name": "CO2 Utilization",
+          "slug": "co2-utilization",
+          "category": "sector"
+        },
+        {
+          "id": "tag_mineralization",
+          "name": "Mineralization",
+          "slug": "mineralization",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f007",
+    "companyId": "c007",
+    "stage": "Series B",
+    "fundingAmount": "40000000",
+    "currency": "USD",
+    "fundingAnnounceDate": "2026-06-02",
+    "company": {
+      "id": "c007",
+      "name": "NeuroGen Bio",
+      "description": "Develops mRNA-based therapeutics targeting autoimmune and inflammatory diseases.",
+      "country": "US",
+      "country_name": "United States",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/neurogenbio",
+      "industry": {
+        "id": "ind_biotechnology",
+        "name": "Biotechnology",
+        "slug": "biotechnology"
+      },
+      "tags": [
+        {
+          "id": "tag_biotech",
+          "name": "Biotech",
+          "slug": "biotech",
+          "category": "sector"
+        },
+        {
+          "id": "tag_therapeutics",
+          "name": "Therapeutics",
+          "slug": "therapeutics",
+          "category": "sector"
+        },
+        {
+          "id": "tag_mrna",
+          "name": "mRNA",
+          "slug": "mrna",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f008",
+    "companyId": "c008",
+    "stage": "Series A",
+    "fundingAmount": "18000000",
+    "currency": "DE",
+    "fundingAnnounceDate": "2026-05-12",
+    "company": {
+      "id": "c008",
+      "name": "WarehouseBots",
+      "description": "Autonomous mobile robots for warehouse fulfillment, picking, and intralogistics automation.",
+      "country": "DE",
+      "country_name": "Germany",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/warehousebots",
+      "industry": {
+        "id": "ind_robotics",
+        "name": "Robotics",
+        "slug": "robotics"
+      },
+      "tags": [
+        {
+          "id": "tag_robotics",
+          "name": "Robotics",
+          "slug": "robotics",
+          "category": "sector"
+        },
+        {
+          "id": "tag_automation",
+          "name": "Automation",
+          "slug": "automation",
+          "category": "sector"
+        },
+        {
+          "id": "tag_logistics",
+          "name": "Logistics",
+          "slug": "logistics",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f009",
+    "companyId": "c009",
+    "stage": "Series A",
+    "fundingAmount": "30000000",
+    "currency": "USD",
+    "fundingAnnounceDate": "2026-05-28",
+    "company": {
+      "id": "c009",
+      "name": "VoltCell",
+      "description": "Long-duration iron-air battery systems for utility-scale energy storage and grid firming.",
+      "country": "US",
+      "country_name": "United States",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/voltcell",
+      "industry": {
+        "id": "ind_energy-storage",
+        "name": "Energy Storage",
+        "slug": "energy-storage"
+      },
+      "tags": [
+        {
+          "id": "tag_energy-storage",
+          "name": "Energy Storage",
+          "slug": "energy-storage",
+          "category": "sector"
+        },
+        {
+          "id": "tag_batteries",
+          "name": "Batteries",
+          "slug": "batteries",
+          "category": "sector"
+        },
+        {
+          "id": "tag_long-duration",
+          "name": "Long Duration",
+          "slug": "long-duration",
+          "category": "sector"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f010",
+    "companyId": "c010",
+    "stage": "Seed",
+    "fundingAmount": "5000000",
+    "currency": "GBP",
+    "fundingAnnounceDate": "2026-06-05",
+    "company": {
+      "id": "c010",
+      "name": "HydroGenix",
+      "description": "Green hydrogen production via PEM electrolysis for hard-to-abate industrial decarbonization.",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "website": null,
+      "linkedin_url": "https://linkedin.com/company/hydrogenix",
+      "industry": {
+        "id": "ind_hydrogen",
+        "name": "Hydrogen",
+        "slug": "hydrogen"
+      },
+      "tags": [
+        {
+          "id": "tag_hydrogen",
+          "name": "Hydrogen",
+          "slug": "hydrogen",
+          "category": "sector"
+        },
+        {
+          "id": "tag_electrolysis",
+          "name": "Electrolysis",
+          "slug": "electrolysis",
+          "category": "sector"
+        },
+        {
+          "id": "tag_decarbonization",
+          "name": "Decarbonization",
+          "slug": "decarbonization",
+          "category": "sector"
+        }
+      ]
+    }
+  }
+]
